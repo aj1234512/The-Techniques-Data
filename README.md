@@ -1,4 +1,4 @@
-# The-Techniques-Database
+# The-Techniques-Data
 Combat related information for the following games:
 - Yo-kai Watch 1
 - Yo-kai Watch 2 (all versions)
