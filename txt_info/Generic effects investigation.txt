@@ -1,0 +1,268 @@
+Generic effects investigation:
+
+All effects (Target related):
+	Value6 (Objective)  (Int) (1 : Enemy, 2 : Ally, 3 : Itself)
+	Value7  (NºTargets) (Int) (1 : Unitarget, 2 : Multitarget)
+	(Other combinations):
+	Value6,Value7 = 2,4: All allies (non active included)
+	Value6,Value7 = 4,1: Itself
+	Value6,Value7 = 4,2: All active allies
+	Value6,Value7 = 5,5 : All active yokais
+
+
+Effect_1:
+	Effect = STR based attack 
+	ID = 0x7E496729
+	Values:2,3,4,5 = Always 0 (Floats)
+	Value0 (Crit chance increase?) (Float)
+	Value1 (Precision multiplier?) (Float)
+
+
+
+Effect_2:
+	Effect = SPR based attack 
+	ID = 0x094E57BF
+	Values:0,1,2,3,4,5 = Always 0 (Floats)
+
+
+
+Effect_4:
+	Effect = Recoil damage
+	ID = 0xE7403693
+	Values:1,2,3,4,5 = Always 0 (Floats)
+	Value0 (Recoil %) (Float)
+
+
+
+Effect_6:
+	Effect = The objective loses a set % of his total HP (Used mainly in explosive soultimates to dealth damage to the user):
+	ID = 0x0E2393A6
+	Values:3,4,5 = Always 0 (Floats)
+	Value0 (% of the total HP lost) (Float)
+	Value1 (Float) (Almost always 0, 1 in an unknown command)
+	Value2 (Float) (Almost always 0, 1 in an unknown command)
+
+
+
+Effect_7:
+	Effect = The objective loses a set amount of HP:
+	ID = 0x972AC21C
+	Values:1,2,3,4,5 = Always 0 (Floats)
+	Value0 (Amount of HP lost) (Float)
+
+
+
+Effect_10:
+	Effect = SPR based heal 
+	ID = 0x66903C5F
+	Values:0,1,2,3,4,5 = Always 0 (Floats)
+
+
+
+Effect_11:
+	Effect = Heals the target a set percentage of % his total HP
+	ID = 0x11970CC9
+	Values:1,2,3,4,5 = Always 0 (Floats)
+	Value0 (% of the total HP healed) (Float)
+
+
+Effect_12:
+	Effect = Drain heal 
+	ID = 0x889E5D73
+	Values:1,2,3,4,5 = Always 0 (Floats)
+	Value0 (% of the damage drain) (Float)
+
+
+
+Effect_16:
+	Effect = Negative inspirit; Loafing effect
+	ID = 0x64D68206
+	Values:0,2,3,5 = Always 0 (Floats)
+	Value1 (Tier) (Float) 
+	Value4 (Precision multiplier; only taken into account if is diferent from 0) (Float) 
+
+
+
+Effect_17:
+	Effect = Negative inspirit; Confusion effect
+	ID = 0x13D1B290
+	Values:0,2,3,5 = Always 0 (Floats)
+	Value1 (Tier) (Float) 
+	Value4 (Precision multiplier; only taken into account if is diferent from 0) (Float) 
+
+
+
+Effect_18:
+	Effect: Negative inspirit; Dropping money effect
+	ID = 0x8AD8E32A
+	Values:0,2,3,4,5 = Always 0 (Floats)
+	Value1 (Tier) (Float)
+
+
+
+Effect_19:
+	Effect = Negative inspirit; Poison effect
+	ID = 0xFDDFD3BC
+	Values:0,2,3,5 = Always 0 (Floats)
+	Value1 (Tier) (Float) 
+	Value4 (Precision multiplier; only taken into account if is diferent from 0) (Float) 
+
+
+Effect_20:
+	Effect = Positive inspirit; Passive healing effect
+	ID = 0x62792C28
+	Values:0,2,3,4,5 = Always 0 (Floats)
+	Value1 (Tier) (Float) 
+
+
+
+Effect_21:
+	Effect: Negative inspirit; STR debuff
+	ID = 0x605BFEB4
+	Values:0,2,3,5 = Always 0 (Floats)
+	Value1 (Tier) (Float) 
+	Value4 (Precision multiplier; only taken into account if is diferent from 0) (Float) 
+
+
+
+Effect_22:
+	Effect = Negative inspirit; SPR debuff
+	ID = 0x175CCE22
+	Values:0,2,3,5 = Always 0 (Floats)
+	Value1 (Tier) (Float) 
+	Value4 (Precision multiplier; only taken into account if is diferent from 0) (Float) 
+
+
+
+Effect_23:
+	Effect = Negative inspirit; DEF debuff
+	ID = 0x8E559F98
+	Values:0,2,3,5 = Always 0 (Floats)
+	Value1 (Tier) (Float) 
+	Value4 (Precision multiplier; only taken into account if is diferent from 0) (Float) 
+
+
+	
+
+Effect_24:
+	Effect = Negative inspirit; SPD debuff
+	ID = 0xF952AF0E
+	Values:0,2,3,5 = Always 0 (Floats)
+	Value1 (Tier) (Float) 
+	Value4 (Precision multiplier; only taken into account if is diferent from 0) (Float) 
+
+
+
+Effect_25:
+	Effect = Negative inspirit;  All stats debuff
+	ID = 0x67363AAD
+	Values:0,2,3,5 = Always 0 (Floats)
+	Value1 (Tier) (Float) 
+	Value4 (Precision multiplier; only taken into account if is diferent from 0) (Float) 
+
+	
+
+Effect_26:
+	Effect = Positive inspirit; STR buff
+	ID = 0x61999483
+	Values:3,4,5 = Always 0 (Floats) 
+	Value0 (Float) (Unknown)
+	Value1 (Tier) (Float)
+	Value2 (Float) (Unknown)
+
+
+
+Effect_27:
+	Effect: Positive inspirit; SPR buff
+	ID = 0x169EA415
+	Values:3,4,5 = Always 0 (Floats) 
+	Value0 (Float) (Unknown)
+	Value1 (Tier) (Float)
+	Value2 (Float) (Unknown)
+
+
+
+Effect_28_:
+	Effect: Positive inspirit; DEF buff
+	ID = 0x169EA415
+	Values:3,4,5 = Always 0 (Floats) 
+	Value0 (Float) (Unknown)
+	Value1 (Tier) (Float)
+	Value2 (Float) (Unknown)
+
+
+
+Effect_29:
+	Effect = Positive inspirit; SPD buff
+	ID = 0xF890C539
+	Values:3,4,5 = Always 0 (Floats) 
+	Value0 (Float) (Unknown)
+	Value1 (Tier) (Float)
+	Value2 (Float) (Unknown)
+
+
+
+Effect_30:
+	Effect = Positive inspirit; All stats buff
+	ID = 0x66F4509A
+	Values:2,3,4,5 = Always 0 (Floats)
+	Value0 (Float) (Value1 = 0 almost always; Value1 = -1 in Cursed Skill (Snee/Damona etc skills))) 
+	Value1 (Tier) (Float) 
+
+
+
+Effect_31:
+	Effect = Positive inspirit; Taunt effect
+	ID = 0x63DF2ADA
+	Values:0,2,3,4,5 = Always 0 (Floats)
+	Value1 (Float) (Unknown) (Value1 = 0 almost always; different in So-Sorre/Bowminos/Jumbelina/Spoilarina inspirits)
+
+
+
+Effect_32:
+	Effect = Positive inspirit; Stealth effect
+	ID = 0x14D81A4C
+	Values:0,2,3,4,5 = Always 0 (Floats)
+	Value1 (Float)  (Unknown) (Value1 = 0 almost always; Value1 = 1 in Fallian's inspirit (Lying Saucer)) 
+
+
+
+Effect_34:
+	Effect = Revive defeated targets at a set % of their total HP
+	ID = 0x621D40ED
+	Values:2,3,4,5 =Always 0 (Floats)	
+	Value0 = Always 100 (Precision?) (Float)
+	Value1 (revived %) (Float)
+
+	
+
+*Check this one*
+Effect_35:
+	Effect = ??? (Related to soultimates that remove positive inspirits)
+	ID = 0x151A707B
+	Values:1,2,3,4,5 = Always 0 (Floats)
+	Value0 = Always 100 (?) (Float)
+
+	
+
+Effect_37:
+	Effect = Removes negatives inspirits from the target
+	ID = 0x1F6AB4A8
+	Values:0,1,2,3,4,5 = Always 0 (Floats)
+
+
+
+Effect_39:
+	Effect = Removes positive inspirits from the target, cannot miss
+	ID = 0x151A707B
+	Values:0,1,2,3,4,5 = Always 0 (Floats)
+
+	
+
+Effect_71:
+	Effect = Random battle command (Unknown chances, probably equiprobable)
+	ID = 0xDD52A865
+	Values:4,5 = Always 0 (Floats)
+	Values:0,1,2,3 (IDs of the possible outputs) (Int)
+
+	
