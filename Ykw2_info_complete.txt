@@ -221,7 +221,7 @@ Attack:Pesky Poke
 Technique:Hail
 -Attacks an enemy, scales with SPR (Ice) (Power:20-90)
 Inspirit: Freshen Up
--An ally recovers HP in their turns (Tier:1)
+-An ally recover/s HP in their turns (Tier:1)
 
 Brushido
 Medallium Nº: 7
@@ -257,7 +257,7 @@ Attack:Spraygun
 Technique:Frost
 -Attacks an enemy, scales with SPR (Ice) (Power:50-110)
 Inspirit: Spruce Up
--An ally recovers HP in their turns (Tier:1)
+-An ally recover/s HP in their turns (Tier:1)
 
 Washogun
 Medallium Nº: 8
@@ -787,7 +787,7 @@ Attack:Power Punch
 Technique:Rockslide
 -Attacks an enemy, scales with SPR (Earth) (Power:50-110)
 Inspirit: Sucking Mud
--An enemy loses HP in their turns (Tier:2)
+-An enemy lose/s HP in their turns (Tier:2)
 
 Mudmunch
 Medallium Nº: 22
@@ -1417,7 +1417,7 @@ Technique:Reaper
 -Attacks an enemy, scales with SPR (Drain) (Power:80-120)
 -Heals the user a 25.0%  of the damage dealt
 Inspirit: Maulnutrition
--An enemy loses HP in their turns (Tier:3)
+-An enemy lose/s HP in their turns (Tier:3)
 
 Devourer
 Medallium Nº: 39
@@ -2289,7 +2289,7 @@ Attack:One-Two Punch
 Technique:Voltage
 -Attacks an enemy, scales with SPR (Lightning) (Power:80-120)
 Inspirit: Electrocute
--An enemy loses HP in their turns (Tier:2)
+-An enemy lose/s HP in their turns (Tier:2)
 
 Statiking
 Medallium Nº: 65
@@ -2323,7 +2323,7 @@ Attack:Beat
 Technique:Voltage
 -Attacks an enemy, scales with SPR (Lightning) (Power:80-120)
 Inspirit: Hot Pot
--An ally recovers HP in their turns (Tier:3)
+-An ally recover/s HP in their turns (Tier:3)
 
 Master Oden
 Medallium Nº: 66
@@ -2703,7 +2703,7 @@ Attack:Smack Down
 Technique:Restore
 -Heals an ally, scales with SPR (Power:50-110) 
 Inspirit: At Your Service
--An ally recovers HP in their turns (Tier:2)
+-An ally recover/s HP in their turns (Tier:2)
 
 Verygoodsir
 Medallium Nº: 77
@@ -2769,7 +2769,7 @@ Attack:Nasty Kick
 Technique:Incinerate
 -Attacks an enemy, scales with SPR (Fire) (Power:80-120)
 Inspirit: Burn
--An enemy loses HP in their turns (Tier:2)
+-An enemy lose/s HP in their turns (Tier:2)
 
 Flengu
 Medallium Nº: 79
@@ -2802,7 +2802,7 @@ Attack:Tail Slap
 Technique:Incinerate
 -Attacks an enemy, scales with SPR (Fire) (Power:80-120)
 Inspirit: Burn
--An enemy loses HP in their turns (Tier:1)
+-An enemy lose/s HP in their turns (Tier:1)
 
 Kyubi
 Medallium Nº: 80
@@ -3537,7 +3537,7 @@ Attack:Palm Strike
 Technique:Torrent
 -Attacks an enemy, scales with SPR (Water) (Power:20-90)
 Inspirit: Needle Poke
--An enemy loses HP in their turns (Tier:1)
+-An enemy lose/s HP in their turns (Tier:1)
 
 Blowkade
 Medallium Nº: 100
@@ -3571,7 +3571,7 @@ Attack:Palm Strike
 Technique:Torrent
 -Attacks an enemy, scales with SPR (Water) (Power:20-90)
 Inspirit: Big Needle Poke
--An enemy loses HP in their turns (Tier:2)
+-An enemy lose/s HP in their turns (Tier:2)
 
 Ledballoon
 Medallium Nº: 101
@@ -3770,7 +3770,7 @@ Attack:Squish
 Technique:Blaze
 -Attacks an enemy, scales with SPR (Fire) (Power:50-110)
 Inspirit: Sweat It Out
--An enemy loses HP in their turns (Tier:1)
+-An enemy lose/s HP in their turns (Tier:1)
 
 Swelton
 Medallium Nº: 107
@@ -3838,7 +3838,7 @@ Attack:Palm Strike
 Technique:Shock
 -Attacks an enemy, scales with SPR (Lightning) (Power:20-90)
 Inspirit: Volcanic Blessing
--An ally recovers HP in their turns (Tier:1)
+-An ally recover/s HP in their turns (Tier:1)
 
 Lava Lord
 Medallium Nº: 109
@@ -4240,7 +4240,7 @@ Attack:Steamroll
 Technique:Rockslide
 -Attacks an enemy, scales with SPR (Earth) (Power:50-110)
 Inspirit: Earth Healing
--An ally recovers HP in their turns (Tier:1)
+-An ally recover/s HP in their turns (Tier:1)
 
 Dromp
 Medallium Nº: 119
@@ -4881,7 +4881,7 @@ Attack:Ventilator
 Technique:Tornado
 -Attacks an enemy, scales with SPR (Wind) (Power:50-110)
 Inspirit: Needle Poke
--An enemy loses HP in their turns (Tier:1)
+-An enemy lose/s HP in their turns (Tier:1)
 
 Thornyan
 Medallium Nº: 136
@@ -5146,7 +5146,7 @@ Attack:Punch
 Technique:Blaze
 -Attacks an enemy, scales with SPR (Fire) (Power:50-110)
 Inspirit: Burn
--An enemy loses HP in their turns (Tier:1)
+-An enemy lose/s HP in their turns (Tier:1)
 
 Komasan
 Medallium Nº: 142
@@ -5179,7 +5179,7 @@ Attack:Power Punch
 Technique:Incinerate
 -Attacks an enemy, scales with SPR (Fire) (Power:80-120)
 Inspirit: Burn
--An enemy loses HP in their turns (Tier:2)
+-An enemy lose/s HP in their turns (Tier:2)
 
 Komane
 Medallium Nº: 143
@@ -5413,12 +5413,12 @@ Technique:Drain
 -Attacks an enemy, scales with SPR (Drain) (Power:50-110)
 -Heals the user a 25.0%  of the damage dealt
 Inspirit: Sweet Dreams
--An ally recovers HP in their turns (Tier:1)
+-An ally recover/s HP in their turns (Tier:1)
 
 Whapir (Bony Spirits)
 Medallium Nº: 148
 Soultimate: Daydream (Lv1 Charge:150 Lv10 Charge:105)
--All active allies recovers HP in their turns (Tier:1)
+-All active allies recover/s HP in their turns (Tier:1)
 
 
 Whapir (Fleshy Souls)(Rare) 
@@ -5447,12 +5447,12 @@ Technique:Drain
 -Attacks an enemy, scales with SPR (Drain) (Power:50-110)
 -Heals the user a 25.0%  of the damage dealt
 Inspirit: Sweet Dreams
--An ally recovers HP in their turns (Tier:1)
+-An ally recover/s HP in their turns (Tier:1)
 
 Whapir (Fleshy Souls)(Rare)
 Medallium Nº: 148
 Soultimate: Daydream (Lv1 Charge:150 Lv10 Charge:105)
--All active allies recovers HP in their turns (Tier:1)
+-All active allies recover/s HP in their turns (Tier:1)
 
 
 Drizzelda 
@@ -5546,7 +5546,7 @@ Attack:Bite
 Technique:Restore
 -Heals an ally, scales with SPR (Power:50-110) 
 Inspirit: Skip a Beat
--An ally recovers HP in their turns (Tier:2)
+-An ally recover/s HP in their turns (Tier:2)
 
 Shmoopie
 Medallium Nº: 151
@@ -5579,7 +5579,7 @@ Attack:Beat
 Technique:Paradise
 -Heals an ally, scales with SPR (Power:80-120) 
 Inspirit: Skip a Beat
--An ally recovers HP in their turns (Tier:2)
+-An ally recover/s HP in their turns (Tier:2)
 
 Pinkipoo
 Medallium Nº: 152
@@ -5912,7 +5912,7 @@ Attack:Slap
 Technique:Rockslide
 -Attacks an enemy, scales with SPR (Earth) (Power:50-110)
 Inspirit: Gluttony
--An enemy loses HP in their turns (Tier:2)
+-An enemy lose/s HP in their turns (Tier:2)
 
 Grubsnitch
 Medallium Nº: 162
@@ -5984,7 +5984,7 @@ Inspirit: Dance Party
 Kelpacabana
 Medallium Nº: 164
 Soultimate: Seaweed Carnival (Lv1 Charge:150 Lv10 Charge:105)
--All active allies recovers HP in their turns (Tier:3)
+-All active allies recover/s HP in their turns (Tier:3)
 
 
 Steppa 
@@ -6050,7 +6050,7 @@ Inspirit: Slippery Mekabu
 Rhyth
 Medallium Nº: 166
 Soultimate: Seaweed Samba (Lv1 Charge:100 Lv10 Charge:75)
--All active allies recovers HP in their turns (Tier:2)
+-All active allies recover/s HP in their turns (Tier:2)
 
 
 Hungramps (Fleshy Souls) 
@@ -6212,7 +6212,7 @@ Attack:Headsmack
 Technique:Restore
 -Heals an ally, scales with SPR (Power:50-110) 
 Inspirit: Rice's Kindness
--An ally recovers HP in their turns (Tier:1)
+-An ally recover/s HP in their turns (Tier:1)
 
 Grainpa
 Medallium Nº: 169
@@ -6245,7 +6245,7 @@ Attack:Slurp
 Technique:Heal
 -Heals an ally, scales with SPR (Power:20-90) 
 Inspirit: Lick Your Wounds
--An ally recovers HP in their turns (Tier:1)
+-An ally recover/s HP in their turns (Tier:1)
 
 Tongus
 Medallium Nº: 170
@@ -6278,7 +6278,7 @@ Attack:Slurp
 Technique:Paradise
 -Heals an ally, scales with SPR (Power:80-120) 
 Inspirit: Lick Your Wounds
--An ally recovers HP in their turns (Tier:2)
+-An ally recover/s HP in their turns (Tier:2)
 
 Nurse Tongus
 Medallium Nº: 171
@@ -6577,7 +6577,7 @@ Attack:Flip Kick
 Technique:Torrent
 -Attacks an enemy, scales with SPR (Water) (Power:20-90)
 Inspirit: Optimism
--An ally recovers HP in their turns (Tier:1)
+-An ally recover/s HP in their turns (Tier:1)
 
 Chippa
 Medallium Nº: 178
@@ -6611,12 +6611,12 @@ Attack:Hit
 Technique:Heal
 -Heals an ally, scales with SPR (Power:20-90) 
 Inspirit: Chin Up
--An ally recovers HP in their turns (Tier:1)
+-An ally recover/s HP in their turns (Tier:1)
 
 Gnomey
 Medallium Nº: 179
 Soultimate: Innocent World (Lv1 Charge:100 Lv10 Charge:75)
--All active allies recovers HP in their turns (Tier:2)
+-All active allies recover/s HP in their turns (Tier:2)
 
 
 High Gnomey 
@@ -6644,12 +6644,12 @@ Attack:Hit
 Technique:Paradise
 -Heals an ally, scales with SPR (Power:80-120) 
 Inspirit: Cheer Up
--An ally recovers HP in their turns (Tier:3)
+-An ally recover/s HP in their turns (Tier:3)
 
 High Gnomey
 Medallium Nº: 180
 Soultimate: Joyful Jig (Lv1 Charge:250 Lv10 Charge:162)
--All active allies recovers HP in their turns (Tier:2)
+-All active allies recover/s HP in their turns (Tier:2)
 
 
 Enerfly 
@@ -6782,7 +6782,7 @@ Attack:Slap
 Technique:Paradise
 -Heals an ally, scales with SPR (Power:80-120) 
 Inspirit: Life Is Good
--An ally recovers HP in their turns (Tier:3)
+-An ally recover/s HP in their turns (Tier:3)
 
 Peppillon
 Medallium Nº: 184
@@ -6947,12 +6947,12 @@ Attack:Body Bash
 Technique:Restore
 -Heals an ally, scales with SPR (Power:50-110) 
 Inspirit: Cheerfulness
--An ally recovers HP in their turns (Tier:2)
+-An ally recover/s HP in their turns (Tier:2)
 
 Happierre
 Medallium Nº: 189
 Soultimate: Air of Happiness (Lv1 Charge:150 Lv10 Charge:105)
--All active allies recovers HP in their turns (Tier:2)
+-All active allies recover/s HP in their turns (Tier:2)
 
 
 Reversa 
@@ -6985,7 +6985,7 @@ Inspirit: Insecurity
 Reversa
 Medallium Nº: 190
 Soultimate: Fun Field (Lv1 Charge:250 Lv10 Charge:162)
--All active allies recovers HP in their turns (Tier:3)
+-All active allies recover/s HP in their turns (Tier:3)
 
 
 Reversette 
@@ -7018,7 +7018,7 @@ Inspirit: Insecurity
 Reversette
 Medallium Nº: 191
 Soultimate: Zany Zone (Lv1 Charge:250 Lv10 Charge:162)
--All active allies recovers HP in their turns (Tier:3)
+-All active allies recover/s HP in their turns (Tier:3)
 
 
 Ol' Saint Trick 
@@ -7115,7 +7115,7 @@ Attack:Earthsplitter
 Technique:Rapids
 -Attacks an enemy, scales with SPR (Water) (Power:50-110)
 Inspirit: Luck's Smile
--An ally recovers HP in their turns (Tier:1)
+-An ally recover/s HP in their turns (Tier:1)
 
 Rollen
 Medallium Nº: 194
@@ -7151,7 +7151,7 @@ Attack:Earthsplitter
 Technique:Waterfall
 -Attacks an enemy, scales with SPR (Water) (Power:80-120)
 Inspirit: Lucky Streak
--An ally recovers HP in their turns (Tier:2)
+-An ally recover/s HP in their turns (Tier:2)
 
 Dubbles
 Medallium Nº: 195
@@ -7250,12 +7250,12 @@ Attack:Slap
 Technique:Paradise
 -Heals an ally, scales with SPR (Power:80-120) 
 Inspirit: Mama's Warmth
--An ally recovers HP in their turns (Tier:3)
+-An ally recover/s HP in their turns (Tier:3)
 
 Mama Aura
 Medallium Nº: 198
 Soultimate: A Mother's Love (Lv1 Charge:250 Lv10 Charge:162)
--All active allies recovers HP in their turns (Tier:3)
+-All active allies recover/s HP in their turns (Tier:3)
 
 
 Auntie Heart 
@@ -7320,7 +7320,7 @@ Attack:Chomp
 Technique:Paradise
 -Heals an ally, scales with SPR (Power:80-120) 
 Inspirit: Rest Aura
--An ally recovers HP in their turns (Tier:3)
+-An ally recover/s HP in their turns (Tier:3)
 
 Kyryn
 Medallium Nº: 200
@@ -7355,7 +7355,7 @@ Attack:Chomp
 Technique:Paradise
 -Heals an ally, scales with SPR (Power:80-120) 
 Inspirit: Healing Horn
--An ally recovers HP in their turns (Tier:3)
+-An ally recover/s HP in their turns (Tier:3)
 
 Unikirin
 Medallium Nº: 201
@@ -7459,7 +7459,7 @@ Attack:Kick
 Technique:Pebble
 -Attacks an enemy, scales with SPR (Earth) (Power:20-90)
 Inspirit: Shoulder Pain
--An enemy loses HP in their turns (Tier:1)
+-An enemy lose/s HP in their turns (Tier:1)
 
 Ake
 Medallium Nº: 204
@@ -7493,7 +7493,7 @@ Attack:Power Punch
 Technique:Rockslide
 -Attacks an enemy, scales with SPR (Earth) (Power:50-110)
 Inspirit: Shoulder Pain
--An enemy loses HP in their turns (Tier:2)
+-An enemy lose/s HP in their turns (Tier:2)
 
 Payn
 Medallium Nº: 205
@@ -7762,7 +7762,7 @@ Attack:Pinpoint Pierce
 Technique:Voltage
 -Attacks an enemy, scales with SPR (Lightning) (Power:80-120)
 Inspirit: Itchy
--An enemy loses HP in their turns (Tier:3)
+-An enemy lose/s HP in their turns (Tier:3)
 
 Scritchy
 Medallium Nº: 213
@@ -8502,7 +8502,7 @@ Attack:Clobber
 Technique:Incinerate
 -Attacks an enemy, scales with SPR (Fire) (Power:80-120)
 Inspirit: Burn
--An enemy loses HP in their turns (Tier:2)
+-An enemy lose/s HP in their turns (Tier:2)
 
 Slimamander
 Medallium Nº: 232
@@ -8536,7 +8536,7 @@ Technique:Reaper
 -Attacks an enemy, scales with SPR (Drain) (Power:80-120)
 -Heals the user a 25.0%  of the damage dealt
 Inspirit: Dracufang
--An enemy loses HP in their turns (Tier:3)
+-An enemy lose/s HP in their turns (Tier:3)
 
 Dracunyan
 Medallium Nº: 233
@@ -8643,7 +8643,7 @@ Timidevil
 Medallium Nº: 236
 Soultimate: Timid Boo (Lv1 Charge:250 Lv10 Charge:162)
 -Attacks all active enemies, scales with SPR  (Power:110)
--All active enemies loses HP in their turns (Tier:1)
+-All active enemies lose/s HP in their turns (Tier:1)
 
 
 Beelzebold 
@@ -8677,7 +8677,7 @@ Beelzebold
 Medallium Nº: 237
 Soultimate: Boldakazam (Lv1 Charge:250 Lv10 Charge:162)
 -Attacks all active enemies, scales with SPR  (Power:140)
--All active enemies loses HP in their turns (Tier:2)
+-All active enemies lose/s HP in their turns (Tier:2)
 
 
 Count Cavity 
@@ -8705,13 +8705,13 @@ Attack:Stab Storm
 Technique:Incinerate
 -Attacks an enemy, scales with SPR (Fire) (Power:80-120)
 Inspirit: Cavity
--An enemy loses HP in their turns (Tier:3)
+-An enemy lose/s HP in their turns (Tier:3)
 
 Count Cavity
 Medallium Nº: 238
 Soultimate: Bacteria Barrage (Lv1 Charge:250 Lv10 Charge:162)
 -Attacks all active enemies, scales with SPR  (Power:160)
--All active enemies loses HP in their turns (Tier:3)
+-All active enemies lose/s HP in their turns (Tier:3)
 
 
 Eyesoar 
@@ -8810,7 +8810,7 @@ Inspirit: Stinginess
 Greesel
 Medallium Nº: 241
 Soultimate: Stingy Curse (Lv1 Charge:250 Lv10 Charge:162)
--All active enemies loses HP in their turns (Tier:3) (x2 Precision)
+-All active enemies lose/s HP in their turns (Tier:3) (x2 Precision)
 
 
 Awevil 
@@ -8838,7 +8838,7 @@ Attack:Clobber
 Technique:Rapids
 -Attacks an enemy, scales with SPR (Water) (Power:50-110)
 Inspirit: Darkness Power
--An enemy loses HP in their turns (Tier:3)
+-An enemy lose/s HP in their turns (Tier:3)
 
 Awevil
 Medallium Nº: 242
@@ -8905,7 +8905,7 @@ Attack:Pesky Poke
 Technique:Torrent
 -Attacks an enemy, scales with SPR (Water) (Power:20-90)
 Inspirit: Sore Throat
--An enemy loses HP in their turns (Tier:2)
+-An enemy lose/s HP in their turns (Tier:2)
 
 Coughkoff
 Medallium Nº: 244
@@ -8943,7 +8943,7 @@ Attack:Pesky Poke
 Technique:Frost
 -Attacks an enemy, scales with SPR (Ice) (Power:50-110)
 Inspirit: Headache
--An enemy loses HP in their turns (Tier:2)
+-An enemy lose/s HP in their turns (Tier:2)
 
 Hurchin
 Medallium Nº: 245
@@ -9282,12 +9282,12 @@ Attack:Hit
 Technique:Hail
 -Attacks an enemy, scales with SPR (Ice) (Power:20-90)
 Inspirit: Ba-Dum-Diss
--An enemy loses HP in their turns (Tier:1)
+-An enemy lose/s HP in their turns (Tier:1)
 
 Squeeky
 Medallium Nº: 254
 Soultimate: Maruckus (Lv1 Charge:100 Lv10 Charge:75)
--All active enemies loses HP in their turns (Tier:2)
+-All active enemies lose/s HP in their turns (Tier:2)
 
 
 Rawry 
@@ -9315,12 +9315,12 @@ Attack:Tackle
 Technique:Frost
 -Attacks an enemy, scales with SPR (Ice) (Power:50-110)
 Inspirit: Vroom Vroom
--An enemy loses HP in their turns (Tier:3)
+-An enemy lose/s HP in their turns (Tier:3)
 
 Rawry
 Medallium Nº: 255
 Soultimate: Loud and Proud (Lv1 Charge:200 Lv10 Charge:130)
--All active enemies loses HP in their turns (Tier:3)
+-All active enemies lose/s HP in their turns (Tier:3)
 
 
 Buhu 
@@ -9795,7 +9795,7 @@ Medallium Nº: 268
 Soultimate: Boastful Dance (Lv1 Charge:150 Lv10 Charge:105)
 -The user recover/s a 100.0% of their total HP
 -Increases the user stats (STR, SPR, DEF and SPD) (Tier:4)
--The user recovers HP in their turns (Tier:3)
+-The user recover/s HP in their turns (Tier:3)
 -Removes the user negative inspirits
 
 
@@ -9929,7 +9929,7 @@ Inspirit: Elementary Curse
 Toiletta
 Medallium Nº: 272
 Soultimate: Curse You! (Lv1 Charge:150 Lv10 Charge:105)
--All active enemies loses HP in their turns (Tier:2)
+-All active enemies lose/s HP in their turns (Tier:2)
 
 
 Foiletta 
@@ -9963,7 +9963,7 @@ Inspirit: High School Hex
 Foiletta
 Medallium Nº: 273
 Soultimate: Cursed Love (Lv1 Charge:250 Lv10 Charge:162)
--All active enemies loses HP in their turns (Tier:3)
+-All active enemies lose/s HP in their turns (Tier:3)
 
 
 Sproink 
@@ -10025,7 +10025,7 @@ Technique:Drain
 -Attacks an enemy, scales with SPR (Drain) (Power:50-110)
 -Heals the user a 25.0%  of the damage dealt
 Inspirit: Fall Flat
--An enemy loses HP in their turns (Tier:3)
+-An enemy lose/s HP in their turns (Tier:3)
 
 Compunzer
 Medallium Nº: 275
@@ -10059,7 +10059,7 @@ Technique:Reaper
 -Attacks an enemy, scales with SPR (Drain) (Power:80-120)
 -Heals the user a 25.0%  of the damage dealt
 Inspirit: Fall Flat
--An enemy loses HP in their turns (Tier:3)
+-An enemy lose/s HP in their turns (Tier:3)
 
 Lamedian
 Medallium Nº: 276
@@ -10163,7 +10163,7 @@ Technique:Reaper
 -Attacks an enemy, scales with SPR (Drain) (Power:80-120)
 -Heals the user a 25.0%  of the damage dealt
 Inspirit: Immortal Power
--An ally recovers HP in their turns (Tier:2)
+-An ally recover/s HP in their turns (Tier:2)
 
 Eterna
 Medallium Nº: 279
@@ -10331,7 +10331,7 @@ Attack:Headsmack
 Technique:Rapids
 -Attacks an enemy, scales with SPR (Water) (Power:50-110)
 Inspirit: Pain in the Neck
--An enemy loses HP in their turns (Tier:2)
+-An enemy lose/s HP in their turns (Tier:2)
 
 Cricky
 Medallium Nº: 284
@@ -10430,7 +10430,7 @@ Attack:Maul
 Technique:Blizzard
 -Attacks an enemy, scales with SPR (Ice) (Power:80-120)
 Inspirit: Panda Cuteness
--An ally recovers HP in their turns (Tier:1)
+-An ally recover/s HP in their turns (Tier:1)
 
 Pandanoko
 Medallium Nº: 287
@@ -10602,7 +10602,7 @@ Urnaconda
 Medallium Nº: 292
 Soultimate: Venoconda (Lv1 Charge:150 Lv10 Charge:105)
 -Attacks all active enemies, scales with SPR  (Power:80)
--All active enemies loses HP in their turns (Tier:1)
+-All active enemies lose/s HP in their turns (Tier:1)
 
 
 Fishpicable 
@@ -10967,7 +10967,7 @@ Attack:Tail Slap
 Technique:Rapids
 -Attacks an enemy, scales with SPR (Water) (Power:50-110)
 Inspirit: Rejuvenate
--An ally recovers HP in their turns (Tier:1)
+-An ally recover/s HP in their turns (Tier:1)
 
 Mermaidyn
 Medallium Nº: 303
@@ -11000,7 +11000,7 @@ Attack:Tail Slap
 Technique:Waterfall
 -Attacks an enemy, scales with SPR (Water) (Power:80-120)
 Inspirit: Rejuvenate
--An ally recovers HP in their turns (Tier:1)
+-An ally recover/s HP in their turns (Tier:1)
 
 Mermadonna
 Medallium Nº: 304
@@ -11713,7 +11713,7 @@ Medallium Nº: 325
 Soultimate: Finale Spoiler (Lv1 Charge:250 Lv10 Charge:162)
 -The user recover/s a 100.0% of their total HP
 -Increases the user stats (STR, SPR, DEF and SPD) (Tier:4)
--The user recovers HP in their turns (Tier:3)
+-The user recover/s HP in their turns (Tier:3)
 -Removes the user negative inspirits
 
 
@@ -11814,7 +11814,7 @@ Attack:Tackle
 Technique:Paradise
 -Heals an ally, scales with SPR (Power:80-120) 
 Inspirit: Healing Air
--An ally recovers HP in their turns (Tier:3)
+-An ally recover/s HP in their turns (Tier:3)
 
 Dandoodle
 Medallium Nº: 328
@@ -12048,7 +12048,7 @@ Attack:Sharp Claws
 Technique:Frost
 -Attacks an enemy, scales with SPR (Ice) (Power:50-110)
 Inspirit: Melon Juice
--An ally recovers HP in their turns (Tier:2)
+-An ally recover/s HP in their turns (Tier:2)
 
 Melonyan
 Medallium Nº: 335
@@ -12514,7 +12514,7 @@ Attack:Sharp Claws
 Technique:Paradise
 -Heals an ally, scales with SPR (Power:80-120) 
 Inspirit: Girl Power
--An ally recovers HP in their turns (Tier:2)
+-An ally recover/s HP in their turns (Tier:2)
 
 Sailornyan
 Medallium Nº: 349
@@ -12720,7 +12720,7 @@ Unfairy
 Medallium Nº: 355
 Soultimate: Unfairy Kraft (Lv1 Charge:250 Lv10 Charge:162)
 -Attacks all active enemies, scales with SPR  (Power:180)
--All active enemies loses HP in their turns (Tier:3)
+-All active enemies lose/s HP in their turns (Tier:3)
 
 
 Unkaind 
@@ -12815,7 +12815,7 @@ Attack:Beat
 Technique:Storm
 -Attacks an enemy, scales with SPR (Wind) (Power:80-120)
 Inspirit: Unpleasant Power
--An enemy loses HP in their turns (Tier:3)
+-An enemy lose/s HP in their turns (Tier:3)
 
 Unpleasant
 Medallium Nº: 358
@@ -12915,7 +12915,7 @@ Attack:Power Punch
 Technique:Rockslide
 -Attacks an enemy, scales with SPR (Earth) (Power:50-110)
 Inspirit: Sucking Mud
--An enemy loses HP in their turns (Tier:2)
+-An enemy lose/s HP in their turns (Tier:2)
 
 Madmunch
 Medallium Nº: 361
@@ -12949,7 +12949,7 @@ Attack:Smack Down
 Technique:Storm
 -Attacks an enemy, scales with SPR (Wind) (Power:80-120)
 Inspirit: Awful Haze
--An enemy loses HP in their turns (Tier:3)
+-An enemy lose/s HP in their turns (Tier:3)
 
 Badsmella
 Medallium Nº: 362
@@ -13048,12 +13048,12 @@ Attack:Hit
 Technique:Restore
 -Heals an ally, scales with SPR (Power:50-110) 
 Inspirit: Chin Down
--An enemy loses HP in their turns (Tier:1)
+-An enemy lose/s HP in their turns (Tier:1)
 
 Gnomine
 Medallium Nº: 365
 Soultimate: Innocent World (Lv1 Charge:100 Lv10 Charge:75)
--All active allies recovers HP in their turns (Tier:2)
+-All active allies recover/s HP in their turns (Tier:2)
 
 
 Defectabull 
@@ -13152,7 +13152,7 @@ Attack:Tail Slap
 Technique:Rapids
 -Attacks an enemy, scales with SPR (Water) (Power:50-110)
 Inspirit: Gouge
--An enemy loses HP in their turns (Tier:1)
+-An enemy lose/s HP in their turns (Tier:1)
 
 Scaremaiden
 Medallium Nº: 368
@@ -13185,7 +13185,7 @@ Attack:Hit
 Technique:Restore
 -Heals an ally, scales with SPR (Power:50-110) 
 Inspirit: Strained Neck
--An enemy loses HP in their turns (Tier:1)
+-An enemy lose/s HP in their turns (Tier:1)
 
 Wrongnek
 Medallium Nº: 369
@@ -13482,7 +13482,7 @@ Attack:Pointy Pokes
 Technique:Fire
 -Attacks an enemy, scales with SPR (Fire) (Power:20-90)
 Inspirit: Octoplus
--An ally recovers HP in their turns (Tier:1)
+-An ally recover/s HP in their turns (Tier:1)
 
 Takoyakid
 Medallium Nº: 378
@@ -13515,7 +13515,7 @@ Attack:Stab Storm
 Technique:Blaze
 -Attacks an enemy, scales with SPR (Fire) (Power:50-110)
 Inspirit: Octoplus
--An ally recovers HP in their turns (Tier:2)
+-An ally recover/s HP in their turns (Tier:2)
 
 Takoyaking
 Medallium Nº: 379
@@ -13746,7 +13746,7 @@ Attack:Body Bash
 Technique:Heal
 -Heals an ally, scales with SPR (Power:20-90) 
 Inspirit: Sweet Relief
--An ally recovers HP in their turns (Tier:1)
+-An ally recover/s HP in their turns (Tier:1)
 
 Happycane
 Medallium Nº: 386
@@ -13779,7 +13779,7 @@ Attack:Tackle
 Technique:Restore
 -Heals an ally, scales with SPR (Power:50-110) 
 Inspirit: Sweet Relief
--An ally recovers HP in their turns (Tier:2)
+-An ally recover/s HP in their turns (Tier:2)
 
 Starrycane
 Medallium Nº: 387
@@ -13853,7 +13853,7 @@ Medallium Nº: 431
 Soultimate: Mighty Moxie (Lv1 Charge:250 Lv10 Charge:162)
 -The user recover/s a 100.0% of their total HP
 -Increases the user stats (STR, SPR, DEF and SPD) (Tier:4)
--The user recovers HP in their turns (Tier:3)
+-The user recover/s HP in their turns (Tier:3)
 -Removes the user negative inspirits
 
 
@@ -13889,7 +13889,7 @@ Medallium Nº: 432
 Soultimate: Mega Moxie (Lv1 Charge:250 Lv10 Charge:162)
 -The user recover/s a 100.0% of their total HP
 -Increases the user stats (STR, SPR, DEF and SPD) (Tier:4)
--The user recovers HP in their turns (Tier:3)
+-The user recover/s HP in their turns (Tier:3)
 -Removes the user negative inspirits
 
 
@@ -13962,7 +13962,7 @@ Attack:Power Punch
 Technique:Incinerate
 -Attacks an enemy, scales with SPR (Fire) (Power:80-120)
 Inspirit: Burn S
--An enemy loses HP in their turns (Tier:2)
+-An enemy lose/s HP in their turns (Tier:2)
 
 Komasan S
 Medallium Nº: 434
@@ -14029,13 +14029,13 @@ Technique:Reaper
 -Attacks an enemy, scales with SPR (Drain) (Power:80-120)
 -Heals the user a 25.0%  of the damage dealt
 Inspirit: Dark Descent
--An enemy loses HP in their turns (Tier:3)
+-An enemy lose/s HP in their turns (Tier:3)
 
 Darkyubi
 Medallium Nº: 436
 Soultimate: Alpha Omega (Lv1 Charge:250 Lv10 Charge:162)
 -Attacks all active enemies, scales with SPR  (Power:200)
--All active enemies loses HP in their turns (Tier:3)
+-All active enemies lose/s HP in their turns (Tier:3)
 
 
 Illuminoct 
@@ -14063,7 +14063,7 @@ Attack:Maul
 Technique:Voltage
 -Attacks an enemy, scales with SPR (Lightning) (Power:80-120)
 Inspirit: Light of Life
--An ally recovers HP in their turns (Tier:3)
+-An ally recover/s HP in their turns (Tier:3)
 
 Illuminoct
 Medallium Nº: 437
