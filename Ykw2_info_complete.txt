@@ -752,7 +752,7 @@ Attack:Stab Storm
 -Attacks an enemy, scales with STR  (Power:10-22x5) 
 Technique:Drain
 -Attacks an enemy, scales with SPR (Drain) (Power:50-110)
--Heals the user a 25.0%  of the damage dealt
+-Heals the user a 25.0% of the damage dealt
 Inspirit: Stygian Curse
 -Reduces an enemy SPR (Tier:2)
 
@@ -1018,7 +1018,7 @@ Attack:Lightning Slash
 -Attacks an enemy, scales with STR  (Power:20-44x3) 
 Technique:Absorb
 -Attacks an enemy, scales with SPR (Drain) (Power:20-90)
--Heals the user a 25.0%  of the damage dealt
+-Heals the user a 25.0% of the damage dealt
 Inspirit: Cursed Sword
 -Reduces an enemy SPD (Tier:2)
 
@@ -1415,7 +1415,7 @@ Attack:Maul
 -Attacks an enemy, scales with STR  (Power:80-120) 
 Technique:Reaper
 -Attacks an enemy, scales with SPR (Drain) (Power:80-120)
--Heals the user a 25.0%  of the damage dealt
+-Heals the user a 25.0% of the damage dealt
 Inspirit: Maulnutrition
 -An enemy loses hp on their turns (tier:3)
 
@@ -1820,7 +1820,7 @@ Attack:Headsmack
 -Attacks an enemy, scales with STR  (Power:15-67) 
 Technique:Absorb
 -Attacks an enemy, scales with SPR (Drain) (Power:20-90)
--Heals the user a 25.0%  of the damage dealt
+-Heals the user a 25.0% of the damage dealt
 Inspirit: Side Splitter
 -Increases an enemy loafing chances, making them unable to act sometimes (Tier:1)
 
@@ -1828,7 +1828,7 @@ Lafalotta
 Medallium Nº: 51
 Soultimate: Mwabsorption (Lv1 Charge:100 Lv10 Charge:100)
 -Attacks all active enemies, scales with SPR (Drain) (Power:50-131)
--Heals all active allies a 50.0%  of the damage dealt (Divided between all active allies)
+-Heals all active allies a 50.0% of the damage dealt (Divided between all active allies)
 
 
 Blips 
@@ -1855,7 +1855,7 @@ Attack:Headsmack
 -Attacks an enemy, scales with STR  (Power:15-67) 
 Technique:Drain
 -Attacks an enemy, scales with SPR (Drain) (Power:50-110)
--Heals the user a 25.0%  of the damage dealt
+-Heals the user a 25.0% of the damage dealt
 Inspirit: Shivers
 -Reduces an enemy SPR (Tier:3)
 
@@ -1863,7 +1863,7 @@ Blips
 Medallium Nº: 52
 Soultimate: Blue Kiss (Lv1 Charge:150 Lv10 Charge:150)
 -Attacks all active enemies, scales with SPR (Drain) (Power:50-131)
--Heals all active allies a 50.0%  of the damage dealt (Divided between all active allies)
+-Heals all active allies a 50.0% of the damage dealt (Divided between all active allies)
 
 
 Tattletell 
@@ -2295,7 +2295,7 @@ Statiking
 Medallium Nº: 65
 Soultimate: Giga Turbocharge (Lv1 Charge:250 Lv10 Charge:162)
 -Attacks all active enemies, scales with SPR (Drain) (Power:190)
--Heals all active allies a 50.0%  of the damage dealt (Divided between all active allies)
+-Heals all active allies a 50.0% of the damage dealt (Divided between all active allies)
 
 
 Master Oden 
@@ -2425,7 +2425,7 @@ Attack:Body Bash
 -Attacks an enemy, scales with STR  (Power:15-67) 
 Technique:Drain
 -Attacks an enemy, scales with SPR (Drain) (Power:50-110)
--Heals the user a 25.0%  of the damage dealt
+-Heals the user a 25.0% of the damage dealt
 Inspirit: Mirror Power
 -Increases an ally SPR (Tier:3)
 
@@ -2461,7 +2461,7 @@ Attack:Tackle
 -Attacks an enemy, scales with STR  (Power:60-90) 
 Technique:Reaper
 -Attacks an enemy, scales with SPR (Drain) (Power:80-120)
--Heals the user a 25.0%  of the damage dealt
+-Heals the user a 25.0% of the damage dealt
 Inspirit: Mirror Power
 -Increases an ally SPR (Tier:3)
 
@@ -2497,7 +2497,7 @@ Attack:Body Bash
 -Attacks an enemy, scales with STR  (Power:15-67) 
 Technique:Reaper
 -Attacks an enemy, scales with SPR (Drain) (Power:80-120)
--Heals the user a 25.0%  of the damage dealt
+-Heals the user a 25.0% of the damage dealt
 Inspirit: Cursed Mirror
 -Reduces an enemy SPR (Tier:3)
 
@@ -2640,7 +2640,7 @@ Espy
 Medallium Nº: 75
 Soultimate: Third Eye (Lv1 Charge:200 Lv10 Charge:200)
 -Attacks all active enemies, scales with SPR (Drain) (Power:55-144)
--Heals all active allies a 50.0%  of the damage dealt (Divided between all active allies)
+-Heals all active allies a 50.0% of the damage dealt (Divided between all active allies)
 
 
 Infour 
@@ -2667,7 +2667,7 @@ Attack:Headsmack
 -Attacks an enemy, scales with STR  (Power:15-67) 
 Technique:Drain
 -Attacks an enemy, scales with SPR (Drain) (Power:50-110)
--Heals the user a 25.0%  of the damage dealt
+-Heals the user a 25.0% of the damage dealt
 Inspirit: Mysterious Power
 -Reduces an enemy SPR (Tier:4)
 
@@ -2675,7 +2675,7 @@ Infour
 Medallium Nº: 76
 Soultimate: Foursight (Lv1 Charge:200 Lv10 Charge:200)
 -Attacks all active enemies, scales with SPR (Drain) (Power:65-170)
--Heals all active allies a 50.0%  of the damage dealt (Divided between all active allies)
+-Heals all active allies a 50.0% of the damage dealt (Divided between all active allies)
 
 
 Verygoodsir 
@@ -5343,7 +5343,7 @@ Attack:Slap
 -Attacks an enemy, scales with STR  (Power:10-45) 
 Technique:Drain
 -Attacks an enemy, scales with SPR (Drain) (Power:50-110)
--Heals the user a 25.0%  of the damage dealt
+-Heals the user a 25.0% of the damage dealt
 Inspirit: Bedtime
 -Increases an enemy loafing chances, making them unable to act sometimes (Tier:2)
 
@@ -5377,7 +5377,7 @@ Attack:Smack Down
 -Attacks an enemy, scales with STR  (Power:20-44x2) 
 Technique:Reaper
 -Attacks an enemy, scales with SPR (Drain) (Power:80-120)
--Heals the user a 25.0%  of the damage dealt
+-Heals the user a 25.0% of the damage dealt
 Inspirit: Bedtime
 -Increases an enemy loafing chances, making them unable to act sometimes (Tier:3)
 
@@ -5411,7 +5411,7 @@ Attack:Slap
 -Attacks an enemy, scales with STR  (Power:10-45) 
 Technique:Drain
 -Attacks an enemy, scales with SPR (Drain) (Power:50-110)
--Heals the user a 25.0%  of the damage dealt
+-Heals the user a 25.0% of the damage dealt
 Inspirit: Sweet Dreams
 -An ally recovers hp on their turns (tier:1)
 
@@ -5445,7 +5445,7 @@ Attack:Slap
 -Attacks an enemy, scales with STR  (Power:10-45) 
 Technique:Drain
 -Attacks an enemy, scales with SPR (Drain) (Power:50-110)
--Heals the user a 25.0%  of the damage dealt
+-Heals the user a 25.0% of the damage dealt
 Inspirit: Sweet Dreams
 -An ally recovers hp on their turns (tier:1)
 
@@ -5611,7 +5611,7 @@ Attack:Beat
 -Attacks an enemy, scales with STR  (Power:40-88) 
 Technique:Reaper
 -Attacks an enemy, scales with SPR (Drain) (Power:80-120)
--Heals the user a 25.0%  of the damage dealt
+-Heals the user a 25.0% of the damage dealt
 Inspirit: Trickery
 -Confuses an enemy, making them attack their own allies sometimes (Tier:3)
 
@@ -5884,7 +5884,7 @@ Wantston
 Medallium Nº: 161
 Soultimate: Envious Hand (Lv1 Charge:100 Lv10 Charge:100)
 -Attacks all active enemies, scales with SPR (Drain) (Power:45-117)
--Heals all active allies a 50.0%  of the damage dealt (Divided between all active allies)
+-Heals all active allies a 50.0% of the damage dealt (Divided between all active allies)
 
 
 Grubsnitch 
@@ -5918,7 +5918,7 @@ Grubsnitch
 Medallium Nº: 162
 Soultimate: Grub Stealer (Lv1 Charge:100 Lv10 Charge:100)
 -Attacks all active enemies, scales with SPR (Drain) (Power:50-131)
--Heals all active allies a 50.0%  of the damage dealt (Divided between all active allies)
+-Heals all active allies a 50.0% of the damage dealt (Divided between all active allies)
 
 
 Wiglin 
@@ -6143,7 +6143,7 @@ Attack:Chomp
 -Attacks an enemy, scales with STR  (Power:45-99) 
 Technique:Drain
 -Attacks an enemy, scales with SPR (Drain) (Power:50-110)
--Heals the user a 25.0%  of the damage dealt
+-Heals the user a 25.0% of the damage dealt
 Inspirit: Starve
 -Reduces an enemy STR (Tier:3)
 
@@ -6177,7 +6177,7 @@ Attack:Chomp
 -Attacks an enemy, scales with STR  (Power:45-99) 
 Technique:Drain
 -Attacks an enemy, scales with SPR (Drain) (Power:50-110)
--Heals the user a 25.0%  of the damage dealt
+-Heals the user a 25.0% of the damage dealt
 Inspirit: Starve
 -Reduces an enemy STR (Tier:3)
 
@@ -6516,7 +6516,7 @@ Lodo
 Medallium Nº: 176
 Soultimate: I Want It All! (Lv1 Charge:100 Lv10 Charge:100)
 -Attacks all active enemies, scales with SPR (Drain) (Power:50-131)
--Heals all active allies a 50.0%  of the damage dealt (Divided between all active allies)
+-Heals all active allies a 50.0% of the damage dealt (Divided between all active allies)
 
 
 Supoor Hero 
@@ -6709,7 +6709,7 @@ Attack:Slap
 -Attacks an enemy, scales with STR  (Power:10-45) 
 Technique:Absorb
 -Attacks an enemy, scales with SPR (Drain) (Power:20-90)
--Heals the user a 25.0%  of the damage dealt
+-Heals the user a 25.0% of the damage dealt
 Inspirit: Enemy Maker
 -Confuses an enemy, making them attack their own allies sometimes (Tier:1)
 
@@ -7423,7 +7423,7 @@ Attack:Slap
 -Attacks an enemy, scales with STR  (Power:10-45) 
 Technique:Absorb
 -Attacks an enemy, scales with SPR (Drain) (Power:20-90)
--Heals the user a 25.0%  of the damage dealt
+-Heals the user a 25.0% of the damage dealt
 Inspirit: Bias
 -Makes an ally untargetable
 
@@ -7691,7 +7691,7 @@ Attack:Pesky Poke
 -Attacks an enemy, scales with STR  (Power:15-67) 
 Technique:Absorb
 -Attacks an enemy, scales with SPR (Drain) (Power:20-90)
--Heals the user a 25.0%  of the damage dealt
+-Heals the user a 25.0% of the damage dealt
 Inspirit: Negativize
 -Reduces an enemy SPD (Tier:2)
 
@@ -7726,7 +7726,7 @@ Attack:Pinpoint Pierce
 -Attacks an enemy, scales with STR  (Power:30-66) (+5.0% Crit Chance) 
 Technique:Drain
 -Attacks an enemy, scales with SPR (Drain) (Power:50-110)
--Heals the user a 25.0%  of the damage dealt
+-Heals the user a 25.0% of the damage dealt
 Inspirit: Negativize
 -Reduces an enemy SPD (Tier:3)
 
@@ -8194,7 +8194,7 @@ Attack:Bite
 -Attacks an enemy, scales with STR  (Power:15-67) 
 Technique:Absorb
 -Attacks an enemy, scales with SPR (Drain) (Power:20-90)
--Heals the user a 25.0%  of the damage dealt
+-Heals the user a 25.0% of the damage dealt
 Inspirit: Bad Influence
 -Confuses an enemy, making them attack their own allies sometimes (Tier:1)
 
@@ -8202,7 +8202,7 @@ Yoink
 Medallium Nº: 223
 Soultimate: Energetic Gulp (Lv1 Charge:100 Lv10 Charge:75)
 -Attacks all active enemies, scales with SPR (Drain) (Power:50)
--Heals all active allies a 50.0%  of the damage dealt (Divided between all active allies)
+-Heals all active allies a 50.0% of the damage dealt (Divided between all active allies)
 
 
 Gimme 
@@ -8229,7 +8229,7 @@ Attack:Power Punch
 -Attacks an enemy, scales with STR  (Power:50-110) 
 Technique:Drain
 -Attacks an enemy, scales with SPR (Drain) (Power:50-110)
--Heals the user a 25.0%  of the damage dealt
+-Heals the user a 25.0% of the damage dealt
 Inspirit: Shakedown
 -Inspirits an enemy, making them drop money and lose their turns (Tier:3)
 
@@ -8237,7 +8237,7 @@ Gimme
 Medallium Nº: 224
 Soultimate: Life Looter (Lv1 Charge:250 Lv10 Charge:162)
 -Attacks all active enemies, scales with SPR (Drain) (Power:130)
--Heals all active allies a 50.0%  of the damage dealt (Divided between all active allies)
+-Heals all active allies a 50.0% of the damage dealt (Divided between all active allies)
 
 
 K'mon-K'mon 
@@ -8298,7 +8298,7 @@ Attack:Hit
 -Attacks an enemy, scales with STR  (Power:10-45) 
 Technique:Drain
 -Attacks an enemy, scales with SPR (Drain) (Power:50-110)
--Heals the user a 25.0%  of the damage dealt
+-Heals the user a 25.0% of the damage dealt
 Inspirit: Helpless
 -Increases an enemy loafing chances, making them unable to act sometimes (Tier:2)
 
@@ -8306,7 +8306,7 @@ Yoodooit
 Medallium Nº: 226
 Soultimate: Borrowed Health (Lv1 Charge:150 Lv10 Charge:105)
 -Attacks all active enemies, scales with SPR (Drain) (Power:70)
--Heals all active allies a 50.0%  of the damage dealt (Divided between all active allies)
+-Heals all active allies a 50.0% of the damage dealt (Divided between all active allies)
 
 
 Count Zapaway 
@@ -8367,7 +8367,7 @@ Attack:Chomp
 -Attacks an enemy, scales with STR  (Power:45-99) 
 Technique:Drain
 -Attacks an enemy, scales with SPR (Drain) (Power:50-110)
--Heals the user a 25.0%  of the damage dealt
+-Heals the user a 25.0% of the damage dealt
 Inspirit: Rat Fink
 -Confuses an enemy, making them attack their own allies sometimes (Tier:2)
 
@@ -8534,7 +8534,7 @@ Attack:Maul
 -Attacks an enemy, scales with STR  (Power:80-120) 
 Technique:Reaper
 -Attacks an enemy, scales with SPR (Drain) (Power:80-120)
--Heals the user a 25.0%  of the damage dealt
+-Heals the user a 25.0% of the damage dealt
 Inspirit: Dracufang
 -An enemy loses hp on their turns (tier:3)
 
@@ -8542,7 +8542,7 @@ Dracunyan
 Medallium Nº: 233
 Soultimate: Big Bloodsucker (Lv1 Charge:200 Lv10 Charge:130)
 -Attacks an enemy, scales with SPR (Drain) (Power:150)
--Heals all active allies a 50.0%  of the damage dealt (Divided between all active allies)
+-Heals all active allies a 50.0% of the damage dealt (Divided between all active allies)
 
 
 Negasus 
@@ -8602,7 +8602,7 @@ Attack:Chomp
 -Attacks an enemy, scales with STR  (Power:45-99) 
 Technique:Drain
 -Attacks an enemy, scales with SPR (Drain) (Power:50-110)
--Heals the user a 25.0%  of the damage dealt
+-Heals the user a 25.0% of the damage dealt
 Inspirit: Neighing Curse
 -Reduces an enemy stats (STR, SPR, DEF and SPD) (Tier:3)
 
@@ -9141,7 +9141,7 @@ Attack:Squish
 -Attacks an enemy, scales with STR  (Power:10-45) (x99.0 Precision) 
 Technique:Absorb
 -Attacks an enemy, scales with SPR (Drain) (Power:20-90)
--Heals the user a 25.0%  of the damage dealt
+-Heals the user a 25.0% of the damage dealt
 Inspirit: Snatch
 -Confuses an enemy, making them attack their own allies sometimes (Tier:2)
 
@@ -9149,7 +9149,7 @@ Peckpocket
 Medallium Nº: 251
 Soultimate: Life Snag (Lv1 Charge:100 Lv10 Charge:100)
 -Attacks all active enemies, scales with SPR (Drain) (Power:45-117)
--Heals all active allies a 50.0%  of the damage dealt (Divided between all active allies)
+-Heals all active allies a 50.0% of the damage dealt (Divided between all active allies)
 
 
 Robbinyu 
@@ -9176,7 +9176,7 @@ Attack:Beat
 -Attacks an enemy, scales with STR  (Power:40-88) 
 Technique:Drain
 -Attacks an enemy, scales with SPR (Drain) (Power:50-110)
--Heals the user a 25.0%  of the damage dealt
+-Heals the user a 25.0% of the damage dealt
 Inspirit: Tie Down
 -Increases an enemy loafing chances, making them unable to act sometimes (Tier:3)
 
@@ -9211,7 +9211,7 @@ Attack:Squish
 -Attacks an enemy, scales with STR  (Power:10-45) (x99.0 Precision) 
 Technique:Drain
 -Attacks an enemy, scales with SPR (Drain) (Power:50-110)
--Heals the user a 25.0%  of the damage dealt
+-Heals the user a 25.0% of the damage dealt
 Inspirit: Funky Dance
 -Reduces an enemy DEF (Tier:3)
 
@@ -9246,7 +9246,7 @@ Attack:Squish
 -Attacks an enemy, scales with STR  (Power:10-45) (x99.0 Precision) 
 Technique:Drain
 -Attacks an enemy, scales with SPR (Drain) (Power:50-110)
--Heals the user a 25.0%  of the damage dealt
+-Heals the user a 25.0% of the damage dealt
 Inspirit: Funky Dance
 -Reduces an enemy DEF (Tier:3)
 
@@ -9719,7 +9719,7 @@ Attack:Bite
 -Attacks an enemy, scales with STR  (Power:15-67) 
 Technique:Drain
 -Attacks an enemy, scales with SPR (Drain) (Power:50-110)
--Heals the user a 25.0%  of the damage dealt
+-Heals the user a 25.0% of the damage dealt
 Inspirit: Complaints
 -Increases an enemy loafing chances, making them unable to act sometimes (Tier:2)
 
@@ -9753,7 +9753,7 @@ Attack:Bite
 -Attacks an enemy, scales with STR  (Power:15-67) 
 Technique:Drain
 -Attacks an enemy, scales with SPR (Drain) (Power:50-110)
--Heals the user a 25.0%  of the damage dealt
+-Heals the user a 25.0% of the damage dealt
 Inspirit: Complaints
 -Increases an enemy loafing chances, making them unable to act sometimes (Tier:2)
 
@@ -9922,7 +9922,7 @@ Attack:Slap
 -Attacks an enemy, scales with STR  (Power:10-45) 
 Technique:Drain
 -Attacks an enemy, scales with SPR (Drain) (Power:50-110)
--Heals the user a 25.0%  of the damage dealt
+-Heals the user a 25.0% of the damage dealt
 Inspirit: Elementary Curse
 -Reduces an enemy SPR (Tier:2)
 
@@ -9956,7 +9956,7 @@ Attack:Smack Down
 -Attacks an enemy, scales with STR  (Power:20-44x2) 
 Technique:Reaper
 -Attacks an enemy, scales with SPR (Drain) (Power:80-120)
--Heals the user a 25.0%  of the damage dealt
+-Heals the user a 25.0% of the damage dealt
 Inspirit: High School Hex
 -Reduces an enemy SPR (Tier:3)
 
@@ -10023,7 +10023,7 @@ Attack:Beat
 -Attacks an enemy, scales with STR  (Power:40-88) 
 Technique:Drain
 -Attacks an enemy, scales with SPR (Drain) (Power:50-110)
--Heals the user a 25.0%  of the damage dealt
+-Heals the user a 25.0% of the damage dealt
 Inspirit: Fall Flat
 -An enemy loses hp on their turns (tier:3)
 
@@ -10057,7 +10057,7 @@ Attack:Beat
 -Attacks an enemy, scales with STR  (Power:40-88) 
 Technique:Reaper
 -Attacks an enemy, scales with SPR (Drain) (Power:80-120)
--Heals the user a 25.0%  of the damage dealt
+-Heals the user a 25.0% of the damage dealt
 Inspirit: Fall Flat
 -An enemy loses hp on their turns (tier:3)
 
@@ -10091,7 +10091,7 @@ Attack:Hit
 -Attacks an enemy, scales with STR  (Power:10-45) 
 Technique:Absorb
 -Attacks an enemy, scales with SPR (Drain) (Power:20-90)
--Heals the user a 25.0%  of the damage dealt
+-Heals the user a 25.0% of the damage dealt
 Inspirit: Wrinkles
 -Reduces an enemy DEF (Tier:3)
 
@@ -10099,7 +10099,7 @@ Grumples
 Medallium Nº: 277
 Soultimate: Scary Wrinkles (Lv1 Charge:200 Lv10 Charge:200)
 -Attacks all active enemies, scales with SPR (Drain) (Power:100-150)
--Heals all active allies a 50.0%  of the damage dealt (Divided between all active allies)
+-Heals all active allies a 50.0% of the damage dealt (Divided between all active allies)
 
 
 Everfore 
@@ -10126,7 +10126,7 @@ Attack:Beat
 -Attacks an enemy, scales with STR  (Power:40-88) 
 Technique:Reaper
 -Attacks an enemy, scales with SPR (Drain) (Power:80-120)
--Heals the user a 25.0%  of the damage dealt
+-Heals the user a 25.0% of the damage dealt
 Inspirit: Youth Drain
 -Reduces an enemy stats (STR, SPR, DEF and SPD) (Tier:2)
 
@@ -10134,7 +10134,7 @@ Everfore
 Medallium Nº: 278
 Soultimate: Beauty Beam (Lv1 Charge:250 Lv10 Charge:250)
 -Attacks all active enemies, scales with SPR (Drain) (Power:130-195)
--Heals all active allies a 50.0%  of the damage dealt (Divided between all active allies)
+-Heals all active allies a 50.0% of the damage dealt (Divided between all active allies)
 
 
 Eterna 
@@ -10161,7 +10161,7 @@ Attack:Beat
 -Attacks an enemy, scales with STR  (Power:40-88) 
 Technique:Reaper
 -Attacks an enemy, scales with SPR (Drain) (Power:80-120)
--Heals the user a 25.0%  of the damage dealt
+-Heals the user a 25.0% of the damage dealt
 Inspirit: Immortal Power
 -An ally recovers hp on their turns (tier:2)
 
@@ -10169,7 +10169,7 @@ Eterna
 Medallium Nº: 279
 Soultimate: Undying Drain (Lv1 Charge:250 Lv10 Charge:250)
 -Attacks all active enemies, scales with SPR (Drain) (Power:140-210)
--Heals all active allies a 50.0%  of the damage dealt (Divided between all active allies)
+-Heals all active allies a 50.0% of the damage dealt (Divided between all active allies)
 
 
 Insomni 
@@ -10229,7 +10229,7 @@ Attack:Slap
 -Attacks an enemy, scales with STR  (Power:10-45) 
 Technique:Reaper
 -Attacks an enemy, scales with SPR (Drain) (Power:80-120)
--Heals the user a 25.0%  of the damage dealt
+-Heals the user a 25.0% of the damage dealt
 Inspirit: Bedtime
 -Increases an enemy loafing chances, making them unable to act sometimes (Tier:3)
 
@@ -10561,7 +10561,7 @@ Attack:Chomp
 -Attacks an enemy, scales with STR  (Power:45-99) 
 Technique:Drain
 -Attacks an enemy, scales with SPR (Drain) (Power:50-110)
--Heals the user a 25.0%  of the damage dealt
+-Heals the user a 25.0% of the damage dealt
 Inspirit: Power of Song
 -Increases an ally SPR (Tier:2)
 
@@ -10636,7 +10636,7 @@ Fishpicable
 Medallium Nº: 293
 Soultimate: Hateful Charge (Lv1 Charge:100 Lv10 Charge:100)
 -Attacks all active enemies, scales with SPR (Drain) (Power:55-144)
--Heals all active allies a 50.0%  of the damage dealt (Divided between all active allies)
+-Heals all active allies a 50.0% of the damage dealt (Divided between all active allies)
 
 
 Rageon 
@@ -11098,7 +11098,7 @@ Attack:Body Bash
 -Attacks an enemy, scales with STR  (Power:15-67) 
 Technique:Drain
 -Attacks an enemy, scales with SPR (Drain) (Power:50-110)
--Heals the user a 25.0%  of the damage dealt
+-Heals the user a 25.0% of the damage dealt
 Inspirit: Generous Heart
 -Increases an ally stats (STR, SPR, DEF and SPD) (Tier:2)
 
@@ -11133,7 +11133,7 @@ Attack:Body Bash
 -Attacks an enemy, scales with STR  (Power:15-67) 
 Technique:Drain
 -Attacks an enemy, scales with SPR (Drain) (Power:50-110)
--Heals the user a 25.0%  of the damage dealt
+-Heals the user a 25.0% of the damage dealt
 Inspirit: Faltering Heart
 -Reduces an enemy stats (STR, SPR, DEF and SPD) (Tier:2)
 
@@ -11209,7 +11209,7 @@ Shrook
 Medallium Nº: 310
 Soultimate: Feeding Frenzy (Lv1 Charge:200 Lv10 Charge:200)
 -Attacks all active enemies, scales with STR (Drain) (Power:120-180) (x0.0 (maybe,idk) Precision) 
--Heals all active allies a 50.0%  of the damage dealt (Divided between all active allies)
+-Heals all active allies a 50.0% of the damage dealt (Divided between all active allies)
 
 
 Spenp 
@@ -11778,7 +11778,7 @@ Attack:Pointy Pokes
 -Attacks an enemy, scales with STR  (Power:12-26x3) 
 Technique:Reaper
 -Attacks an enemy, scales with SPR (Drain) (Power:80-120)
--Heals the user a 25.0%  of the damage dealt
+-Heals the user a 25.0% of the damage dealt
 Inspirit: Info Dump
 -Increases an enemy loafing chances, making them unable to act sometimes (Tier:2)
 
@@ -11848,7 +11848,7 @@ Attack:Maul
 -Attacks an enemy, scales with STR  (Power:80-120) 
 Technique:Reaper
 -Attacks an enemy, scales with SPR (Drain) (Power:80-120)
--Heals the user a 25.0%  of the damage dealt
+-Heals the user a 25.0% of the damage dealt
 Inspirit: Slurperpowers
 -Increases an ally stats (STR, SPR, DEF and SPD) (Tier:2)
 
@@ -12445,7 +12445,7 @@ Attack:Lightning Slash
 -Attacks an enemy, scales with STR  (Power:20-44x3) 
 Technique:Absorb
 -Attacks an enemy, scales with SPR (Drain) (Power:20-90)
--Heals the user a 25.0%  of the damage dealt
+-Heals the user a 25.0% of the damage dealt
 Inspirit: Wanderlust
 -Increases an ally STR (Tier:2)
 
@@ -12712,7 +12712,7 @@ Attack:Sharp Claws
 -Attacks an enemy, scales with STR  (Power:10-45x2) 
 Technique:Reaper
 -Attacks an enemy, scales with SPR (Drain) (Power:80-120)
--Heals the user a 25.0%  of the damage dealt
+-Heals the user a 25.0% of the damage dealt
 Inspirit: Unfairy Power
 -Increases an enemy loafing chances, making them unable to act sometimes (Tier:3)
 
@@ -13811,7 +13811,7 @@ Attack:Pinpoint Pierce
 -Attacks an enemy, scales with STR  (Power:30-66) (+5.0% Crit Chance) 
 Technique:Drain
 -Attacks an enemy, scales with SPR (Drain) (Power:50-110)
--Heals the user a 25.0%  of the damage dealt
+-Heals the user a 25.0% of the damage dealt
 Inspirit: Dig Deep
 -Increases an enemy loafing chances, making them unable to act sometimes (Tier:3)
 
@@ -14027,7 +14027,7 @@ Attack:Tail Slap
 -Attacks an enemy, scales with STR  (Power:100-150) 
 Technique:Reaper
 -Attacks an enemy, scales with SPR (Drain) (Power:80-120)
--Heals the user a 25.0%  of the damage dealt
+-Heals the user a 25.0% of the damage dealt
 Inspirit: Dark Descent
 -An enemy loses hp on their turns (tier:3)
 
@@ -14161,7 +14161,7 @@ Attack:Clobber
 -Attacks an enemy, scales with STR  (Power:75-112) 
 Technique:Reaper
 -Attacks an enemy, scales with SPR (Drain) (Power:80-120)
--Heals the user a 25.0%  of the damage dealt
+-Heals the user a 25.0% of the damage dealt
 Inspirit: Power of Terror
 -Increases an ally DEF (Tier:3)
 
