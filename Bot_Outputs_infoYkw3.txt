@@ -35,7 +35,7 @@ Medallium Nº: 1
 •Technique: Pebble
 -Attacks an enemy, scales with SPR (Earth) (Power:30-105)
 •Inspirit: Butter Fingers
--Confuses an enemy, making them attack their own allies sometimes (TIERS NOT AVAILABLE YET)
+-Confuses an enemy, making them attack their own allies sometimes (Tier:1)
 
 
 Flippit
@@ -74,7 +74,7 @@ Medallium Nº: 2
 •Technique: Pebble
 -Attacks an enemy, scales with SPR (Earth) (Power:30-105)
 •Inspirit: Disturb Sleep
--Reduces an enemy STR (TIERS NOT AVAILABLE YET)
+-Reduces an enemy STR (Tier:1)
 
 
 Pandle
@@ -113,7 +113,7 @@ Medallium Nº: 3
 •Technique: Fire
 -Attacks an enemy, scales with SPR (Fire) (Power:30-105)
 •Inspirit: Careless
--Reduces an enemy DEF (TIERS NOT AVAILABLE YET)
+-Reduces an enemy DEF (Tier:1)
 
 
 Undy
@@ -153,7 +153,7 @@ Medallium Nº: 4
 •Technique: Fire
 -Attacks an enemy, scales with SPR (Fire) (Power:30-105)
 •Inspirit: Defenseless
--Reduces an enemy DEF (TIERS NOT AVAILABLE YET)
+-Reduces an enemy DEF (Tier:1)
 
 
 Tanbo
@@ -192,7 +192,7 @@ Medallium Nº: 5
 •Technique: Pebble
 -Attacks an enemy, scales with SPR (Earth) (Power:30-105)
 •Inspirit: Gutsiness
--Increases an ally SPD (TIERS NOT AVAILABLE YET)
+-Increases an ally SPD (Tier:1)
 
 
 Cutta-nah
@@ -231,7 +231,7 @@ Medallium Nº: 6
 •Technique: Whirlwind
 -Attacks an enemy, scales with SPR (Wind) (Power:30-105)
 •Inspirit: Aimless
--Increases an enemy loafing chances, making them unable to act sometimes (TIERS NOT AVAILABLE YET)
+-Increases an enemy loafing chances, making them unable to act sometimes (Tier:1)
 
 
 Cutta-nah-nah
@@ -270,7 +270,7 @@ Medallium Nº: 7
 •Technique: Whirlwind
 -Attacks an enemy, scales with SPR (Wind) (Power:30-105)
 •Inspirit: Laziness
--Reduces an enemy STR (TIERS NOT AVAILABLE YET)
+-Reduces an enemy STR (Tier:1)
 
 
 Slacka-slash
@@ -308,7 +308,7 @@ Medallium Nº: 8
 •Technique: Hail
 -Attacks an enemy, scales with SPR (Ice) (Power:30-105)
 •Inspirit: Laziness
--Reduces an enemy STR (TIERS NOT AVAILABLE YET)
+-Reduces an enemy STR (Tier:1)
 
 
 Brushido
@@ -347,7 +347,7 @@ Medallium Nº: 9
 •Technique: Hail
 -Attacks an enemy, scales with SPR (Ice) (Power:30-105)
 •Inspirit: Freshen Up
--An ally recovers HP on their turns (TIERS NOT AVAILABLE YET)
+-An ally recovers HP on their turns (Tier:1)
 
 
 Washogun
@@ -386,7 +386,7 @@ Medallium Nº: 10
 •Technique: Frost
 -Attacks an enemy, scales with SPR (Ice) (Power:50-110)
 •Inspirit: Spruce Up
--An ally recovers HP on their turns (TIERS NOT AVAILABLE YET)
+-An ally recovers HP on their turns (Tier:1)
 
 
 Lie-in
@@ -425,7 +425,7 @@ Medallium Nº: 11
 •Technique: Hail
 -Attacks an enemy, scales with SPR (Ice) (Power:30-105)
 •Inspirit: Lionize
--Increases an ally STR (TIERS NOT AVAILABLE YET)
+-Increases an ally STR (Tier:1)
 
 
 Lie-in Heart
@@ -462,7 +462,7 @@ Medallium Nº: 12
 •Technique: Frost
 -Attacks an enemy, scales with SPR (Ice) (Power:50-110)
 •Inspirit: Lionize
--Increases an ally STR (TIERS NOT AVAILABLE YET)
+-Increases an ally STR (Tier:1)
 
 
 Hissfit
@@ -501,7 +501,7 @@ Medallium Nº: 13
 •Technique: Fire
 -Attacks an enemy, scales with SPR (Fire) (Power:30-105)
 •Inspirit: Meltdown
--Confuses an enemy, making them attack their own allies sometimes (TIERS NOT AVAILABLE YET)
+-Confuses an enemy, making them attack their own allies sometimes (Tier:1)
 
 
 Zerberker
@@ -538,7 +538,7 @@ Medallium Nº: 14
 •Technique: Fire
 -Attacks an enemy, scales with SPR (Fire) (Power:30-105)
 •Inspirit: Berserk
--Confuses an enemy, making them attack their own allies sometimes (TIERS NOT AVAILABLE YET)
+-Confuses an enemy, making them attack their own allies sometimes (Tier:1)
 
 
 Snartle
@@ -574,7 +574,7 @@ Medallium Nº: 15
 •Technique: Frost
 -Attacks an enemy, scales with SPR (Ice) (Power:50-110)
 •Inspirit: Frighten
--Increases an enemy loafing chances, making them unable to act sometimes (TIERS NOT AVAILABLE YET)
+-Increases an enemy loafing chances, making them unable to act sometimes (Tier:1)
 
 
 Brutle
@@ -610,7 +610,7 @@ Medallium Nº: 16
 •Technique: Frost
 -Attacks an enemy, scales with SPR (Ice) (Power:50-110)
 •Inspirit: Expose Weakness
--Reduces an enemy DEF (TIERS NOT AVAILABLE YET)
+-Reduces an enemy DEF (Tier:1)
 
 
 Mochismo
@@ -649,7 +649,7 @@ Medallium Nº: 17
 •Technique: Pebble
 -Attacks an enemy, scales with SPR (Earth) (Power:30-105)
 •Inspirit: Mochi Power
-Makes the enemy unable to move around the grid (TIERS NOT AVAILABLE YET)
+-Makes the enemy unable to move around the grid (Tier:1)
 
 
 Minochi
@@ -688,7 +688,7 @@ Medallium Nº: 18
 •Technique: Fire
 -Attacks an enemy, scales with SPR (Fire) (Power:30-105)
 •Inspirit: Jealousy
--Confuses an enemy, making them attack their own allies sometimes (TIERS NOT AVAILABLE YET)
+-Confuses an enemy, making them attack their own allies sometimes (Tier:1)
 
 
 Minimoto
@@ -728,7 +728,7 @@ Medallium Nº: 19
 •Technique: Whirlwind
 -Attacks an enemy, scales with SPR (Wind) (Power:30-105)
 •Inspirit: Step it Up!
--Increases an ally SPD (TIERS NOT AVAILABLE YET)
+-Increases an ally SPD (Tier:1)
 
 
 Slumberhog
@@ -768,7 +768,7 @@ Medallium Nº: 20
 •Technique: Fire
 -Attacks an enemy, scales with SPR (Fire) (Power:30-105)
 •Inspirit: Bedtime
--Increases an enemy loafing chances, making them unable to act sometimes (TIERS NOT AVAILABLE YET)
+-Increases an enemy loafing chances, making them unable to act sometimes (Tier:1)
 
 
 Snortlehog
@@ -806,7 +806,7 @@ Medallium Nº: 21
 •Technique: Blaze
 -Attacks an enemy, scales with SPR (Fire) (Power:50-110)
 •Inspirit: Festival Fun
--Increases an ally STR (TIERS NOT AVAILABLE YET)
+-Increases an ally STR (Tier:1)
 
 
 Samureel
@@ -846,7 +846,7 @@ Medallium Nº: 22
 •Technique: Torrent
 -Attacks an enemy, scales with SPR (Water) (Power:30-105)
 •Inspirit: Eelectrify
--Increases an ally stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Increases an ally stats (STR, SPR, DEF and SPD) (Tier:2)
 
 
 Time Keeler
@@ -884,7 +884,7 @@ Medallium Nº: 23
 •Technique: Rapids
 -Attacks an enemy, scales with SPR (Water) (Power:50-110)
 •Inspirit: Eelectrify
--Increases an ally stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Increases an ally stats (STR, SPR, DEF and SPD) (Tier:2)
 
 
 Goofball
@@ -924,7 +924,7 @@ Medallium Nº: 24
 •Technique: Hail
 -Attacks an enemy, scales with SPR (Ice) (Power:30-105)
 •Inspirit: Goof Up
--Reduces an enemy STR (TIERS NOT AVAILABLE YET)
+-Reduces an enemy STR (Tier:1)
 
 
 Slugger
@@ -963,7 +963,7 @@ Medallium Nº: 25
 •Technique: Frost
 -Attacks an enemy, scales with SPR (Ice) (Power:50-110)
 •Inspirit: Can-Do Champion
--Increases an ally STR (TIERS NOT AVAILABLE YET)
+-Increases an ally STR (Tier:1)
 
 
 Helmsman
@@ -1002,7 +1002,7 @@ Medallium Nº: 26
 •Technique: Shock
 -Attacks an enemy, scales with SPR (Lightning) (Power:30-105)
 •Inspirit: Helmet Defense
--Increases an ally DEF (TIERS NOT AVAILABLE YET)
+-Increases an ally DEF (Tier:1)
 
 
 Reuknight
@@ -1040,7 +1040,7 @@ Medallium Nº: 27
 •Technique: Lightning
 -Attacks an enemy, scales with SPR (Lightning) (Power:50-110)
 •Inspirit: Knight's Curse
--Reduces an enemy SPR (TIERS NOT AVAILABLE YET)
+-Reduces an enemy SPR (Tier:1)
 
 
 Corptain
@@ -1078,7 +1078,7 @@ Medallium Nº: 28
 -Attacks an enemy, scales with SPR (Drain) (Power:40-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Stygian Curse
--Reduces an enemy SPR (TIERS NOT AVAILABLE YET)
+-Reduces an enemy SPR (Tier:1)
 
 
 Slicenrice
@@ -1117,7 +1117,7 @@ Medallium Nº: 29
 •Technique: Heal
 -Heals an ally, scales with SPR (Power:30-105)
 •Inspirit: Power Snack
--Increases an ally STR (TIERS NOT AVAILABLE YET)
+-Increases an ally STR (Tier:1)
 
 
 Flamurice
@@ -1154,7 +1154,7 @@ Medallium Nº: 30
 •Technique: Blaze
 -Attacks an enemy, scales with SPR (Fire) (Power:50-110)
 •Inspirit: Power Lunch
--Increases an ally STR (TIERS NOT AVAILABLE YET)
+-Increases an ally STR (Tier:1)
 
 
 Tublappa
@@ -1193,7 +1193,7 @@ Medallium Nº: 31
 •Technique: Shock
 -Attacks an enemy, scales with SPR (Lightning) (Power:30-105)
 •Inspirit: Sick Lick
--Increases an enemy loafing chances, making them unable to act sometimes (TIERS NOT AVAILABLE YET)
+-Increases an enemy loafing chances, making them unable to act sometimes (Tier:1)
 
 
 Lappinitup
@@ -1231,7 +1231,7 @@ Medallium Nº: 32
 -Attacks an enemy, scales with SPR (Drain) (Power:40-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Lap it Up!
--Increases an ally stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Increases an ally stats (STR, SPR, DEF and SPD) (Tier:1)
 
 
 El Gutso
@@ -1270,7 +1270,7 @@ Medallium Nº: 33
 •Technique: Fire
 -Attacks an enemy, scales with SPR (Fire) (Power:30-105)
 •Inspirit: Gutsy Gambler
--Increases an ally STR (TIERS NOT AVAILABLE YET)
+-Increases an ally STR (Tier:1)
 
 
 Gutso Grande
@@ -1307,7 +1307,7 @@ Medallium Nº: 34
 •Technique: Fire
 -Attacks an enemy, scales with SPR (Fire) (Power:30-105)
 •Inspirit: Grande Guts
--Increases an ally STR (TIERS NOT AVAILABLE YET)
+-Increases an ally STR (Tier:1)
 
 
 Mudmunch
@@ -1346,7 +1346,7 @@ Medallium Nº: 35
 •Technique: Rockslide
 -Attacks an enemy, scales with SPR (Earth) (Power:50-110)
 •Inspirit: Sucking Mud
--An enemy loses HP on their turns (TIERS NOT AVAILABLE YET)
+-An enemy loses HP on their turns (Tier:1)
 
 
 BBQvil
@@ -1386,7 +1386,7 @@ Medallium Nº: 36
 •Technique: Fire
 -Attacks an enemy, scales with SPR (Fire) (Power:30-105)
 •Inspirit: Meat-a-mins
--Increases an ally STR (TIERS NOT AVAILABLE YET)
+-Increases an ally STR (Tier:1)
 
 
 Liarbird
@@ -1425,7 +1425,7 @@ Medallium Nº: 37
 •Technique: Whirlwind
 -Attacks an enemy, scales with SPR (Wind) (Power:30-105)
 •Inspirit: Me Know Nothing...
--Increases an enemy loafing chances, making them unable to act sometimes (TIERS NOT AVAILABLE YET)
+-Increases an enemy loafing chances, making them unable to act sometimes (Tier:1)
 
 
 Benkei
@@ -1464,7 +1464,7 @@ Medallium Nº: 38
 •Technique: Hail
 -Attacks an enemy, scales with SPR (Ice) (Power:30-105)
 •Inspirit: Clumsiness
--Reduces an enemy SPR (TIERS NOT AVAILABLE YET)
+-Reduces an enemy SPR (Tier:1)
 
 
 B3-NK1
@@ -1502,7 +1502,7 @@ Medallium Nº: 39
 •Technique: Shock
 -Attacks an enemy, scales with SPR (Lightning) (Power:30-105)
 •Inspirit: Cyborg Strength
--Increases an ally DEF (TIERS NOT AVAILABLE YET)
+-Increases an ally DEF (Tier:1)
 
 
 Blazion
@@ -1541,7 +1541,7 @@ Medallium Nº: 40
 •Technique: Blaze
 -Attacks an enemy, scales with SPR (Fire) (Power:50-110)
 •Inspirit: Emblaze
--Increases an ally STR (TIERS NOT AVAILABLE YET)
+-Increases an ally STR (Tier:1)
 
 
 Quaken
@@ -1579,7 +1579,7 @@ Medallium Nº: 41
 •Technique: Rockslide
 -Attacks an enemy, scales with SPR (Earth) (Power:50-110)
 •Inspirit: Lion's Pride
--Increases an ally DEF (TIERS NOT AVAILABLE YET)
+-Increases an ally DEF (Tier:1)
 
 
 Siro
@@ -1616,7 +1616,7 @@ Medallium Nº: 42
 •Technique: Lightning
 -Attacks an enemy, scales with SPR (Lightning) (Power:50-110)
 •Inspirit: Heart's Roar
--Increases an ally SPD (TIERS NOT AVAILABLE YET)
+-Increases an ally SPD (Tier:1)
 
 
 Chansin
@@ -1655,7 +1655,7 @@ Medallium Nº: 43
 •Technique: Fire
 -Attacks an enemy, scales with SPR (Fire) (Power:30-105)
 •Inspirit: Bad Bet
--Reduces an enemy DEF (TIERS NOT AVAILABLE YET)
+-Reduces an enemy DEF (Tier:1)
 
 
 Sheen
@@ -1692,7 +1692,7 @@ Medallium Nº: 44
 •Technique: Whirlwind
 -Attacks an enemy, scales with SPR (Wind) (Power:30-105)
 •Inspirit: Fine Weapon
--Increases an ally STR (TIERS NOT AVAILABLE YET)
+-Increases an ally STR (Tier:1)
 
 
 Snee
@@ -1730,7 +1730,7 @@ Medallium Nº: 45
 -Attacks an enemy, scales with SPR (Drain) (Power:25-87)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Cursed Sword
--Reduces an enemy SPD (TIERS NOT AVAILABLE YET)
+-Reduces an enemy SPD (Tier:1)
 
 
 Gleam
@@ -1766,7 +1766,7 @@ Medallium Nº: 46
 •Technique: Shock
 -Attacks an enemy, scales with SPR (Lightning) (Power:30-105)
 •Inspirit: Holy Sword
--Increases an ally STR (TIERS NOT AVAILABLE YET)
+-Increases an ally STR (Tier:1)
 
 
 Hovernyan
@@ -1804,7 +1804,7 @@ Medallium Nº: 47
 •Technique: Tornado
 -Attacks an enemy, scales with SPR (Wind) (Power:50-110)
 •Inspirit: Pal Power
--Increases an ally STR (TIERS NOT AVAILABLE YET)
+-Increases an ally STR (Tier:1)
 
 
 Moximous N
@@ -1842,7 +1842,7 @@ Medallium Nº: 48
 •Technique: Storm
 -Attacks an enemy, scales with SPR (Wind) (Power:70-112)
 •Inspirit: Moximous
--Increases an ally STR (TIERS NOT AVAILABLE YET)
+-Increases an ally STR (Tier:1)
 
 
 Moximous K
@@ -1880,7 +1880,7 @@ Medallium Nº: 49
 •Technique: Waterfall
 -Attacks an enemy, scales with SPR (Water) (Power:70-112)
 •Inspirit: Moximous
--Increases an ally STR (TIERS NOT AVAILABLE YET)
+-Increases an ally STR (Tier:1)
 
 
 Hot Air Buffoon
@@ -1919,7 +1919,7 @@ Medallium Nº: 50
 •Technique: Blaze
 -Attacks an enemy, scales with SPR (Fire) (Power:50-110)
 •Inspirit: Inflated Ego
--Increases an enemy loafing chances, making them unable to act sometimes (TIERS NOT AVAILABLE YET)
+-Increases an enemy loafing chances, making them unable to act sometimes (Tier:1)
 
 
 Sushiyama
@@ -1958,7 +1958,7 @@ Medallium Nº: 51
 •Technique: Frost
 -Attacks an enemy, scales with SPR (Ice) (Power:50-110)
 •Inspirit: Samurai Spirit
--Increases an ally STR (TIERS NOT AVAILABLE YET)
+-Increases an ally STR (Tier:1)
 
 
 Kapunki
@@ -1996,7 +1996,7 @@ Medallium Nº: 52
 •Technique: Blaze
 -Attacks an enemy, scales with SPR (Fire) (Power:50-110)
 •Inspirit: Kabuki Fun
--Increases an ally STR (TIERS NOT AVAILABLE YET)
+-Increases an ally STR (Tier:1)
 
 
 Beetler
@@ -2034,7 +2034,7 @@ Medallium Nº: 53
 •Technique: Pebble
 -Attacks an enemy, scales with SPR (Earth) (Power:30-105)
 •Inspirit: Stag Power
--Increases an ally STR (TIERS NOT AVAILABLE YET)
+-Increases an ally STR (Tier:1)
 
 
 Beetall
@@ -2071,7 +2071,7 @@ Medallium Nº: 54
 •Technique: Frost
 -Attacks an enemy, scales with SPR (Ice) (Power:50-110)
 •Inspirit: Fighter Power
--Increases an ally STR (TIERS NOT AVAILABLE YET)
+-Increases an ally STR (Tier:1)
 
 
 Cruncha
@@ -2107,7 +2107,7 @@ Medallium Nº: 55
 •Technique: Lightning
 -Attacks an enemy, scales with SPR (Lightning) (Power:50-110)
 •Inspirit: Legend Power
--Increases an ally STR (TIERS NOT AVAILABLE YET)
+-Increases an ally STR (Tier:1)
 
 
 Machonyan
@@ -2144,7 +2144,7 @@ Medallium Nº: 56
 •Technique: Shock
 -Attacks an enemy, scales with SPR (Lightning) (Power:30-105)
 •Inspirit: Tiger Power
--Increases an ally STR (TIERS NOT AVAILABLE YET)
+-Increases an ally STR (Tier:1)
 
 
 Momonyan
@@ -2181,7 +2181,7 @@ Medallium Nº: 57
 •Technique: Blaze
 -Attacks an enemy, scales with SPR (Fire) (Power:50-110)
 •Inspirit: Delicious Dumpling
--Increases an ally STR (TIERS NOT AVAILABLE YET)
+-Increases an ally STR (Tier:1)
 
 
 Sir Nyansalot
@@ -2218,7 +2218,7 @@ Medallium Nº: 58
 •Technique: Frost
 -Attacks an enemy, scales with SPR (Ice) (Power:50-110)
 •Inspirit: Oath of Fealty
--Increases an ally DEF (TIERS NOT AVAILABLE YET)
+-Increases an ally DEF (Tier:1)
 
 
 Sgt. Burly
@@ -2255,7 +2255,7 @@ Medallium Nº: 59
 •Technique: Lightning
 -Attacks an enemy, scales with SPR (Lightning) (Power:50-110)
 •Inspirit: Fighting Fit
--Increases an ally stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Increases an ally stats (STR, SPR, DEF and SPD) (Tier:2)
 
 
 Bison Burly
@@ -2291,7 +2291,7 @@ Medallium Nº: 60
 •Technique: Lightning
 -Attacks an enemy, scales with SPR (Lightning) (Power:50-110)
 •Inspirit: Morale Boost
--Increases an ally stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Increases an ally stats (STR, SPR, DEF and SPD) (Tier:1)
 
 
 Demuncher
@@ -2327,7 +2327,7 @@ Medallium Nº: 61
 •Technique: Rockslide
 -Attacks an enemy, scales with SPR (Earth) (Power:50-110)
 •Inspirit: Fightamins
--Increases an ally STR (TIERS NOT AVAILABLE YET)
+-Increases an ally STR (Tier:1)
 
 
 Devourer
@@ -2364,7 +2364,7 @@ Medallium Nº: 62
 -Attacks an enemy, scales with SPR (Drain) (Power:55-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Maulnutrition
--An enemy loses HP on their turns (TIERS NOT AVAILABLE YET)
+-An enemy loses HP on their turns (Tier:1)
 
 
 Illuminoct
@@ -2400,7 +2400,7 @@ Medallium Nº: 63
 •Technique: Voltage
 -Attacks an enemy, scales with SPR (Lightning) (Power:70-112)
 •Inspirit: Light of Life
--An ally recovers HP on their turns (TIERS NOT AVAILABLE YET)
+-An ally recovers HP on their turns (Tier:2)
 
 
 Arachnevil
@@ -2436,7 +2436,7 @@ Medallium Nº: 64
 •Technique: Fire
 -Attacks an enemy, scales with SPR (Fire) (Power:30-105)
 •Inspirit: Curse of the Oni
--An enemy loses HP on their turns (TIERS NOT AVAILABLE YET)
+-An enemy loses HP on their turns (Tier:1)
 
 
 Shurikenny
@@ -2472,7 +2472,7 @@ Medallium Nº: 65
 •Technique: Tornado
 -Attacks an enemy, scales with SPR (Wind) (Power:50-110)
 •Inspirit: Taunt
--Reduces an enemy SPD (TIERS NOT AVAILABLE YET)
+-Reduces an enemy SPD (Tier:1)
 
 
 Nunchucky
@@ -2508,7 +2508,7 @@ Medallium Nº: 66
 •Technique: Tornado
 -Attacks an enemy, scales with SPR (Wind) (Power:50-110)
 •Inspirit: Taunt
--Reduces an enemy SPD (TIERS NOT AVAILABLE YET)
+-Reduces an enemy SPD (Tier:1)
 
 
 Camellia
@@ -2544,7 +2544,7 @@ Medallium Nº: 67
 •Technique: Paradise
 -Heals an ally, scales with SPR (Power:70-112)
 •Inspirit: Florescent Flourish
--An ally recovers HP on their turns (TIERS NOT AVAILABLE YET)
+-An ally recovers HP on their turns (Tier:1)
 
 
 Brokenbrella
@@ -2584,7 +2584,7 @@ Medallium Nº: 68
 •Technique: Whirlwind
 -Attacks an enemy, scales with SPR (Wind) (Power:30-105)
 •Inspirit: Tailwind
--Increases an ally SPD (TIERS NOT AVAILABLE YET)
+-Increases an ally SPD (Tier:1)
 
 
 Pittapatt
@@ -2624,7 +2624,7 @@ Medallium Nº: 69
 •Technique: Pebble
 -Attacks an enemy, scales with SPR (Earth) (Power:30-105)
 •Inspirit: Bless My Sole
--Increases an ally SPD (TIERS NOT AVAILABLE YET)
+-Increases an ally SPD (Tier:1)
 
 
 Zip Unlock
@@ -2663,7 +2663,7 @@ Medallium Nº: 70
 •Technique: Shock
 -Attacks an enemy, scales with SPR (Lightning) (Power:30-105)
 •Inspirit: Unzip Defenses
--Reduces an enemy DEF (TIERS NOT AVAILABLE YET)
+-Reduces an enemy DEF (Tier:3)
 
 
 Slippup
@@ -2702,7 +2702,7 @@ Medallium Nº: 71
 •Technique: Hail
 -Attacks an enemy, scales with SPR (Ice) (Power:30-105)
 •Inspirit: Slip'n'slide
--Increases an ally SPD (TIERS NOT AVAILABLE YET)
+-Increases an ally SPD (Tier:1)
 
 
 Snotsolong
@@ -2741,7 +2741,7 @@ Medallium Nº: 72
 •Technique: Torrent
 -Attacks an enemy, scales with SPR (Water) (Power:30-105)
 •Inspirit: Runny Nose
--Increases an enemy loafing chances, making them unable to act sometimes (TIERS NOT AVAILABLE YET)
+-Increases an enemy loafing chances, making them unable to act sometimes (Tier:1)
 
 
 Duchoo
@@ -2780,7 +2780,7 @@ Medallium Nº: 73
 •Technique: Frost
 -Attacks an enemy, scales with SPR (Ice) (Power:50-110)
 •Inspirit: Catch Cold
--Reduces an enemy STR (TIERS NOT AVAILABLE YET)
+-Reduces an enemy STR (Tier:1)
 
 
 D'wanna
@@ -2820,7 +2820,7 @@ Medallium Nº: 74
 •Technique: Heal
 -Heals an ally, scales with SPR (Power:30-105)
 •Inspirit: Full of Sighs
--Reduces an enemy STR (TIERS NOT AVAILABLE YET)
+-Reduces an enemy STR (Tier:2)
 
 
 N'more
@@ -2860,7 +2860,7 @@ Medallium Nº: 75
 •Technique: Restore
 -Heals an ally, scales with SPR (Power:50-110)
 •Inspirit: Full of Sighs
--Reduces an enemy STR (TIERS NOT AVAILABLE YET)
+-Reduces an enemy STR (Tier:2)
 
 
 Q'wit
@@ -2900,7 +2900,7 @@ Medallium Nº: 76
 •Technique: Rockslide
 -Attacks an enemy, scales with SPR (Earth) (Power:50-110)
 •Inspirit: Demotivator
--Reduces an enemy stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Reduces an enemy stats (STR, SPR, DEF and SPD) (Tier:2)
 
 
 Wazzat
@@ -2939,7 +2939,7 @@ Medallium Nº: 77
 •Technique: Whirlwind
 -Attacks an enemy, scales with SPR (Wind) (Power:30-105)
 •Inspirit: Memory Eater
--Confuses an enemy, making them attack their own allies sometimes (TIERS NOT AVAILABLE YET)
+-Confuses an enemy, making them attack their own allies sometimes (Tier:2)
 
 
 Houzzat
@@ -2977,7 +2977,7 @@ Medallium Nº: 78
 •Technique: Tornado
 -Attacks an enemy, scales with SPR (Wind) (Power:50-110)
 •Inspirit: Memory Loss
--Confuses an enemy, making them attack their own allies sometimes (TIERS NOT AVAILABLE YET)
+-Confuses an enemy, making them attack their own allies sometimes (Tier:2)
 
 
 Dummkap
@@ -3016,7 +3016,7 @@ Medallium Nº: 79
 •Technique: Shock
 -Attacks an enemy, scales with SPR (Lightning) (Power:30-105)
 •Inspirit: Playfulness
--Increases an ally SPR (TIERS NOT AVAILABLE YET)
+-Increases an ally SPR (Tier:3)
 
 
 Who-Me
@@ -3055,7 +3055,7 @@ Medallium Nº: 80
 •Technique: Whirlwind
 -Attacks an enemy, scales with SPR (Wind) (Power:30-105)
 •Inspirit: Mishear
--Confuses an enemy, making them attack their own allies sometimes (TIERS NOT AVAILABLE YET)
+-Confuses an enemy, making them attack their own allies sometimes (Tier:1)
 
 
 2-Much-2-Take
@@ -3092,7 +3092,7 @@ Medallium Nº: 81
 •Technique: Storm
 -Attacks an enemy, scales with SPR (Wind) (Power:70-112)
 •Inspirit: Hear-Too-Much
--Confuses an enemy, making them attack their own allies sometimes (TIERS NOT AVAILABLE YET)
+-Confuses an enemy, making them attack their own allies sometimes (Tier:1)
 
 
 Why Naant
@@ -3132,7 +3132,7 @@ Medallium Nº: 82
 •Technique: Shock
 -Attacks an enemy, scales with SPR (Lightning) (Power:30-105)
 •Inspirit: But Whhhyyy?!
--Increases an enemy loafing chances, making them unable to act sometimes (TIERS NOT AVAILABLE YET)
+-Increases an enemy loafing chances, making them unable to act sometimes (Tier:1)
 
 
 Naandhi
@@ -3169,7 +3169,7 @@ Medallium Nº: 83
 •Technique: Lightning
 -Attacks an enemy, scales with SPR (Lightning) (Power:50-110)
 •Inspirit: A-meh-zing
--Increases an ally stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Increases an ally stats (STR, SPR, DEF and SPD) (Tier:1)
 
 
 Faysoff
@@ -3208,7 +3208,7 @@ Medallium Nº: 84
 •Technique: Torrent
 -Attacks an enemy, scales with SPR (Water) (Power:30-105)
 •Inspirit: Losing Face
--Reduces an enemy DEF (TIERS NOT AVAILABLE YET)
+-Reduces an enemy DEF (Tier:1)
 
 
 Snottle
@@ -3249,7 +3249,7 @@ Medallium Nº: 85
 -Attacks an enemy, scales with SPR (Drain) (Power:40-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Dig Deep
--Increases an enemy loafing chances, making them unable to act sometimes (TIERS NOT AVAILABLE YET)
+-Increases an enemy loafing chances, making them unable to act sometimes (Tier:2)
 
 
 Legsit
@@ -3289,7 +3289,7 @@ Medallium Nº: 86
 •Technique: Torrent
 -Attacks an enemy, scales with SPR (Water) (Power:30-105)
 •Inspirit: Leg it!
--Increases an ally SPD (TIERS NOT AVAILABLE YET)
+-Increases an ally SPD (Tier:1)
 
 
 Chukket
@@ -3329,7 +3329,7 @@ Medallium Nº: 87
 •Technique: Pebble
 -Attacks an enemy, scales with SPR (Earth) (Power:30-105)
 •Inspirit: Pass the Chuk
--Increases an enemy loafing chances, making them unable to act sometimes (TIERS NOT AVAILABLE YET)
+-Increases an enemy loafing chances, making them unable to act sometimes (Tier:1)
 
 
 Cornfused
@@ -3369,7 +3369,7 @@ Medallium Nº: 88
 •Technique: Lightning
 -Attacks an enemy, scales with SPR (Lightning) (Power:50-110)
 •Inspirit: Cornfuse
--Reduces an enemy STR (TIERS NOT AVAILABLE YET)
+-Reduces an enemy STR (Tier:1)
 
 
 Unshelltered
@@ -3409,7 +3409,7 @@ Medallium Nº: 89
 •Technique: Hail
 -Attacks an enemy, scales with SPR (Ice) (Power:30-105)
 •Inspirit: Shell Shatter
--Increases an ally stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Increases an ally stats (STR, SPR, DEF and SPD) (Tier:1)
 
 
 Lafalotta
@@ -3449,7 +3449,7 @@ Medallium Nº: 90
 -Attacks an enemy, scales with SPR (Drain) (Power:25-87)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Side Splitter
--Increases an enemy loafing chances, making them unable to act sometimes (TIERS NOT AVAILABLE YET)
+-Increases an enemy loafing chances, making them unable to act sometimes (Tier:1)
 
 
 Blips
@@ -3489,7 +3489,7 @@ Medallium Nº: 91
 -Attacks an enemy, scales with SPR (Drain) (Power:40-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Shivers
--Reduces an enemy SPR (TIERS NOT AVAILABLE YET)
+-Reduces an enemy SPR (Tier:2)
 
 
 Tattletell
@@ -3528,7 +3528,7 @@ Medallium Nº: 92
 •Technique: Restore
 -Heals an ally, scales with SPR (Power:50-110)
 •Inspirit: Disclose
--Reduces an enemy DEF (TIERS NOT AVAILABLE YET)
+-Reduces an enemy DEF (Tier:1)
 
 
 Tattlecast
@@ -3567,7 +3567,7 @@ Medallium Nº: 93
 •Technique: Paradise
 -Heals an ally, scales with SPR (Power:70-112)
 •Inspirit: Disclose
--Reduces an enemy DEF (TIERS NOT AVAILABLE YET)
+-Reduces an enemy DEF (Tier:1)
 
 
 Skranny
@@ -3606,7 +3606,7 @@ Medallium Nº: 94
 •Technique: Restore
 -Heals an ally, scales with SPR (Power:50-110)
 •Inspirit: Face Paint
--Reduces an enemy DEF (TIERS NOT AVAILABLE YET)
+-Reduces an enemy DEF (Tier:1)
 
 
 Cupistol
@@ -3645,7 +3645,7 @@ Medallium Nº: 95
 •Technique: Whirlwind
 -Attacks an enemy, scales with SPR (Wind) (Power:30-105)
 •Inspirit: Popularize
--Increases an ally SPR (TIERS NOT AVAILABLE YET)
+-Increases an ally SPR (Tier:1)
 
 
 Casanuva
@@ -3683,7 +3683,7 @@ Medallium Nº: 96
 •Technique: Storm
 -Attacks an enemy, scales with SPR (Wind) (Power:70-112)
 •Inspirit: Popularize
--Increases an ally SPR (TIERS NOT AVAILABLE YET)
+-Increases an ally SPR (Tier:1)
 
 
 Casanono
@@ -3721,7 +3721,7 @@ Medallium Nº: 97
 •Technique: Blaze
 -Attacks an enemy, scales with SPR (Fire) (Power:50-110)
 •Inspirit: Unpopularize
--Reduces an enemy SPR (TIERS NOT AVAILABLE YET)
+-Reduces an enemy SPR (Tier:1)
 
 
 So-Sorree
@@ -3760,7 +3760,7 @@ Medallium Nº: 98
 •Technique: Shock
 -Attacks an enemy, scales with SPR (Lightning) (Power:30-105)
 •Inspirit: Not So Sorry
--Increases an enemy loafing chances, making them unable to act sometimes (TIERS NOT AVAILABLE YET)
+-Increases an enemy loafing chances, making them unable to act sometimes (Tier:1)
 
 
 Bowminos
@@ -3798,7 +3798,7 @@ Medallium Nº: 99
 •Technique: Meteor
 -Attacks an enemy, scales with SPR (Earth) (Power:70-112)
 •Inspirit: Not So Sorry
--Increases an enemy loafing chances, making them unable to act sometimes (TIERS NOT AVAILABLE YET)
+-Increases an enemy loafing chances, making them unable to act sometimes (Tier:1)
 
 
 Smogling
@@ -3838,7 +3838,7 @@ Medallium Nº: 100
 •Technique: Whirlwind
 -Attacks an enemy, scales with SPR (Wind) (Power:30-105)
 •Inspirit: Amazing Haze
--Increases an ally SPR (TIERS NOT AVAILABLE YET)
+-Increases an ally SPR (Tier:1)
 
 
 Smogmella
@@ -3875,7 +3875,7 @@ Medallium Nº: 101
 •Technique: Storm
 -Attacks an enemy, scales with SPR (Wind) (Power:70-112)
 •Inspirit: Amazing Haze
--Increases an ally SPR (TIERS NOT AVAILABLE YET)
+-Increases an ally SPR (Tier:1)
 
 
 Signibble
@@ -3914,7 +3914,7 @@ Medallium Nº: 102
 •Technique: Lightning
 -Attacks an enemy, scales with SPR (Lightning) (Power:50-110)
 •Inspirit: Paralyze
-Makes the enemy unable to move around the grid (TIERS NOT AVAILABLE YET)
+-Makes the enemy unable to move around the grid (Tier:1)
 
 
 Signiton
@@ -3951,7 +3951,7 @@ Medallium Nº: 103
 •Technique: Voltage
 -Attacks an enemy, scales with SPR (Lightning) (Power:70-112)
 •Inspirit: Paralyze
-Makes the enemy unable to move around the grid (TIERS NOT AVAILABLE YET)
+-Makes the enemy unable to move around the grid (Tier:1)
 
 
 Master Oden
@@ -3989,7 +3989,7 @@ Medallium Nº: 104
 •Technique: Voltage
 -Attacks an enemy, scales with SPR (Lightning) (Power:70-112)
 •Inspirit: Hot Pot
--An ally recovers HP on their turns (TIERS NOT AVAILABLE YET)
+-An ally recovers HP on their turns (Tier:1)
 
 
 Statiking
@@ -4025,7 +4025,7 @@ Medallium Nº: 105
 •Technique: Voltage
 -Attacks an enemy, scales with SPR (Lightning) (Power:70-112)
 •Inspirit: Electrocute
--An enemy loses HP on their turns (TIERS NOT AVAILABLE YET)
+-An enemy loses HP on their turns (Tier:1)
 
 
 Failian
@@ -4065,7 +4065,7 @@ Medallium Nº: 106
 •Technique: Blizzard
 -Attacks an enemy, scales with SPR (Ice) (Power:70-112)
 •Inspirit: Lying Saucer
--Increases an enemy loafing chances, making them unable to act sometimes (TIERS NOT AVAILABLE YET)
+-Increases an enemy loafing chances, making them unable to act sometimes (Tier:1)
 
 
 Apelican
@@ -4104,7 +4104,7 @@ Medallium Nº: 107
 •Technique: Tornado
 -Attacks an enemy, scales with SPR (Wind) (Power:50-110)
 •Inspirit: Stats n' Stripes
--Increases an ally stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Increases an ally stats (STR, SPR, DEF and SPD) (Tier:1)
 
 
 Fuu 2
@@ -4143,7 +4143,7 @@ Medallium Nº: 108
 •Technique: Tornado
 -Attacks an enemy, scales with SPR (Wind) (Power:50-110)
 •Inspirit: Normalize
--Reduces an enemy stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Reduces an enemy stats (STR, SPR, DEF and SPD) (Tier:1)
 
 
 Shrillington
@@ -4184,7 +4184,7 @@ Medallium Nº: 109
 -Attacks an enemy, scales with SPR (Drain) (Power:40-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Snobbery
--Confuses an enemy, making them attack their own allies sometimes (TIERS NOT AVAILABLE YET)
+-Confuses an enemy, making them attack their own allies sometimes (Tier:2)
 
 
 House Partay
@@ -4224,7 +4224,7 @@ Medallium Nº: 110
 •Technique: Blaze
 -Attacks an enemy, scales with SPR (Fire) (Power:50-110)
 •Inspirit: Paaaaaartay!
--Increases an ally stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Increases an ally stats (STR, SPR, DEF and SPD) (Tier:1)
 
 
 Skulleidoscope
@@ -4263,7 +4263,7 @@ Medallium Nº: 111
 •Technique: Rapids
 -Attacks an enemy, scales with SPR (Water) (Power:50-110)
 •Inspirit: Rainbow Aura
--Increases an ally SPR (TIERS NOT AVAILABLE YET)
+-Increases an ally SPR (Tier:1)
 
 
 Lionguist
@@ -4302,7 +4302,7 @@ Medallium Nº: 112
 •Technique: Blaze
 -Attacks an enemy, scales with SPR (Fire) (Power:50-110)
 •Inspirit: Loquaciousness
--Reduces an enemy DEF (TIERS NOT AVAILABLE YET)
+-Reduces an enemy DEF (Tier:1)
 
 
 Illoo
@@ -4342,7 +4342,7 @@ Medallium Nº: 113
 •Technique: Rapids
 -Attacks an enemy, scales with SPR (Water) (Power:50-110)
 •Inspirit: Illusion Power
--Increases an ally SPR (TIERS NOT AVAILABLE YET)
+-Increases an ally SPR (Tier:1)
 
 
 Elloo
@@ -4382,7 +4382,7 @@ Medallium Nº: 114
 •Technique: Frost
 -Attacks an enemy, scales with SPR (Ice) (Power:50-110)
 •Inspirit: Haze Power
--Increases an ally SPD (TIERS NOT AVAILABLE YET)
+-Increases an ally SPD (Tier:1)
 
 
 Alloo
@@ -4421,7 +4421,7 @@ Medallium Nº: 115
 •Technique: Lightning
 -Attacks an enemy, scales with SPR (Lightning) (Power:50-110)
 •Inspirit: Wanderlust
--Reduces an enemy DEF (TIERS NOT AVAILABLE YET)
+-Reduces an enemy DEF (Tier:1)
 
 
 Espy
@@ -4460,7 +4460,7 @@ Medallium Nº: 116
 •Technique: Rockslide
 -Attacks an enemy, scales with SPR (Earth) (Power:50-110)
 •Inspirit: Expose Weakness
--Reduces an enemy DEF (TIERS NOT AVAILABLE YET)
+-Reduces an enemy DEF (Tier:1)
 
 
 Infour
@@ -4499,7 +4499,7 @@ Medallium Nº: 117
 -Attacks an enemy, scales with SPR (Drain) (Power:40-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Mysterious Power
--Reduces an enemy SPR (TIERS NOT AVAILABLE YET)
+-Reduces an enemy SPR (Tier:2)
 
 
 Mirapo
@@ -4540,7 +4540,7 @@ Medallium Nº: 118
 -Attacks an enemy, scales with SPR (Drain) (Power:40-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Mirror Power
--Increases an ally SPR (TIERS NOT AVAILABLE YET)
+-Increases an ally SPR (Tier:1)
 
 
 Miradox
@@ -4579,7 +4579,7 @@ Medallium Nº: 119
 -Attacks an enemy, scales with SPR (Drain) (Power:55-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Mirror Power
--Increases an ally SPR (TIERS NOT AVAILABLE YET)
+-Increases an ally SPR (Tier:1)
 
 
 Mircle
@@ -4618,7 +4618,7 @@ Medallium Nº: 120
 -Attacks an enemy, scales with SPR (Drain) (Power:55-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Cursed Mirror
--Reduces an enemy SPR (TIERS NOT AVAILABLE YET)
+-Reduces an enemy SPR (Tier:1)
 
 
 Verygoodsir
@@ -4656,7 +4656,7 @@ Medallium Nº: 121
 •Technique: Restore
 -Heals an ally, scales with SPR (Power:50-110)
 •Inspirit: At Your Service
--An ally recovers HP on their turns (TIERS NOT AVAILABLE YET)
+-An ally recovers HP on their turns (Tier:1)
 
 
 Statikid
@@ -4694,7 +4694,7 @@ Medallium Nº: 122
 •Technique: Voltage
 -Attacks an enemy, scales with SPR (Lightning) (Power:70-112)
 •Inspirit: Paralyze
-Makes the enemy unable to move around the grid (TIERS NOT AVAILABLE YET)
+-Makes the enemy unable to move around the grid (Tier:1)
 
 
 Prof. Plumage
@@ -4732,7 +4732,7 @@ Medallium Nº: 123
 •Technique: Storm
 -Attacks an enemy, scales with SPR (Wind) (Power:70-112)
 •Inspirit: Perplex
--Increases an enemy loafing chances, making them unable to act sometimes (TIERS NOT AVAILABLE YET)
+-Increases an enemy loafing chances, making them unable to act sometimes (Tier:1)
 
 
 Throne Wiper
@@ -4772,7 +4772,7 @@ Medallium Nº: 124
 -Attacks an enemy, scales with SPR (Drain) (Power:40-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: No Toilet Paper!
-Makes the enemy unable to move around the grid (TIERS NOT AVAILABLE YET)
+-Makes the enemy unable to move around the grid (Tier:1)
 
 
 Imagenius
@@ -4810,7 +4810,7 @@ Medallium Nº: 125
 •Technique: Tornado
 -Attacks an enemy, scales with SPR (Wind) (Power:50-110)
 •Inspirit: Just Chill Out
--Increases an enemy loafing chances, making them unable to act sometimes (TIERS NOT AVAILABLE YET)
+-Increases an enemy loafing chances, making them unable to act sometimes (Tier:1)
 
 
 Miss Teri
@@ -4848,7 +4848,7 @@ Medallium Nº: 126
 •Technique: Frost
 -Attacks an enemy, scales with SPR (Ice) (Power:50-110)
 •Inspirit: Cloaked in Miss Teri
--Increases an enemy loafing chances, making them unable to act sometimes (TIERS NOT AVAILABLE YET)
+-Increases an enemy loafing chances, making them unable to act sometimes (Tier:2)
 
 
 Maginyan
@@ -4886,7 +4886,7 @@ Medallium Nº: 127
 •Technique: Incinerate
 -Attacks an enemy, scales with SPR (Fire) (Power:70-112)
 •Inspirit: Witching Hour
--Increases an ally SPR (TIERS NOT AVAILABLE YET)
+-Increases an ally SPR (Tier:1)
 
 
 Squandeer
@@ -4923,7 +4923,7 @@ Medallium Nº: 128
 •Technique: Blizzard
 -Attacks an enemy, scales with SPR (Ice) (Power:70-112)
 •Inspirit: Frivolous Frittering
--Inspirits an enemy, making them drop money and lose their turns (TIERS NOT AVAILABLE YET)
+-Inspirits an enemy, making them drop money and lose their turns (Tier:1)
 
 
 Tengu
@@ -4959,7 +4959,7 @@ Medallium Nº: 129
 •Technique: Storm
 -Attacks an enemy, scales with SPR (Wind) (Power:70-112)
 •Inspirit: Tengu Tailwind
--Increases an ally SPD (TIERS NOT AVAILABLE YET)
+-Increases an ally SPD (Tier:1)
 
 
 Flengu
@@ -4995,7 +4995,7 @@ Medallium Nº: 130
 •Technique: Incinerate
 -Attacks an enemy, scales with SPR (Fire) (Power:70-112)
 •Inspirit: Burn
--An enemy loses HP on their turns (TIERS NOT AVAILABLE YET)
+-An enemy loses HP on their turns (Tier:1)
 
 
 Kyubi
@@ -5031,7 +5031,7 @@ Medallium Nº: 131
 •Technique: Incinerate
 -Attacks an enemy, scales with SPR (Fire) (Power:70-112)
 •Inspirit: Burn
--An enemy loses HP on their turns (TIERS NOT AVAILABLE YET)
+-An enemy loses HP on their turns (Tier:1)
 
 
 Frostail
@@ -5067,7 +5067,7 @@ Medallium Nº: 132
 •Technique: Blizzard
 -Attacks an enemy, scales with SPR (Ice) (Power:70-112)
 •Inspirit: Divine Protection
--Increases an ally SPR (TIERS NOT AVAILABLE YET)
+-Increases an ally SPR (Tier:1)
 
 
 Chymera
@@ -5103,7 +5103,7 @@ Medallium Nº: 133
 •Technique: Voltage
 -Attacks an enemy, scales with SPR (Lightning) (Power:70-112)
 •Inspirit: Paralyze
-Makes the enemy unable to move around the grid (TIERS NOT AVAILABLE YET)
+-Makes the enemy unable to move around the grid (Tier:1)
 
 
 Kingmera
@@ -5139,7 +5139,7 @@ Medallium Nº: 134
 •Technique: Voltage
 -Attacks an enemy, scales with SPR (Lightning) (Power:70-112)
 •Inspirit: Paralyze
-Makes the enemy unable to move around the grid (TIERS NOT AVAILABLE YET)
+-Makes the enemy unable to move around the grid (Tier:1)
 
 
 Toadal Demon
@@ -5176,7 +5176,7 @@ Medallium Nº: 135
 •Technique: Tornado
 -Attacks an enemy, scales with SPR (Wind) (Power:50-110)
 •Inspirit: Curse of the Oni
--An enemy loses HP on their turns (TIERS NOT AVAILABLE YET)
+-An enemy loses HP on their turns (Tier:1)
 
 
 Thurston
@@ -5212,7 +5212,7 @@ Medallium Nº: 136
 •Technique: Incinerate
 -Attacks an enemy, scales with SPR (Fire) (Power:70-112)
 •Inspirit: Curse of the Oni
--An enemy loses HP on their turns (TIERS NOT AVAILABLE YET)
+-An enemy loses HP on their turns (Tier:1)
 
 
 Spect-hare
@@ -5249,7 +5249,7 @@ Medallium Nº: 137
 •Technique: Storm
 -Attacks an enemy, scales with SPR (Wind) (Power:70-112)
 •Inspirit: Elegance
--Increases an ally SPD (TIERS NOT AVAILABLE YET)
+-Increases an ally SPD (Tier:1)
 
 
 Sn. Spect-hare
@@ -5286,7 +5286,7 @@ Medallium Nº: 138
 •Technique: Blizzard
 -Attacks an enemy, scales with SPR (Ice) (Power:70-112)
 •Inspirit: Elegance
--Increases an ally SPD (TIERS NOT AVAILABLE YET)
+-Increases an ally SPD (Tier:1)
 
 
 Oh Wheel
@@ -5326,7 +5326,7 @@ Medallium Nº: 139
 •Technique: Fire
 -Attacks an enemy, scales with SPR (Fire) (Power:30-105)
 •Inspirit: Unfazed
--Increases an ally stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Increases an ally stats (STR, SPR, DEF and SPD) (Tier:1)
 
 
 Dulluma
@@ -5366,7 +5366,7 @@ Medallium Nº: 140
 •Technique: Pebble
 -Attacks an enemy, scales with SPR (Earth) (Power:30-105)
 •Inspirit: Dullness
--Increases an enemy loafing chances, making them unable to act sometimes (TIERS NOT AVAILABLE YET)
+-Increases an enemy loafing chances, making them unable to act sometimes (Tier:1)
 
 
 Darumacho
@@ -5404,7 +5404,7 @@ Medallium Nº: 141
 •Technique: Pebble
 -Attacks an enemy, scales with SPR (Earth) (Power:30-105)
 •Inspirit: Machismo
--Increases an ally STR (TIERS NOT AVAILABLE YET)
+-Increases an ally STR (Tier:1)
 
 
 Goruma
@@ -5442,7 +5442,7 @@ Medallium Nº: 142
 •Technique: Whirlwind
 -Attacks an enemy, scales with SPR (Wind) (Power:30-105)
 •Inspirit: Musclehead
--Confuses an enemy, making them attack their own allies sometimes (TIERS NOT AVAILABLE YET)
+-Confuses an enemy, making them attack their own allies sometimes (Tier:1)
 
 
 Wotchagot
@@ -5482,7 +5482,7 @@ Medallium Nº: 143
 •Technique: Hail
 -Attacks an enemy, scales with SPR (Ice) (Power:30-105)
 •Inspirit: Envy
--Confuses an enemy, making them attack their own allies sometimes (TIERS NOT AVAILABLE YET)
+-Confuses an enemy, making them attack their own allies sometimes (Tier:1)
 
 
 Pride Shrimp
@@ -5521,7 +5521,7 @@ Medallium Nº: 144
 •Technique: Restore
 -Heals an ally, scales with SPR (Power:50-110)
 •Inspirit: Shrimpervious
--Increases an ally DEF (TIERS NOT AVAILABLE YET)
+-Increases an ally DEF (Tier:1)
 
 
 No-Go Kart
@@ -5561,7 +5561,7 @@ Medallium Nº: 145
 •Technique: Pebble
 -Attacks an enemy, scales with SPR (Earth) (Power:30-105)
 •Inspirit: Get Lost
--Increases an enemy loafing chances, making them unable to act sometimes (TIERS NOT AVAILABLE YET)
+-Increases an enemy loafing chances, making them unable to act sometimes (Tier:1)
 
 
 Mistank
@@ -5600,7 +5600,7 @@ Medallium Nº: 146
 •Technique: Rockslide
 -Attacks an enemy, scales with SPR (Earth) (Power:50-110)
 •Inspirit: Loose Cannon
--Confuses an enemy, making them attack their own allies sometimes (TIERS NOT AVAILABLE YET)
+-Confuses an enemy, making them attack their own allies sometimes (Tier:1)
 
 
 Terrorpotta
@@ -5640,7 +5640,7 @@ Medallium Nº: 147
 •Technique: Pebble
 -Attacks an enemy, scales with SPR (Earth) (Power:30-105)
 •Inspirit: Crack Up
--Reduces an enemy DEF (TIERS NOT AVAILABLE YET)
+-Reduces an enemy DEF (Tier:1)
 
 
 Blownhistoppa
@@ -5678,7 +5678,7 @@ Medallium Nº: 148
 •Technique: Meteor
 -Attacks an enemy, scales with SPR (Earth) (Power:70-112)
 •Inspirit: Blow Your Top
--Increases an ally STR (TIERS NOT AVAILABLE YET)
+-Increases an ally STR (Tier:1)
 
 
 Noway
@@ -5718,7 +5718,7 @@ Medallium Nº: 149
 •Technique: Pebble
 -Attacks an enemy, scales with SPR (Earth) (Power:30-105)
 •Inspirit: Refusal
--Increases an enemy loafing chances, making them unable to act sometimes (TIERS NOT AVAILABLE YET)
+-Increases an enemy loafing chances, making them unable to act sometimes (Tier:1)
 
 
 Impass
@@ -5757,7 +5757,7 @@ Medallium Nº: 150
 •Technique: Rockslide
 -Attacks an enemy, scales with SPR (Earth) (Power:50-110)
 •Inspirit: Refusal
--Increases an enemy loafing chances, making them unable to act sometimes (TIERS NOT AVAILABLE YET)
+-Increases an enemy loafing chances, making them unable to act sometimes (Tier:1)
 
 
 Walldin
@@ -5795,7 +5795,7 @@ Medallium Nº: 151
 •Technique: Rockslide
 -Attacks an enemy, scales with SPR (Earth) (Power:50-110)
 •Inspirit: Castle Power
--Increases an ally DEF (TIERS NOT AVAILABLE YET)
+-Increases an ally DEF (Tier:1)
 
 
 Roughraff
@@ -5834,7 +5834,7 @@ Medallium Nº: 152
 •Technique: Pebble
 -Attacks an enemy, scales with SPR (Earth) (Power:30-105)
 •Inspirit: Rebel Soul
--Reduces an enemy DEF (TIERS NOT AVAILABLE YET)
+-Reduces an enemy DEF (Tier:1)
 
 
 Badude
@@ -5873,7 +5873,7 @@ Medallium Nº: 153
 •Technique: Rockslide
 -Attacks an enemy, scales with SPR (Earth) (Power:50-110)
 •Inspirit: Rebel Soul
--Reduces an enemy DEF (TIERS NOT AVAILABLE YET)
+-Reduces an enemy DEF (Tier:1)
 
 
 Bruff
@@ -5911,7 +5911,7 @@ Medallium Nº: 154
 •Technique: Meteor
 -Attacks an enemy, scales with SPR (Earth) (Power:70-112)
 •Inspirit: Blood Boil
--Confuses an enemy, making them attack their own allies sometimes (TIERS NOT AVAILABLE YET)
+-Confuses an enemy, making them attack their own allies sometimes (Tier:1)
 
 
 Roughgraff
@@ -5950,7 +5950,7 @@ Medallium Nº: 155
 •Technique: Pebble
 -Attacks an enemy, scales with SPR (Earth) (Power:30-105)
 •Inspirit: Delinquency
--Increases an enemy loafing chances, making them unable to act sometimes (TIERS NOT AVAILABLE YET)
+-Increases an enemy loafing chances, making them unable to act sometimes (Tier:1)
 
 
 Chilled Cowcao
@@ -5990,7 +5990,7 @@ Medallium Nº: 156
 •Technique: Pebble
 -Attacks an enemy, scales with SPR (Earth) (Power:30-105)
 •Inspirit: Drown in Delight
--Reduces an enemy stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Reduces an enemy stats (STR, SPR, DEF and SPD) (Tier:1)
 
 
 Stircrazy Stu
@@ -6028,7 +6028,7 @@ Medallium Nº: 157
 •Technique: Rockslide
 -Attacks an enemy, scales with SPR (Earth) (Power:50-110)
 •Inspirit: No Herd Instinct
--Confuses an enemy, making them attack their own allies sometimes (TIERS NOT AVAILABLE YET)
+-Confuses an enemy, making them attack their own allies sometimes (Tier:1)
 
 
 Nummskull
@@ -6067,7 +6067,7 @@ Medallium Nº: 158
 •Technique: Pebble
 -Attacks an enemy, scales with SPR (Earth) (Power:30-105)
 •Inspirit: Nummskullery
--Confuses an enemy, making them attack their own allies sometimes (TIERS NOT AVAILABLE YET)
+-Confuses an enemy, making them attack their own allies sometimes (Tier:1)
 
 
 Skillskull
@@ -6105,7 +6105,7 @@ Medallium Nº: 159
 •Technique: Rockslide
 -Attacks an enemy, scales with SPR (Earth) (Power:50-110)
 •Inspirit: Hammer into Shape
--An ally recovers HP on their turns (TIERS NOT AVAILABLE YET)
+-An ally recovers HP on their turns (Tier:1)
 
 
 Armsman
@@ -6144,7 +6144,7 @@ Medallium Nº: 160
 •Technique: Hail
 -Attacks an enemy, scales with SPR (Ice) (Power:30-105)
 •Inspirit: Armor Defense
--Increases an ally DEF (TIERS NOT AVAILABLE YET)
+-Increases an ally DEF (Tier:1)
 
 
 Mimikin
@@ -6183,7 +6183,7 @@ Medallium Nº: 161
 •Technique: Frost
 -Attacks an enemy, scales with SPR (Ice) (Power:50-110)
 •Inspirit: Copycat
--Confuses an enemy, making them attack their own allies sometimes (TIERS NOT AVAILABLE YET)
+-Confuses an enemy, making them attack their own allies sometimes (Tier:1)
 
 
 Oh Bah Gah!
@@ -6223,7 +6223,7 @@ Medallium Nº: 162
 •Technique: Shock
 -Attacks an enemy, scales with SPR (Lightning) (Power:30-105)
 •Inspirit: Overreact
--Increases an enemy loafing chances, making them unable to act sometimes (TIERS NOT AVAILABLE YET)
+-Increases an enemy loafing chances, making them unable to act sometimes (Tier:1)
 
 
 Sp mountain
@@ -6263,7 +6263,7 @@ Medallium Nº: 163
 •Technique: Pebble
 -Attacks an enemy, scales with SPR (Earth) (Power:30-105)
 •Inspirit: Dreadful Driving
--Confuses an enemy, making them attack their own allies sometimes (TIERS NOT AVAILABLE YET)
+-Confuses an enemy, making them attack their own allies sometimes (Tier:1)
 
 
 Blowkade
@@ -6303,7 +6303,7 @@ Medallium Nº: 164
 •Technique: Torrent
 -Attacks an enemy, scales with SPR (Water) (Power:30-105)
 •Inspirit: Inflated Impediment
-Makes the enemy unable to move around the grid (TIERS NOT AVAILABLE YET)
+-Makes the enemy unable to move around the grid (Tier:1)
 
 
 Ledballoon
@@ -6343,7 +6343,7 @@ Medallium Nº: 165
 •Technique: Torrent
 -Attacks an enemy, scales with SPR (Water) (Power:30-105)
 •Inspirit: Big Needle Poke
--An enemy loses HP on their turns (TIERS NOT AVAILABLE YET)
+-An enemy loses HP on their turns (Tier:1)
 
 
 Sumodon
@@ -6383,7 +6383,7 @@ Medallium Nº: 166
 •Technique: Heal
 -Heals an ally, scales with SPR (Power:30-105)
 •Inspirit: Suck It Up
--Increases an ally DEF (TIERS NOT AVAILABLE YET)
+-Increases an ally DEF (Tier:1)
 
 
 Yokozudon
@@ -6422,7 +6422,7 @@ Medallium Nº: 167
 •Technique: Restore
 -Heals an ally, scales with SPR (Power:50-110)
 •Inspirit: Suck It Up
--Increases an ally DEF (TIERS NOT AVAILABLE YET)
+-Increases an ally DEF (Tier:1)
 
 
 Whateverest
@@ -6462,7 +6462,7 @@ Medallium Nº: 168
 •Technique: Fire
 -Attacks an enemy, scales with SPR (Fire) (Power:30-105)
 •Inspirit: Could Care Less
--Reduces an enemy stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Reduces an enemy stats (STR, SPR, DEF and SPD) (Tier:1)
 
 
 Whatuption
@@ -6501,7 +6501,7 @@ Medallium Nº: 169
 •Technique: Blaze
 -Attacks an enemy, scales with SPR (Fire) (Power:50-110)
 •Inspirit: Could Care More
--Increases an ally STR (TIERS NOT AVAILABLE YET)
+-Increases an ally STR (Tier:1)
 
 
 Fidgephant
@@ -6541,7 +6541,7 @@ Medallium Nº: 170
 •Technique: Torrent
 -Attacks an enemy, scales with SPR (Water) (Power:30-105)
 •Inspirit: Fidgeting
--Increases an enemy loafing chances, making them unable to act sometimes (TIERS NOT AVAILABLE YET)
+-Increases an enemy loafing chances, making them unable to act sometimes (Tier:1)
 
 
 Touphant
@@ -6581,7 +6581,7 @@ Medallium Nº: 171
 •Technique: Rapids
 -Attacks an enemy, scales with SPR (Water) (Power:50-110)
 •Inspirit: Shaking
--Increases an enemy loafing chances, making them unable to act sometimes (TIERS NOT AVAILABLE YET)
+-Increases an enemy loafing chances, making them unable to act sometimes (Tier:1)
 
 
 Enduriphant
@@ -6619,7 +6619,7 @@ Medallium Nº: 172
 •Technique: Rapids
 -Attacks an enemy, scales with SPR (Water) (Power:50-110)
 •Inspirit: Thick Skin
--Increases an ally DEF (TIERS NOT AVAILABLE YET)
+-Increases an ally DEF (Tier:1)
 
 
 Zappary
@@ -6658,7 +6658,7 @@ Medallium Nº: 173
 •Technique: Lightning
 -Attacks an enemy, scales with SPR (Lightning) (Power:50-110)
 •Inspirit: Lightning Speed
--Increases an ally SPD (TIERS NOT AVAILABLE YET)
+-Increases an ally SPD (Tier:1)
 
 
 Frazzel
@@ -6696,7 +6696,7 @@ Medallium Nº: 174
 •Technique: Voltage
 -Attacks an enemy, scales with SPR (Lightning) (Power:70-112)
 •Inspirit: Lightning Speed
--Increases an ally SPD (TIERS NOT AVAILABLE YET)
+-Increases an ally SPD (Tier:1)
 
 
 Ship. Sailor
@@ -6735,7 +6735,7 @@ Medallium Nº: 175
 •Technique: Torrent
 -Attacks an enemy, scales with SPR (Water) (Power:30-105)
 •Inspirit: Heedlessness
--Increases an ally DEF (TIERS NOT AVAILABLE YET)
+-Increases an ally DEF (Tier:1)
 
 
 Adm. Admiral
@@ -6772,7 +6772,7 @@ Medallium Nº: 176
 •Technique: Waterfall
 -Attacks an enemy, scales with SPR (Water) (Power:70-112)
 •Inspirit: Defensive Posture!
--Increases an ally DEF (TIERS NOT AVAILABLE YET)
+-Increases an ally DEF (Tier:1)
 
 
 Swelton
@@ -6812,7 +6812,7 @@ Medallium Nº: 177
 •Technique: Blaze
 -Attacks an enemy, scales with SPR (Fire) (Power:50-110)
 •Inspirit: Sweat it Out
--An enemy loses HP on their turns (TIERS NOT AVAILABLE YET)
+-An enemy loses HP on their turns (Tier:1)
 
 
 Sing Kong
@@ -6852,7 +6852,7 @@ Medallium Nº: 178
 •Technique: Lightning
 -Attacks an enemy, scales with SPR (Lightning) (Power:50-110)
 •Inspirit: Burst into Song
--Increases an ally stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Increases an ally stats (STR, SPR, DEF and SPD) (Tier:1)
 
 
 Slippy
@@ -6891,7 +6891,7 @@ Medallium Nº: 179
 •Technique: Rapids
 -Attacks an enemy, scales with SPR (Water) (Power:50-110)
 •Inspirit: Shell Shield
--Increases an ally DEF (TIERS NOT AVAILABLE YET)
+-Increases an ally DEF (Tier:1)
 
 
 Repossessor
@@ -6931,7 +6931,7 @@ Medallium Nº: 180
 •Technique: Rockslide
 -Attacks an enemy, scales with SPR (Earth) (Power:50-110)
 •Inspirit: Repossess
--Increases an enemy loafing chances, making them unable to act sometimes (TIERS NOT AVAILABLE YET)
+-Increases an enemy loafing chances, making them unable to act sometimes (Tier:1)
 
 
 Mr. Blockhead
@@ -6971,7 +6971,7 @@ Medallium Nº: 181
 •Technique: Fire
 -Attacks an enemy, scales with SPR (Fire) (Power:30-105)
 •Inspirit: Listen Up!
--Reduces an enemy DEF (TIERS NOT AVAILABLE YET)
+-Reduces an enemy DEF (Tier:1)
 
 
 Mad Mountain
@@ -7011,7 +7011,7 @@ Medallium Nº: 182
 •Technique: Hail
 -Attacks an enemy, scales with SPR (Ice) (Power:30-105)
 •Inspirit: Perseverance
--Increases an ally DEF (TIERS NOT AVAILABLE YET)
+-Increases an ally DEF (Tier:2)
 
 
 Lava Lord
@@ -7050,7 +7050,7 @@ Medallium Nº: 183
 •Technique: Shock
 -Attacks an enemy, scales with SPR (Lightning) (Power:30-105)
 •Inspirit: Volcanic Blessing
--An ally recovers HP on their turns (TIERS NOT AVAILABLE YET)
+-An ally recovers HP on their turns (Tier:2)
 
 
 Castelius III
@@ -7090,7 +7090,7 @@ Medallium Nº: 184
 •Technique: Pebble
 -Attacks an enemy, scales with SPR (Earth) (Power:30-105)
 •Inspirit: Bronze Power
--Increases an ally DEF (TIERS NOT AVAILABLE YET)
+-Increases an ally DEF (Tier:1)
 
 
 Castelius II
@@ -7129,7 +7129,7 @@ Medallium Nº: 185
 •Technique: Frost
 -Attacks an enemy, scales with SPR (Ice) (Power:50-110)
 •Inspirit: Silver Power
--Increases an ally DEF (TIERS NOT AVAILABLE YET)
+-Increases an ally DEF (Tier:1)
 
 
 Castelius I
@@ -7167,7 +7167,7 @@ Medallium Nº: 186
 •Technique: Lightning
 -Attacks an enemy, scales with SPR (Lightning) (Power:50-110)
 •Inspirit: Gold Power
--Increases an ally DEF (TIERS NOT AVAILABLE YET)
+-Increases an ally DEF (Tier:1)
 
 
 Castelius Max
@@ -7204,7 +7204,7 @@ Medallium Nº: 187
 •Technique: Tornado
 -Attacks an enemy, scales with SPR (Wind) (Power:50-110)
 •Inspirit: Platinum Power
--Increases an ally stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Increases an ally stats (STR, SPR, DEF and SPD) (Tier:1)
 
 
 Puppynyan
@@ -7242,7 +7242,7 @@ Medallium Nº: 188
 •Technique: Pebble
 -Attacks an enemy, scales with SPR (Earth) (Power:30-105)
 •Inspirit: Who's a good boy!
--Increases an ally DEF (TIERS NOT AVAILABLE YET)
+-Increases an ally DEF (Tier:1)
 
 
 Rhinoggin
@@ -7281,7 +7281,7 @@ Medallium Nº: 189
 •Technique: Rockslide
 -Attacks an enemy, scales with SPR (Earth) (Power:50-110)
 •Inspirit: Rhino Power
--Increases an ally STR (TIERS NOT AVAILABLE YET)
+-Increases an ally STR (Tier:1)
 
 
 Rhinormous
@@ -7319,7 +7319,7 @@ Medallium Nº: 190
 •Technique: Rockslide
 -Attacks an enemy, scales with SPR (Earth) (Power:50-110)
 •Inspirit: Peerless Power
--Increases an ally STR (TIERS NOT AVAILABLE YET)
+-Increases an ally STR (Tier:1)
 
 
 Hornaplenty
@@ -7356,7 +7356,7 @@ Medallium Nº: 191
 •Technique: Meteor
 -Attacks an enemy, scales with SPR (Earth) (Power:70-112)
 •Inspirit: Legend Power
--Increases an ally DEF (TIERS NOT AVAILABLE YET)
+-Increases an ally DEF (Tier:1)
 
 
 Kintaronyan
@@ -7394,7 +7394,7 @@ Medallium Nº: 192
 •Technique: Pebble
 -Attacks an enemy, scales with SPR (Earth) (Power:30-105)
 •Inspirit: Grant Strength
--Increases an ally STR (TIERS NOT AVAILABLE YET)
+-Increases an ally STR (Tier:1)
 
 
 Steaking
@@ -7432,7 +7432,7 @@ Medallium Nº: 193
 •Technique: Incinerate
 -Attacks an enemy, scales with SPR (Fire) (Power:70-112)
 •Inspirit: Steak Sauce
--Increases an ally STR (TIERS NOT AVAILABLE YET)
+-Increases an ally STR (Tier:1)
 
 
 Robonyan
@@ -7469,7 +7469,7 @@ Medallium Nº: 194
 •Technique: Frost
 -Attacks an enemy, scales with SPR (Ice) (Power:50-110)
 •Inspirit: Steel Power
--Increases an ally DEF (TIERS NOT AVAILABLE YET)
+-Increases an ally DEF (Tier:1)
 
 
 Robonyan F
@@ -7506,7 +7506,7 @@ Medallium Nº: 195
 •Technique: Blaze
 -Attacks an enemy, scales with SPR (Fire) (Power:50-110)
 •Inspirit: System Upgrade
--Increases an ally DEF (TIERS NOT AVAILABLE YET)
+-Increases an ally DEF (Tier:1)
 
 
 Showbonyan
@@ -7543,7 +7543,7 @@ Medallium Nº: 196
 •Technique: Voltage
 -Attacks an enemy, scales with SPR (Lightning) (Power:70-112)
 •Inspirit: Merican Mechanics
--Increases an ally DEF (TIERS NOT AVAILABLE YET)
+-Increases an ally DEF (Tier:1)
 
 
 Goldenyan
@@ -7579,7 +7579,7 @@ Medallium Nº: 197
 •Technique: Lightning
 -Attacks an enemy, scales with SPR (Lightning) (Power:50-110)
 •Inspirit: Golden Power
--Increases an ally DEF (TIERS NOT AVAILABLE YET)
+-Increases an ally DEF (Tier:2)
 
 
 Dromp
@@ -7617,7 +7617,7 @@ Medallium Nº: 198
 •Technique: Rockslide
 -Attacks an enemy, scales with SPR (Earth) (Power:50-110)
 •Inspirit: Earth Healing
--An ally recovers HP on their turns (TIERS NOT AVAILABLE YET)
+-An ally recovers HP on their turns (Tier:1)
 
 
 Swosh
@@ -7654,7 +7654,7 @@ Medallium Nº: 199
 •Technique: Waterfall
 -Attacks an enemy, scales with SPR (Water) (Power:70-112)
 •Inspirit: Ocean Power
--Increases an ally stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Increases an ally stats (STR, SPR, DEF and SPD) (Tier:1)
 
 
 Toadal Dude
@@ -7691,7 +7691,7 @@ Medallium Nº: 200
 •Technique: Waterfall
 -Attacks an enemy, scales with SPR (Water) (Power:70-112)
 •Inspirit: Big Shot
--Increases an ally DEF (TIERS NOT AVAILABLE YET)
+-Increases an ally DEF (Tier:1)
 
 
 Uber Geeko
@@ -7728,7 +7728,7 @@ Medallium Nº: 201
 •Technique: Incinerate
 -Attacks an enemy, scales with SPR (Fire) (Power:70-112)
 •Inspirit: Stay-at-Home
-Makes the enemy unable to move around the grid (TIERS NOT AVAILABLE YET)
+-Makes the enemy unable to move around the grid (Tier:1)
 
 
 Gargaros
@@ -7765,7 +7765,7 @@ Medallium Nº: 202
 •Technique: Incinerate
 -Attacks an enemy, scales with SPR (Fire) (Power:70-112)
 •Inspirit: Power of Terror
--Increases an ally DEF (TIERS NOT AVAILABLE YET)
+-Increases an ally DEF (Tier:1)
 
 
 Ogralus
@@ -7802,7 +7802,7 @@ Medallium Nº: 203
 •Technique: Waterfall
 -Attacks an enemy, scales with SPR (Water) (Power:70-112)
 •Inspirit: Power of Terror
--Increases an ally DEF (TIERS NOT AVAILABLE YET)
+-Increases an ally DEF (Tier:1)
 
 
 Orcanos
@@ -7840,7 +7840,7 @@ Medallium Nº: 204
 -Attacks an enemy, scales with SPR (Drain) (Power:55-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Power of Terror
--Increases an ally DEF (TIERS NOT AVAILABLE YET)
+-Increases an ally DEF (Tier:1)
 
 
 Kabuking
@@ -7876,7 +7876,7 @@ Medallium Nº: 205
 •Technique: Lightning
 -Attacks an enemy, scales with SPR (Lightning) (Power:50-110)
 •Inspirit: Machine Power
--Increases an ally DEF (TIERS NOT AVAILABLE YET)
+-Increases an ally DEF (Tier:1)
 
 
 Jawsome Kid
@@ -7912,7 +7912,7 @@ Medallium Nº: 206
 •Technique: Waterfall
 -Attacks an enemy, scales with SPR (Water) (Power:70-112)
 •Inspirit: Sharp Skin
--Increases an ally DEF (TIERS NOT AVAILABLE YET)
+-Increases an ally DEF (Tier:1)
 
 
 El Sharkador
@@ -7948,7 +7948,7 @@ Medallium Nº: 207
 •Technique: Waterfall
 -Attacks an enemy, scales with SPR (Water) (Power:70-112)
 •Inspirit: Sharp Skin
--Increases an ally DEF (TIERS NOT AVAILABLE YET)
+-Increases an ally DEF (Tier:1)
 
 
 Silver Lining
@@ -7984,7 +7984,7 @@ Medallium Nº: 208
 •Technique: Waterfall
 -Attacks an enemy, scales with SPR (Water) (Power:70-112)
 •Inspirit: Silver Sheen
--Increases an ally stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Increases an ally stats (STR, SPR, DEF and SPD) (Tier:1)
 
 
 Leggly
@@ -8023,7 +8023,7 @@ Medallium Nº: 209
 •Technique: Heal
 -Heals an ally, scales with SPR (Power:30-105)
 •Inspirit: Leg Up
--Increases an ally SPD (TIERS NOT AVAILABLE YET)
+-Increases an ally SPD (Tier:1)
 
 
 Twirly Pie
@@ -8062,7 +8062,7 @@ Medallium Nº: 210
 •Technique: Shock
 -Attacks an enemy, scales with SPR (Lightning) (Power:30-105)
 •Inspirit: Befuddle
--Confuses an enemy, making them attack their own allies sometimes (TIERS NOT AVAILABLE YET)
+-Confuses an enemy, making them attack their own allies sometimes (Tier:2)
 
 
 Petty-Cake
@@ -8101,7 +8101,7 @@ Medallium Nº: 211
 •Technique: Heal
 -Heals an ally, scales with SPR (Power:30-105)
 •Inspirit: Don't Dessert Me
--An ally recovers HP on their turns (TIERS NOT AVAILABLE YET)
+-An ally recovers HP on their turns (Tier:1)
 
 
 Hoppy.
@@ -8140,7 +8140,7 @@ Medallium Nº: 212
 •Technique: Whirlwind
 -Attacks an enemy, scales with SPR (Wind) (Power:30-105)
 •Inspirit: That'll Do!
--Reduces an enemy DEF (TIERS NOT AVAILABLE YET)
+-Reduces an enemy DEF (Tier:1)
 
 
 Dazzabel
@@ -8179,7 +8179,7 @@ Medallium Nº: 213
 •Technique: Fire
 -Attacks an enemy, scales with SPR (Fire) (Power:30-105)
 •Inspirit: Maniac Makeover
--Reduces an enemy DEF (TIERS NOT AVAILABLE YET)
+-Reduces an enemy DEF (Tier:1)
 
 
 Rattelle
@@ -8219,7 +8219,7 @@ Medallium Nº: 214
 •Technique: Blaze
 -Attacks an enemy, scales with SPR (Fire) (Power:50-110)
 •Inspirit: So Generous
--Inspirits an enemy, making them drop money and lose their turns (TIERS NOT AVAILABLE YET)
+-Inspirits an enemy, making them drop money and lose their turns (Tier:1)
 
 
 Skelebella
@@ -8258,7 +8258,7 @@ Medallium Nº: 215
 •Technique: Rapids
 -Attacks an enemy, scales with SPR (Water) (Power:50-110)
 •Inspirit: So Generous
--Inspirits an enemy, making them drop money and lose their turns (TIERS NOT AVAILABLE YET)
+-Inspirits an enemy, making them drop money and lose their turns (Tier:1)
 
 
 Cadin
@@ -8297,7 +8297,7 @@ Medallium Nº: 216
 •Technique: Whirlwind
 -Attacks an enemy, scales with SPR (Wind) (Power:30-105)
 •Inspirit: Cicada Ninjutsu
--Increases an ally SPD (TIERS NOT AVAILABLE YET)
+-Increases an ally SPD (Tier:1)
 
 
 Cadable
@@ -8336,7 +8336,7 @@ Medallium Nº: 217
 •Technique: Tornado
 -Attacks an enemy, scales with SPR (Wind) (Power:50-110)
 •Inspirit: Cicada Ninjutsu
--Increases an ally SPD (TIERS NOT AVAILABLE YET)
+-Increases an ally SPD (Tier:1)
 
 
 Singcada
@@ -8374,7 +8374,7 @@ Medallium Nº: 218
 •Technique: Blaze
 -Attacks an enemy, scales with SPR (Fire) (Power:50-110)
 •Inspirit: Radical Ninjutsu
--Increases an ally SPD (TIERS NOT AVAILABLE YET)
+-Increases an ally SPD (Tier:2)
 
 
 Buttered Blue
@@ -8413,7 +8413,7 @@ Medallium Nº: 219
 •Technique: Pebble
 -Attacks an enemy, scales with SPR (Earth) (Power:30-105)
 •Inspirit: Butter Blue
--Reduces an enemy DEF (TIERS NOT AVAILABLE YET)
+-Reduces an enemy DEF (Tier:1)
 
 
 Pch. Baguette
@@ -8450,7 +8450,7 @@ Medallium Nº: 220
 •Technique: Rockslide
 -Attacks an enemy, scales with SPR (Earth) (Power:50-110)
 •Inspirit: Breadwinner
--Increases an ally STR (TIERS NOT AVAILABLE YET)
+-Increases an ally STR (Tier:1)
 
 
 Pupsicle
@@ -8489,7 +8489,7 @@ Medallium Nº: 221
 •Technique: Frost
 -Attacks an enemy, scales with SPR (Ice) (Power:50-110)
 •Inspirit: Chills
--Reduces an enemy STR (TIERS NOT AVAILABLE YET)
+-Reduces an enemy STR (Tier:1)
 
 
 Chilhuahua
@@ -8527,7 +8527,7 @@ Medallium Nº: 222
 •Technique: Blizzard
 -Attacks an enemy, scales with SPR (Ice) (Power:70-112)
 •Inspirit: Freeze
--Reduces an enemy SPD (TIERS NOT AVAILABLE YET)
+-Reduces an enemy SPD (Tier:1)
 
 
 Swelterrier
@@ -8564,7 +8564,7 @@ Medallium Nº: 223
 •Technique: Incinerate
 -Attacks an enemy, scales with SPR (Fire) (Power:70-112)
 •Inspirit: Blazing Heart
--Increases an ally STR (TIERS NOT AVAILABLE YET)
+-Increases an ally STR (Tier:1)
 
 
 Unbelievaboy!
@@ -8603,7 +8603,7 @@ Medallium Nº: 224
 •Technique: Fire
 -Attacks an enemy, scales with SPR (Fire) (Power:30-105)
 •Inspirit: Unbelievaboy Might
--Increases an ally stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Increases an ally stats (STR, SPR, DEF and SPD) (Tier:1)
 
 
 Unbearaboy!
@@ -8639,7 +8639,7 @@ Medallium Nº: 225
 •Technique: Blaze
 -Attacks an enemy, scales with SPR (Fire) (Power:50-110)
 •Inspirit: Punkification
--Confuses an enemy, making them attack their own allies sometimes (TIERS NOT AVAILABLE YET)
+-Confuses an enemy, making them attack their own allies sometimes (Tier:1)
 
 
 Inflammaboy!
@@ -8675,7 +8675,7 @@ Medallium Nº: 226
 •Technique: Blaze
 -Attacks an enemy, scales with SPR (Fire) (Power:50-110)
 •Inspirit: Hot Chilli Challenge
--An enemy loses HP on their turns (TIERS NOT AVAILABLE YET)
+-An enemy loses HP on their turns (Tier:1)
 
 
 Jumbelina
@@ -8714,7 +8714,7 @@ Medallium Nº: 227
 •Technique: Frost
 -Attacks an enemy, scales with SPR (Ice) (Power:50-110)
 •Inspirit: Freaky Face
--Reduces an enemy stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Reduces an enemy stats (STR, SPR, DEF and SPD) (Tier:1)
 
 
 Boyclops
@@ -8753,7 +8753,7 @@ Medallium Nº: 228
 •Technique: Frost
 -Attacks an enemy, scales with SPR (Ice) (Power:50-110)
 •Inspirit: Eye-Eye
--Increases an ally STR (TIERS NOT AVAILABLE YET)
+-Increases an ally STR (Tier:1)
 
 
 Krystal Fox
@@ -8792,7 +8792,7 @@ Medallium Nº: 229
 •Technique: Heal
 -Heals an ally, scales with SPR (Power:30-105)
 •Inspirit: Heart-a-Flutter
--An ally recovers HP on their turns (TIERS NOT AVAILABLE YET)
+-An ally recovers HP on their turns (Tier:1)
 
 
 Runsure
@@ -8832,7 +8832,7 @@ Medallium Nº: 230
 •Technique: Whirlwind
 -Attacks an enemy, scales with SPR (Wind) (Power:30-105)
 •Inspirit: But Whhhyyy?!
--Increases an enemy loafing chances, making them unable to act sometimes (TIERS NOT AVAILABLE YET)
+-Increases an enemy loafing chances, making them unable to act sometimes (Tier:1)
 
 
 Kittylumbus
@@ -8872,7 +8872,7 @@ Medallium Nº: 231
 •Technique: Rapids
 -Attacks an enemy, scales with SPR (Water) (Power:50-110)
 •Inspirit: Languid Lolling
--Increases an enemy loafing chances, making them unable to act sometimes (TIERS NOT AVAILABLE YET)
+-Increases an enemy loafing chances, making them unable to act sometimes (Tier:1)
 
 
 Zest-a-Minute
@@ -8912,7 +8912,7 @@ Medallium Nº: 232
 •Technique: Torrent
 -Attacks an enemy, scales with SPR (Water) (Power:30-105)
 •Inspirit: Languid Lemon
--Increases an enemy loafing chances, making them unable to act sometimes (TIERS NOT AVAILABLE YET)
+-Increases an enemy loafing chances, making them unable to act sometimes (Tier:1)
 
 
 Baku
@@ -8952,7 +8952,7 @@ Medallium Nº: 233
 -Attacks an enemy, scales with SPR (Drain) (Power:40-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Bedtime
--Increases an enemy loafing chances, making them unable to act sometimes (TIERS NOT AVAILABLE YET)
+-Increases an enemy loafing chances, making them unable to act sometimes (Tier:1)
 
 
 Whapir
@@ -8992,7 +8992,7 @@ Medallium Nº: 234
 -Attacks an enemy, scales with SPR (Drain) (Power:40-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Sweet Dreams
--An ally recovers HP on their turns (TIERS NOT AVAILABLE YET)
+-An ally recovers HP on their turns (Tier:1)
 
 
 Bakulia
@@ -9031,7 +9031,7 @@ Medallium Nº: 235
 -Attacks an enemy, scales with SPR (Drain) (Power:55-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Bedtime
--Increases an enemy loafing chances, making them unable to act sometimes (TIERS NOT AVAILABLE YET)
+-Increases an enemy loafing chances, making them unable to act sometimes (Tier:2)
 
 
 Panja Pupil
@@ -9071,7 +9071,7 @@ Medallium Nº: 236
 •Technique: Hail
 -Attacks an enemy, scales with SPR (Ice) (Power:30-105)
 •Inspirit: Panja Power
--Increases an ally SPD (TIERS NOT AVAILABLE YET)
+-Increases an ally SPD (Tier:1)
 
 
 Panja Pro
@@ -9109,7 +9109,7 @@ Medallium Nº: 237
 •Technique: Frost
 -Attacks an enemy, scales with SPR (Ice) (Power:50-110)
 •Inspirit: Panja Power
--Increases an ally SPD (TIERS NOT AVAILABLE YET)
+-Increases an ally SPD (Tier:1)
 
 
 Cue-Tee
@@ -9148,7 +9148,7 @@ Medallium Nº: 238
 •Technique: Heal
 -Heals an ally, scales with SPR (Power:30-105)
 •Inspirit: Cue-Tee's Choice
--Increases an enemy loafing chances, making them unable to act sometimes (TIERS NOT AVAILABLE YET)
+-Increases an enemy loafing chances, making them unable to act sometimes (Tier:1)
 
 
 Demandi
@@ -9186,7 +9186,7 @@ Medallium Nº: 239
 •Technique: Restore
 -Heals an ally, scales with SPR (Power:50-110)
 •Inspirit: Dire Demands
--Confuses an enemy, making them attack their own allies sometimes (TIERS NOT AVAILABLE YET)
+-Confuses an enemy, making them attack their own allies sometimes (Tier:1)
 
 
 Walkappa
@@ -9225,7 +9225,7 @@ Medallium Nº: 240
 •Technique: Rapids
 -Attacks an enemy, scales with SPR (Water) (Power:50-110)
 •Inspirit: Nap Time
--Increases an enemy loafing chances, making them unable to act sometimes (TIERS NOT AVAILABLE YET)
+-Increases an enemy loafing chances, making them unable to act sometimes (Tier:1)
 
 
 Appak
@@ -9262,7 +9262,7 @@ Medallium Nº: 241
 •Technique: Waterfall
 -Attacks an enemy, scales with SPR (Water) (Power:70-112)
 •Inspirit: Torrent Power
--Increases an ally SPR (TIERS NOT AVAILABLE YET)
+-Increases an ally SPR (Tier:1)
 
 
 Supyo
@@ -9299,7 +9299,7 @@ Medallium Nº: 242
 •Technique: Waterfall
 -Attacks an enemy, scales with SPR (Water) (Power:70-112)
 •Inspirit: Surf Power
--Increases an ally SPD (TIERS NOT AVAILABLE YET)
+-Increases an ally SPD (Tier:1)
 
 
 Jibanyan
@@ -9338,7 +9338,7 @@ Medallium Nº: 243
 •Technique: Fire
 -Attacks an enemy, scales with SPR (Fire) (Power:30-105)
 •Inspirit: Slow Down
-Makes the enemy unable to move around the grid (TIERS NOT AVAILABLE YET)
+-Makes the enemy unable to move around the grid (Tier:1)
 
 
 Jibanyan B
@@ -9376,7 +9376,7 @@ Medallium Nº: 244
 •Technique: Blaze
 -Attacks an enemy, scales with SPR (Fire) (Power:50-110)
 •Inspirit: Nyancelerator Tech
--Increases an ally stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Increases an ally stats (STR, SPR, DEF and SPD) (Tier:1)
 
 
 Jibanyan S
@@ -9412,7 +9412,7 @@ Medallium Nº: 245
 •Technique: Blaze
 -Attacks an enemy, scales with SPR (Fire) (Power:50-110)
 •Inspirit: Slow Down S
-Makes the enemy unable to move around the grid (TIERS NOT AVAILABLE YET)
+-Makes the enemy unable to move around the grid (Tier:1)
 
 
 Jiban. Liu Bei
@@ -9448,7 +9448,7 @@ Medallium Nº: 246
 •Technique: Blaze
 -Attacks an enemy, scales with SPR (Fire) (Power:50-110)
 •Inspirit: Slow Down
-Makes the enemy unable to move around the grid (TIERS NOT AVAILABLE YET)
+-Makes the enemy unable to move around the grid (Tier:1)
 
 
 Rudy
@@ -9487,7 +9487,7 @@ Medallium Nº: 247
 •Technique: Fire
 -Attacks an enemy, scales with SPR (Fire) (Power:30-105)
 •Inspirit: Loosen Up
--Increases an ally SPD (TIERS NOT AVAILABLE YET)
+-Increases an ally SPD (Tier:1)
 
 
 Thornyan
@@ -9526,7 +9526,7 @@ Medallium Nº: 248
 •Technique: Tornado
 -Attacks an enemy, scales with SPR (Wind) (Power:50-110)
 •Inspirit: Needle Poke
--An enemy loses HP on their turns (TIERS NOT AVAILABLE YET)
+-An enemy loses HP on their turns (Tier:1)
 
 
 Baddinyan
@@ -9564,7 +9564,7 @@ Medallium Nº: 249
 •Technique: Fire
 -Attacks an enemy, scales with SPR (Fire) (Power:30-105)
 •Inspirit: Delinquency
--Confuses an enemy, making them attack their own allies sometimes (TIERS NOT AVAILABLE YET)
+-Confuses an enemy, making them attack their own allies sometimes (Tier:1)
 
 
 Buchinyan
@@ -9601,7 +9601,7 @@ Medallium Nº: 250
 •Technique: Lightning
 -Attacks an enemy, scales with SPR (Lightning) (Power:50-110)
 •Inspirit: Power of Friendship
--Increases an ally stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Increases an ally stats (STR, SPR, DEF and SPD) (Tier:2)
 
 
 Komasan
@@ -9640,7 +9640,7 @@ Medallium Nº: 251
 •Technique: Blaze
 -Attacks an enemy, scales with SPR (Fire) (Power:50-110)
 •Inspirit: Burn
--An enemy loses HP on their turns (TIERS NOT AVAILABLE YET)
+-An enemy loses HP on their turns (Tier:1)
 
 
 Komane
@@ -9677,7 +9677,7 @@ Medallium Nº: 252
 •Technique: Incinerate
 -Attacks an enemy, scales with SPR (Fire) (Power:70-112)
 •Inspirit: Burn
--An enemy loses HP on their turns (TIERS NOT AVAILABLE YET)
+-An enemy loses HP on their turns (Tier:1)
 
 
 Komasan B
@@ -9715,7 +9715,7 @@ Medallium Nº: 253
 •Technique: Incinerate
 -Attacks an enemy, scales with SPR (Fire) (Power:70-112)
 •Inspirit: P.K.Swirls Meter
--Increases an ally stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Increases an ally stats (STR, SPR, DEF and SPD) (Tier:1)
 
 
 Komasan S
@@ -9751,7 +9751,7 @@ Medallium Nº: 254
 •Technique: Incinerate
 -Attacks an enemy, scales with SPR (Fire) (Power:70-112)
 •Inspirit: Burn S
--An enemy loses HP on their turns (TIERS NOT AVAILABLE YET)
+-An enemy loses HP on their turns (Tier:2)
 
 
 Koma. Sun Ce
@@ -9787,7 +9787,7 @@ Medallium Nº: 255
 •Technique: Incinerate
 -Attacks an enemy, scales with SPR (Fire) (Power:70-112)
 •Inspirit: Burn
--An enemy loses HP on their turns (TIERS NOT AVAILABLE YET)
+-An enemy loses HP on their turns (Tier:1)
 
 
 Jibakoma
@@ -9824,7 +9824,7 @@ Medallium Nº: 256
 •Technique: Incinerate
 -Attacks an enemy, scales with SPR (Fire) (Power:70-112)
 •Inspirit: Power of Friendship
--Increases an ally stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Increases an ally stats (STR, SPR, DEF and SPD) (Tier:2)
 
 
 Komajiro
@@ -9863,7 +9863,7 @@ Medallium Nº: 257
 •Technique: Lightning
 -Attacks an enemy, scales with SPR (Lightning) (Power:50-110)
 •Inspirit: Tiger Power
--Increases an ally SPD (TIERS NOT AVAILABLE YET)
+-Increases an ally SPD (Tier:1)
 
 
 Komiger
@@ -9900,7 +9900,7 @@ Medallium Nº: 258
 •Technique: Voltage
 -Attacks an enemy, scales with SPR (Lightning) (Power:70-112)
 •Inspirit: Tiger Power
--Increases an ally SPD (TIERS NOT AVAILABLE YET)
+-Increases an ally SPD (Tier:1)
 
 
 Komajiro S
@@ -9936,7 +9936,7 @@ Medallium Nº: 259
 •Technique: Voltage
 -Attacks an enemy, scales with SPR (Lightning) (Power:70-112)
 •Inspirit: Tiger Power S
--Increases an ally SPD (TIERS NOT AVAILABLE YET)
+-Increases an ally SPD (Tier:2)
 
 
 Drizzelda
@@ -9975,7 +9975,7 @@ Medallium Nº: 260
 •Technique: Rapids
 -Attacks an enemy, scales with SPR (Water) (Power:50-110)
 •Inspirit: Storm Drain
--Reduces an enemy DEF (TIERS NOT AVAILABLE YET)
+-Reduces an enemy DEF (Tier:1)
 
 
 Nekidspeed
@@ -10015,7 +10015,7 @@ Medallium Nº: 261
 •Technique: Frost
 -Attacks an enemy, scales with SPR (Ice) (Power:50-110)
 •Inspirit: Hot Stepper
--Increases an ally SPD (TIERS NOT AVAILABLE YET)
+-Increases an ally SPD (Tier:3)
 
 
 Stinkeye
@@ -10054,7 +10054,7 @@ Medallium Nº: 262
 •Technique: Frost
 -Attacks an enemy, scales with SPR (Ice) (Power:50-110)
 •Inspirit: Make a Stink
--Increases an enemy loafing chances, making them unable to act sometimes (TIERS NOT AVAILABLE YET)
+-Increases an enemy loafing chances, making them unable to act sometimes (Tier:1)
 
 
 Slackoon
@@ -10094,7 +10094,7 @@ Medallium Nº: 263
 •Technique: Rapids
 -Attacks an enemy, scales with SPR (Water) (Power:50-110)
 •Inspirit: Slack Off
--Increases an ally SPR (TIERS NOT AVAILABLE YET)
+-Increases an ally SPR (Tier:1)
 
 
 Puppiccino
@@ -10133,7 +10133,7 @@ Medallium Nº: 264
 •Technique: Frost
 -Attacks an enemy, scales with SPR (Ice) (Power:50-110)
 •Inspirit: Big Spender
--Inspirits an enemy, making them drop money and lose their turns (TIERS NOT AVAILABLE YET)
+-Inspirits an enemy, making them drop money and lose their turns (Tier:1)
 
 
 Ballin
@@ -10173,7 +10173,7 @@ Medallium Nº: 265
 •Technique: Restore
 -Heals an ally, scales with SPR (Power:50-110)
 •Inspirit: Fortune's Fool
--Inspirits an enemy, making them drop money and lose their turns (TIERS NOT AVAILABLE YET)
+-Inspirits an enemy, making them drop money and lose their turns (Tier:1)
 
 
 Shmoopie
@@ -10212,7 +10212,7 @@ Medallium Nº: 266
 •Technique: Restore
 -Heals an ally, scales with SPR (Power:50-110)
 •Inspirit: Skip a Beat
--An ally recovers HP on their turns (TIERS NOT AVAILABLE YET)
+-An ally recovers HP on their turns (Tier:2)
 
 
 Pinkipoo
@@ -10251,7 +10251,7 @@ Medallium Nº: 267
 •Technique: Paradise
 -Heals an ally, scales with SPR (Power:70-112)
 •Inspirit: Skip a Beat
--An ally recovers HP on their turns (TIERS NOT AVAILABLE YET)
+-An ally recovers HP on their turns (Tier:2)
 
 
 Pookivil
@@ -10290,7 +10290,7 @@ Medallium Nº: 268
 -Attacks an enemy, scales with SPR (Drain) (Power:55-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Trickery
--Confuses an enemy, making them attack their own allies sometimes (TIERS NOT AVAILABLE YET)
+-Confuses an enemy, making them attack their own allies sometimes (Tier:1)
 
 
 Harry Barry
@@ -10328,7 +10328,7 @@ Medallium Nº: 269
 •Technique: Restore
 -Heals an ally, scales with SPR (Power:50-110)
 •Inspirit: Rustic Charm
--Increases an ally stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Increases an ally stats (STR, SPR, DEF and SPD) (Tier:1)
 
 
 Wondernyan
@@ -10367,7 +10367,7 @@ Medallium Nº: 270
 -Attacks an enemy, scales with SPR (Drain) (Power:25-87)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Wanderlust
--Increases an ally STR (TIERS NOT AVAILABLE YET)
+-Increases an ally STR (Tier:1)
 
 
 Jetnyan
@@ -10405,7 +10405,7 @@ Medallium Nº: 271
 •Technique: Storm
 -Attacks an enemy, scales with SPR (Wind) (Power:70-112)
 •Inspirit: Jet Propulsion
--Increases an ally SPD (TIERS NOT AVAILABLE YET)
+-Increases an ally SPD (Tier:2)
 
 
 Chimpanyan
@@ -10443,7 +10443,7 @@ Medallium Nº: 272
 •Technique: Shock
 -Attacks an enemy, scales with SPR (Lightning) (Power:30-105)
 •Inspirit: Monkeying Around
--Increases an ally SPD (TIERS NOT AVAILABLE YET)
+-Increases an ally SPD (Tier:1)
 
 
 Tomnyan
@@ -10481,7 +10481,7 @@ Medallium Nº: 273
 •Technique: Fire
 -Attacks an enemy, scales with SPR (Fire) (Power:30-105)
 •Inspirit: Hyperactive Hijinks
--Increases an ally STR (TIERS NOT AVAILABLE YET)
+-Increases an ally STR (Tier:1)
 
 
 Koma Knomads
@@ -10519,7 +10519,7 @@ Medallium Nº: 274
 •Technique: Restore
 -Heals an ally, scales with SPR (Power:50-110)
 •Inspirit: Swirlin' on Up
--Increases an ally SPD (TIERS NOT AVAILABLE YET)
+-Increases an ally SPD (Tier:1)
 
 
 Frostina
@@ -10557,7 +10557,7 @@ Medallium Nº: 275
 •Technique: Blizzard
 -Attacks an enemy, scales with SPR (Ice) (Power:70-112)
 •Inspirit: Numbify
--Reduces an enemy STR (TIERS NOT AVAILABLE YET)
+-Reduces an enemy STR (Tier:1)
 
 
 Blizzaria
@@ -10593,7 +10593,7 @@ Medallium Nº: 276
 •Technique: Blizzard
 -Attacks an enemy, scales with SPR (Ice) (Power:70-112)
 •Inspirit: Numbify
--Reduces an enemy STR (TIERS NOT AVAILABLE YET)
+-Reduces an enemy STR (Tier:1)
 
 
 Damona
@@ -10629,7 +10629,7 @@ Medallium Nº: 277
 •Technique: Blizzard
 -Attacks an enemy, scales with SPR (Ice) (Power:70-112)
 •Inspirit: Curse of Darkness
--Reduces an enemy SPR (TIERS NOT AVAILABLE YET)
+-Reduces an enemy SPR (Tier:1)
 
 
 Melonyan
@@ -10666,7 +10666,7 @@ Medallium Nº: 278
 •Technique: Frost
 -Attacks an enemy, scales with SPR (Ice) (Power:50-110)
 •Inspirit: Melon Juice
--An ally recovers HP on their turns (TIERS NOT AVAILABLE YET)
+-An ally recovers HP on their turns (Tier:1)
 
 
 Oranyan
@@ -10704,7 +10704,7 @@ Medallium Nº: 279
 •Technique: Lightning
 -Attacks an enemy, scales with SPR (Lightning) (Power:50-110)
 •Inspirit: Juiced Up
--Increases an ally STR (TIERS NOT AVAILABLE YET)
+-Increases an ally STR (Tier:1)
 
 
 Kiwinyan
@@ -10742,7 +10742,7 @@ Medallium Nº: 280
 •Technique: Rockslide
 -Attacks an enemy, scales with SPR (Earth) (Power:50-110)
 •Inspirit: Fur Coat
--Increases an ally DEF (TIERS NOT AVAILABLE YET)
+-Increases an ally DEF (Tier:1)
 
 
 Grapenyan
@@ -10780,7 +10780,7 @@ Medallium Nº: 281
 •Technique: Rapids
 -Attacks an enemy, scales with SPR (Water) (Power:50-110)
 •Inspirit: Feeling Grape
--Increases an ally SPR (TIERS NOT AVAILABLE YET)
+-Increases an ally SPR (Tier:1)
 
 
 Strawbnyan
@@ -10818,7 +10818,7 @@ Medallium Nº: 282
 •Technique: Blaze
 -Attacks an enemy, scales with SPR (Fire) (Power:50-110)
 •Inspirit: Strawburst
--Increases an ally SPD (TIERS NOT AVAILABLE YET)
+-Increases an ally SPD (Tier:1)
 
 
 Watermelnyan
@@ -10856,7 +10856,7 @@ Medallium Nº: 283
 -Attacks an enemy, scales with SPR (Drain) (Power:40-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Watermaulin'
--Increases an ally STR (TIERS NOT AVAILABLE YET)
+-Increases an ally STR (Tier:1)
 
 
 Sapphinyan
@@ -10893,7 +10893,7 @@ Medallium Nº: 284
 •Technique: Waterfall
 -Attacks an enemy, scales with SPR (Water) (Power:70-112)
 •Inspirit: Sapphire Power
--Increases an ally stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Increases an ally stats (STR, SPR, DEF and SPD) (Tier:2)
 
 
 Emenyan
@@ -10930,7 +10930,7 @@ Medallium Nº: 285
 •Technique: Paradise
 -Heals an ally, scales with SPR (Power:70-112)
 •Inspirit: Emerald Power
--Increases an ally stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Increases an ally stats (STR, SPR, DEF and SPD) (Tier:2)
 
 
 Rubinyan
@@ -10967,7 +10967,7 @@ Medallium Nº: 286
 •Technique: Incinerate
 -Attacks an enemy, scales with SPR (Fire) (Power:70-112)
 •Inspirit: Ruby Power
--Increases an ally stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Increases an ally stats (STR, SPR, DEF and SPD) (Tier:2)
 
 
 Topanyan
@@ -11004,7 +11004,7 @@ Medallium Nº: 287
 •Technique: Voltage
 -Attacks an enemy, scales with SPR (Lightning) (Power:70-112)
 •Inspirit: Topaz Power
--Increases an ally stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Increases an ally stats (STR, SPR, DEF and SPD) (Tier:2)
 
 
 Dianyan
@@ -11041,7 +11041,7 @@ Medallium Nº: 288
 •Technique: Blizzard
 -Attacks an enemy, scales with SPR (Ice) (Power:70-112)
 •Inspirit: Diamond Power
--Increases an ally stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Increases an ally stats (STR, SPR, DEF and SPD) (Tier:2)
 
 
 Robokapp
@@ -11078,7 +11078,7 @@ Medallium Nº: 289
 •Technique: Rapids
 -Attacks an enemy, scales with SPR (Water) (Power:50-110)
 •Inspirit: Steel Power
--Increases an ally DEF (TIERS NOT AVAILABLE YET)
+-Increases an ally DEF (Tier:1)
 
 
 Robokoma
@@ -11115,7 +11115,7 @@ Medallium Nº: 290
 •Technique: Blaze
 -Attacks an enemy, scales with SPR (Fire) (Power:50-110)
 •Inspirit: Steel Power
--Increases an ally DEF (TIERS NOT AVAILABLE YET)
+-Increases an ally DEF (Tier:1)
 
 
 Sailornyan
@@ -11152,7 +11152,7 @@ Medallium Nº: 291
 •Technique: Paradise
 -Heals an ally, scales with SPR (Power:70-112)
 •Inspirit: Girl Power
--An ally recovers HP on their turns (TIERS NOT AVAILABLE YET)
+-An ally recovers HP on their turns (Tier:1)
 
 
 Rubeus J
@@ -11189,7 +11189,7 @@ Medallium Nº: 292
 •Technique: Blaze
 -Attacks an enemy, scales with SPR (Fire) (Power:50-110)
 •Inspirit: Become Violent
--Confuses an enemy, making them attack their own allies sometimes (TIERS NOT AVAILABLE YET)
+-Confuses an enemy, making them attack their own allies sometimes (Tier:1)
 
 
 Hardy Hound
@@ -11226,7 +11226,7 @@ Medallium Nº: 293
 •Technique: Frost
 -Attacks an enemy, scales with SPR (Ice) (Power:50-110)
 •Inspirit: Jittery Jinx
-Makes the enemy unable to move around the grid (TIERS NOT AVAILABLE YET)
+-Makes the enemy unable to move around the grid (Tier:1)
 
 
 Whirlweasel
@@ -11264,7 +11264,7 @@ Medallium Nº: 294
 •Technique: Storm
 -Attacks an enemy, scales with SPR (Wind) (Power:70-112)
 •Inspirit: So Sharp Cyclone
--An enemy loses HP on their turns (TIERS NOT AVAILABLE YET)
+-An enemy loses HP on their turns (Tier:1)
 
 
 Chocobonyan
@@ -11301,7 +11301,7 @@ Medallium Nº: 295
 •Technique: Storm
 -Attacks an enemy, scales with SPR (Wind) (Power:70-112)
 •Inspirit: Mount Up!
--Increases an ally SPD (TIERS NOT AVAILABLE YET)
+-Increases an ally SPD (Tier:1)
 
 
 Mooglenyan
@@ -11338,7 +11338,7 @@ Medallium Nº: 296
 •Technique: Paradise
 -Heals an ally, scales with SPR (Power:70-112)
 •Inspirit: Kupower Nyan!
--Increases an ally SPR (TIERS NOT AVAILABLE YET)
+-Increases an ally SPR (Tier:2)
 
 
 Wobblenyan
@@ -11375,7 +11375,7 @@ Medallium Nº: 297
 •Technique: Torrent
 -Attacks an enemy, scales with SPR (Water) (Power:30-105)
 •Inspirit: Wobble Nyans
--Reduces an enemy DEF (TIERS NOT AVAILABLE YET)
+-Reduces an enemy DEF (Tier:1)
 
 
 Wibblekoma
@@ -11412,7 +11412,7 @@ Medallium Nº: 298
 •Technique: Storm
 -Attacks an enemy, scales with SPR (Wind) (Power:70-112)
 •Inspirit: Wibble Swirls
--Reduces an enemy DEF (TIERS NOT AVAILABLE YET)
+-Reduces an enemy DEF (Tier:1)
 
 
 Sushinyan
@@ -11449,7 +11449,7 @@ Medallium Nº: 299
 •Technique: Fire
 -Attacks an enemy, scales with SPR (Fire) (Power:30-105)
 •Inspirit: Wonder Wasabi
--Increases an ally stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Increases an ally stats (STR, SPR, DEF and SPD) (Tier:2)
 
 
 Tempurasan
@@ -11486,7 +11486,7 @@ Medallium Nº: 300
 •Technique: Blaze
 -Attacks an enemy, scales with SPR (Fire) (Power:50-110)
 •Inspirit: Battered Boon
--Increases an ally stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Increases an ally stats (STR, SPR, DEF and SPD) (Tier:2)
 
 
 Faux Kappa
@@ -11523,7 +11523,7 @@ Medallium Nº: 301
 •Technique: Waterfall
 -Attacks an enemy, scales with SPR (Water) (Power:70-112)
 •Inspirit: Kappa Quick
--Increases an ally SPD (TIERS NOT AVAILABLE YET)
+-Increases an ally SPD (Tier:1)
 
 
 Tigappa
@@ -11559,7 +11559,7 @@ Medallium Nº: 302
 •Technique: Waterfall
 -Attacks an enemy, scales with SPR (Water) (Power:70-112)
 •Inspirit: Kappa Quick
--Increases an ally SPD (TIERS NOT AVAILABLE YET)
+-Increases an ally SPD (Tier:1)
 
 
 Master Nyada
@@ -11596,7 +11596,7 @@ Medallium Nº: 303
 •Technique: Storm
 -Attacks an enemy, scales with SPR (Wind) (Power:70-112)
 •Inspirit: Hose Be with You
--Increases an ally stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Increases an ally stats (STR, SPR, DEF and SPD) (Tier:1)
 
 
 Tenguriginal
@@ -11632,7 +11632,7 @@ Medallium Nº: 304
 •Technique: Storm
 -Attacks an enemy, scales with SPR (Wind) (Power:70-112)
 •Inspirit: Tengurious Tailwind
--Increases an ally SPD (TIERS NOT AVAILABLE YET)
+-Increases an ally SPD (Tier:1)
 
 
 Tengulightened
@@ -11668,7 +11668,7 @@ Medallium Nº: 305
 •Technique: Incinerate
 -Attacks an enemy, scales with SPR (Fire) (Power:70-112)
 •Inspirit: Seal
-Makes the enemy unable to move around the grid (TIERS NOT AVAILABLE YET)
+-Makes the enemy unable to move around the grid (Tier:1)
 
 
 Pallysol
@@ -11707,7 +11707,7 @@ Medallium Nº: 306
 •Technique: Whirlwind
 -Attacks an enemy, scales with SPR (Wind) (Power:30-105)
 •Inspirit: Undercover
--Increases an ally DEF (TIERS NOT AVAILABLE YET)
+-Increases an ally DEF (Tier:1)
 
 
 Bumblejack
@@ -11747,7 +11747,7 @@ Medallium Nº: 307
 •Technique: Pebble
 -Attacks an enemy, scales with SPR (Earth) (Power:30-105)
 •Inspirit: Get Lookin'
--Increases an enemy loafing chances, making them unable to act sometimes (TIERS NOT AVAILABLE YET)
+-Increases an enemy loafing chances, making them unable to act sometimes (Tier:1)
 
 
 In-Tune
@@ -11787,7 +11787,7 @@ Medallium Nº: 308
 •Technique: Heal
 -Heals an ally, scales with SPR (Power:30-105)
 •Inspirit: Harmonic Healing
--An ally recovers HP on their turns (TIERS NOT AVAILABLE YET)
+-An ally recovers HP on their turns (Tier:1)
 
 
 Wantston
@@ -11826,7 +11826,7 @@ Medallium Nº: 309
 •Technique: Shock
 -Attacks an enemy, scales with SPR (Lightning) (Power:30-105)
 •Inspirit: Envy
--Confuses an enemy, making them attack their own allies sometimes (TIERS NOT AVAILABLE YET)
+-Confuses an enemy, making them attack their own allies sometimes (Tier:2)
 
 
 Grubsnitch
@@ -11865,7 +11865,7 @@ Medallium Nº: 310
 •Technique: Rockslide
 -Attacks an enemy, scales with SPR (Earth) (Power:50-110)
 •Inspirit: Gluttony
--An enemy loses HP on their turns (TIERS NOT AVAILABLE YET)
+-An enemy loses HP on their turns (Tier:2)
 
 
 Wiglin
@@ -11904,7 +11904,7 @@ Medallium Nº: 311
 •Technique: Heal
 -Heals an ally, scales with SPR (Power:30-105)
 •Inspirit: Healthy Wakame
--Increases an ally STR (TIERS NOT AVAILABLE YET)
+-Increases an ally STR (Tier:2)
 
 
 Kelpacabana
@@ -11943,7 +11943,7 @@ Medallium Nº: 312
 •Technique: Paradise
 -Heals an ally, scales with SPR (Power:70-112)
 •Inspirit: Dance Party
--Increases an ally stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Increases an ally stats (STR, SPR, DEF and SPD) (Tier:2)
 
 
 Steppa
@@ -11982,7 +11982,7 @@ Medallium Nº: 313
 •Technique: Heal
 -Heals an ally, scales with SPR (Power:30-105)
 •Inspirit: Kombu Energy
--Increases an ally DEF (TIERS NOT AVAILABLE YET)
+-Increases an ally DEF (Tier:2)
 
 
 Rhyth
@@ -12021,7 +12021,7 @@ Medallium Nº: 314
 •Technique: Restore
 -Heals an ally, scales with SPR (Power:50-110)
 •Inspirit: Slippery Mekabu
--Increases an ally SPD (TIERS NOT AVAILABLE YET)
+-Increases an ally SPD (Tier:2)
 
 
 Seaweed Sns.
@@ -12061,7 +12061,7 @@ Medallium Nº: 315
 -Attacks an enemy, scales with SPR (Drain) (Power:40-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Shielding Slime
--Increases an ally DEF (TIERS NOT AVAILABLE YET)
+-Increases an ally DEF (Tier:2)
 
 
 Hungramps
@@ -12100,7 +12100,7 @@ Medallium Nº: 316
 •Technique: Heal
 -Heals an ally, scales with SPR (Power:30-105)
 •Inspirit: Starve
--Reduces an enemy STR (TIERS NOT AVAILABLE YET)
+-Reduces an enemy STR (Tier:1)
 
 
 Hungorge
@@ -12139,7 +12139,7 @@ Medallium Nº: 317
 -Attacks an enemy, scales with SPR (Drain) (Power:40-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Starve
--Reduces an enemy STR (TIERS NOT AVAILABLE YET)
+-Reduces an enemy STR (Tier:1)
 
 
 Grainpa
@@ -12177,7 +12177,7 @@ Medallium Nº: 318
 •Technique: Restore
 -Heals an ally, scales with SPR (Power:50-110)
 •Inspirit: Rice's Kindness
--An ally recovers HP on their turns (TIERS NOT AVAILABLE YET)
+-An ally recovers HP on their turns (Tier:2)
 
 
 Supersize G.
@@ -12216,7 +12216,7 @@ Medallium Nº: 319
 •Technique: Restore
 -Heals an ally, scales with SPR (Power:50-110)
 •Inspirit: Feelin' Famished
--Reduces an enemy STR (TIERS NOT AVAILABLE YET)
+-Reduces an enemy STR (Tier:1)
 
 
 Tongus
@@ -12255,7 +12255,7 @@ Medallium Nº: 320
 •Technique: Heal
 -Heals an ally, scales with SPR (Power:30-105)
 •Inspirit: Lick Your Wounds
--An ally recovers HP on their turns (TIERS NOT AVAILABLE YET)
+-An ally recovers HP on their turns (Tier:1)
 
 
 Nurse Tongus
@@ -12293,7 +12293,7 @@ Medallium Nº: 321
 •Technique: Paradise
 -Heals an ally, scales with SPR (Power:70-112)
 •Inspirit: Lick Your Wounds
--An ally recovers HP on their turns (TIERS NOT AVAILABLE YET)
+-An ally recovers HP on their turns (Tier:1)
 
 
 Sandmeh
@@ -12332,7 +12332,7 @@ Medallium Nº: 322
 •Technique: Heal
 -Heals an ally, scales with SPR (Power:30-105)
 •Inspirit: A-meh-zing
--Increases an ally stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Increases an ally stats (STR, SPR, DEF and SPD) (Tier:1)
 
 
 Mr. Sandmeh
@@ -12370,7 +12370,7 @@ Medallium Nº: 323
 •Technique: Restore
 -Heals an ally, scales with SPR (Power:50-110)
 •Inspirit: A-meh-zing
--Increases an ally stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Increases an ally stats (STR, SPR, DEF and SPD) (Tier:1)
 
 
 Lil Blue Hood
@@ -12409,7 +12409,7 @@ Medallium Nº: 324
 •Technique: Torrent
 -Attacks an enemy, scales with SPR (Water) (Power:30-105)
 •Inspirit: Beatific Bathtime
--An ally recovers HP on their turns (TIERS NOT AVAILABLE YET)
+-An ally recovers HP on their turns (Tier:1)
 
 
 Bubble Beth
@@ -12447,7 +12447,7 @@ Medallium Nº: 325
 •Technique: Waterfall
 -Attacks an enemy, scales with SPR (Water) (Power:70-112)
 •Inspirit: Balmy Bathtime
--An ally recovers HP on their turns (TIERS NOT AVAILABLE YET)
+-An ally recovers HP on their turns (Tier:1)
 
 
 Afronaut
@@ -12486,7 +12486,7 @@ Medallium Nº: 326
 •Technique: Hail
 -Attacks an enemy, scales with SPR (Ice) (Power:30-105)
 •Inspirit: Weightlessness
--Increases an ally SPD (TIERS NOT AVAILABLE YET)
+-Increases an ally SPD (Tier:1)
 
 
 Cereal Spiller
@@ -12525,7 +12525,7 @@ Medallium Nº: 327
 •Technique: Heal
 -Heals an ally, scales with SPR (Power:30-105)
 •Inspirit: Spill Over
--Inspirits an enemy, making them drop money and lose their turns (TIERS NOT AVAILABLE YET)
+-Inspirits an enemy, making them drop money and lose their turns (Tier:1)
 
 
 Tomorrow Gal
@@ -12564,7 +12564,7 @@ Medallium Nº: 328
 •Technique: Restore
 -Heals an ally, scales with SPR (Power:50-110)
 •Inspirit: Cheer On
--Increases an ally stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Increases an ally stats (STR, SPR, DEF and SPD) (Tier:1)
 
 
 Swaycorn
@@ -12603,7 +12603,7 @@ Medallium Nº: 329
 •Technique: Pebble
 -Attacks an enemy, scales with SPR (Earth) (Power:30-105)
 •Inspirit: Swayed Intentions
--Confuses an enemy, making them attack their own allies sometimes (TIERS NOT AVAILABLE YET)
+-Confuses an enemy, making them attack their own allies sometimes (Tier:1)
 
 
 Push Pup
@@ -12642,7 +12642,7 @@ Medallium Nº: 330
 •Technique: Heal
 -Heals an ally, scales with SPR (Power:30-105)
 •Inspirit: Puppy Press
--Increases an ally stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Increases an ally stats (STR, SPR, DEF and SPD) (Tier:1)
 
 
 Happycane
@@ -12682,7 +12682,7 @@ Medallium Nº: 331
 •Technique: Heal
 -Heals an ally, scales with SPR (Power:30-105)
 •Inspirit: Sweet Relief
--An ally recovers HP on their turns (TIERS NOT AVAILABLE YET)
+-An ally recovers HP on their turns (Tier:2)
 
 
 Starrycane
@@ -12721,7 +12721,7 @@ Medallium Nº: 332
 •Technique: Restore
 -Heals an ally, scales with SPR (Power:50-110)
 •Inspirit: Sweet Relief
--An ally recovers HP on their turns (TIERS NOT AVAILABLE YET)
+-An ally recovers HP on their turns (Tier:2)
 
 
 Lodo
@@ -12760,7 +12760,7 @@ Medallium Nº: 333
 •Technique: Whirlwind
 -Attacks an enemy, scales with SPR (Wind) (Power:30-105)
 •Inspirit: Poverty
--Inspirits an enemy, making them drop money and lose their turns (TIERS NOT AVAILABLE YET)
+-Inspirits an enemy, making them drop money and lose their turns (Tier:1)
 
 
 Supoor Hero
@@ -12797,7 +12797,7 @@ Medallium Nº: 334
 •Technique: Storm
 -Attacks an enemy, scales with SPR (Wind) (Power:70-112)
 •Inspirit: Supoor Squanderer
--Inspirits an enemy, making them drop money and lose their turns (TIERS NOT AVAILABLE YET)
+-Inspirits an enemy, making them drop money and lose their turns (Tier:2)
 
 
 Chippa
@@ -12836,7 +12836,7 @@ Medallium Nº: 335
 •Technique: Torrent
 -Attacks an enemy, scales with SPR (Water) (Power:30-105)
 •Inspirit: Optimism
--An ally recovers HP on their turns (TIERS NOT AVAILABLE YET)
+-An ally recovers HP on their turns (Tier:1)
 
 
 Gnomey
@@ -12876,7 +12876,7 @@ Medallium Nº: 336
 •Technique: Heal
 -Heals an ally, scales with SPR (Power:30-105)
 •Inspirit: Chin Up
--An ally recovers HP on their turns (TIERS NOT AVAILABLE YET)
+-An ally recovers HP on their turns (Tier:3)
 
 
 High Gnomey
@@ -12914,7 +12914,7 @@ Medallium Nº: 337
 •Technique: Paradise
 -Heals an ally, scales with SPR (Power:70-112)
 •Inspirit: Cheer up
--An ally recovers HP on their turns (TIERS NOT AVAILABLE YET)
+-An ally recovers HP on their turns (Tier:3)
 
 
 Enerfly
@@ -12953,7 +12953,7 @@ Medallium Nº: 338
 •Technique: Heal
 -Heals an ally, scales with SPR (Power:30-105)
 •Inspirit: Energize
--Increases an ally stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Increases an ally stats (STR, SPR, DEF and SPD) (Tier:2)
 
 
 Enefly
@@ -12993,7 +12993,7 @@ Medallium Nº: 339
 -Attacks an enemy, scales with SPR (Drain) (Power:25-87)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Enemy Maker
--Confuses an enemy, making them attack their own allies sometimes (TIERS NOT AVAILABLE YET)
+-Confuses an enemy, making them attack their own allies sometimes (Tier:1)
 
 
 Betterfly
@@ -13030,7 +13030,7 @@ Medallium Nº: 340
 •Technique: Paradise
 -Heals an ally, scales with SPR (Power:70-112)
 •Inspirit: Feeling Fine
--Increases an ally stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Increases an ally stats (STR, SPR, DEF and SPD) (Tier:2)
 
 
 Peppillon
@@ -13066,7 +13066,7 @@ Medallium Nº: 341
 •Technique: Paradise
 -Heals an ally, scales with SPR (Power:70-112)
 •Inspirit: Life Is Good
--An ally recovers HP on their turns (TIERS NOT AVAILABLE YET)
+-An ally recovers HP on their turns (Tier:2)
 
 
 Predictabull
@@ -13106,7 +13106,7 @@ Medallium Nº: 342
 •Technique: Heal
 -Heals an ally, scales with SPR (Power:30-105)
 •Inspirit: Raging Bull
--Increases an ally STR (TIERS NOT AVAILABLE YET)
+-Increases an ally STR (Tier:1)
 
 
 Smashibull
@@ -13143,7 +13143,7 @@ Medallium Nº: 343
 •Technique: Paradise
 -Heals an ally, scales with SPR (Power:70-112)
 •Inspirit: Raging Bull
--Increases an ally STR (TIERS NOT AVAILABLE YET)
+-Increases an ally STR (Tier:1)
 
 
 DON-CHAN
@@ -13183,7 +13183,7 @@ Medallium Nº: 344
 •Technique: Restore
 -Heals an ally, scales with SPR (Power:50-110)
 •Inspirit: Battle Beat
--Increases an ally STR (TIERS NOT AVAILABLE YET)
+-Increases an ally STR (Tier:3)
 
 
 Ray O'Light
@@ -13222,7 +13222,7 @@ Medallium Nº: 345
 •Technique: Blaze
 -Attacks an enemy, scales with SPR (Fire) (Power:50-110)
 •Inspirit: Solar Power
--Increases an ally STR (TIERS NOT AVAILABLE YET)
+-Increases an ally STR (Tier:2)
 
 
 Ol' Saint Trick
@@ -13262,7 +13262,7 @@ Medallium Nº: 346
 •Technique: Restore
 -Heals an ally, scales with SPR (Power:50-110)
 •Inspirit: So Generous
--Inspirits an enemy, making them drop money and lose their turns (TIERS NOT AVAILABLE YET)
+-Inspirits an enemy, making them drop money and lose their turns (Tier:1)
 
 
 Ol' Fortune
@@ -13302,7 +13302,7 @@ Medallium Nº: 347
 •Technique: Lightning
 -Attacks an enemy, scales with SPR (Lightning) (Power:50-110)
 •Inspirit: So Generous
--Inspirits an enemy, making them drop money and lose their turns (TIERS NOT AVAILABLE YET)
+-Inspirits an enemy, making them drop money and lose their turns (Tier:1)
 
 
 Ponderoo
@@ -13341,7 +13341,7 @@ Medallium Nº: 348
 •Technique: Rapids
 -Attacks an enemy, scales with SPR (Water) (Power:50-110)
 •Inspirit: Pause for Thought
-Makes the enemy unable to move around the grid (TIERS NOT AVAILABLE YET)
+-Makes the enemy unable to move around the grid (Tier:1)
 
 
 Tongue-Twister
@@ -13380,7 +13380,7 @@ Medallium Nº: 349
 •Technique: Fire
 -Attacks an enemy, scales with SPR (Fire) (Power:30-105)
 •Inspirit: Tongue Tied
--An enemy loses HP on their turns (TIERS NOT AVAILABLE YET)
+-An enemy loses HP on their turns (Tier:1)
 
 
 Lazy Sundae
@@ -13420,7 +13420,7 @@ Medallium Nº: 350
 •Technique: Restore
 -Heals an ally, scales with SPR (Power:50-110)
 •Inspirit: Such a Parfait Day
--Increases an enemy loafing chances, making them unable to act sometimes (TIERS NOT AVAILABLE YET)
+-Increases an enemy loafing chances, making them unable to act sometimes (Tier:1)
 
 
 Got It Maid
@@ -13459,7 +13459,7 @@ Medallium Nº: 351
 •Technique: Restore
 -Heals an ally, scales with SPR (Power:50-110)
 •Inspirit: Got it!
--Increases an ally STR (TIERS NOT AVAILABLE YET)
+-Increases an ally STR (Tier:2)
 
 
 Greengramps
@@ -13498,7 +13498,7 @@ Medallium Nº: 352
 •Technique: Restore
 -Heals an ally, scales with SPR (Power:50-110)
 •Inspirit: One with the Earth
--An ally recovers HP on their turns (TIERS NOT AVAILABLE YET)
+-An ally recovers HP on their turns (Tier:1)
 
 
 Right Brothers
@@ -13538,7 +13538,7 @@ Medallium Nº: 353
 •Technique: Rapids
 -Attacks an enemy, scales with SPR (Water) (Power:50-110)
 •Inspirit: That's the Way!
--Increases an ally stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Increases an ally stats (STR, SPR, DEF and SPD) (Tier:1)
 
 
 Tattlecakes
@@ -13578,7 +13578,7 @@ Medallium Nº: 354
 •Technique: Restore
 -Heals an ally, scales with SPR (Power:50-110)
 •Inspirit: Healing Hot-cakes
--An ally recovers HP on their turns (TIERS NOT AVAILABLE YET)
+-An ally recovers HP on their turns (Tier:2)
 
 
 Happierre
@@ -13618,7 +13618,7 @@ Medallium Nº: 355
 •Technique: Restore
 -Heals an ally, scales with SPR (Power:50-110)
 •Inspirit: Cheerfulness
--An ally recovers HP on their turns (TIERS NOT AVAILABLE YET)
+-An ally recovers HP on their turns (Tier:1)
 
 
 Reversa
@@ -13656,7 +13656,7 @@ Medallium Nº: 356
 •Technique: Paradise
 -Heals an ally, scales with SPR (Power:70-112)
 •Inspirit: Insecurity
--Confuses an enemy, making them attack their own allies sometimes (TIERS NOT AVAILABLE YET)
+-Confuses an enemy, making them attack their own allies sometimes (Tier:1)
 
 
 Reversette
@@ -13694,7 +13694,7 @@ Medallium Nº: 357
 •Technique: Storm
 -Attacks an enemy, scales with SPR (Wind) (Power:70-112)
 •Inspirit: Insecurity
--Confuses an enemy, making them attack their own allies sometimes (TIERS NOT AVAILABLE YET)
+-Confuses an enemy, making them attack their own allies sometimes (Tier:1)
 
 
 Pheasanyan
@@ -13732,7 +13732,7 @@ Medallium Nº: 358
 •Technique: Paradise
 -Heals an ally, scales with SPR (Power:70-112)
 •Inspirit: A Peck Above
--An ally recovers HP on their turns (TIERS NOT AVAILABLE YET)
+-An ally recovers HP on their turns (Tier:1)
 
 
 Fundango
@@ -13770,7 +13770,7 @@ Medallium Nº: 359
 •Technique: Restore
 -Heals an ally, scales with SPR (Power:50-110)
 •Inspirit: Fun Times
--An ally recovers HP on their turns (TIERS NOT AVAILABLE YET)
+-An ally recovers HP on their turns (Tier:1)
 
 
 Pearly White
@@ -13808,7 +13808,7 @@ Medallium Nº: 360
 •Technique: Restore
 -Heals an ally, scales with SPR (Power:50-110)
 •Inspirit: Dental Defence
--Increases an ally DEF (TIERS NOT AVAILABLE YET)
+-Increases an ally DEF (Tier:2)
 
 
 Robogramps
@@ -13846,7 +13846,7 @@ Medallium Nº: 361
 •Technique: Restore
 -Heals an ally, scales with SPR (Power:50-110)
 •Inspirit: Steel Power
--Increases an ally DEF (TIERS NOT AVAILABLE YET)
+-Increases an ally DEF (Tier:1)
 
 
 Rollen
@@ -13884,7 +13884,7 @@ Medallium Nº: 362
 •Technique: Rapids
 -Attacks an enemy, scales with SPR (Water) (Power:50-110)
 •Inspirit: Luck's Smile
--An ally recovers HP on their turns (TIERS NOT AVAILABLE YET)
+-An ally recovers HP on their turns (Tier:1)
 
 
 Dubbles
@@ -13921,7 +13921,7 @@ Medallium Nº: 363
 •Technique: Waterfall
 -Attacks an enemy, scales with SPR (Water) (Power:70-112)
 •Inspirit: Lucky Streak
--An ally recovers HP on their turns (TIERS NOT AVAILABLE YET)
+-An ally recovers HP on their turns (Tier:1)
 
 
 Scarasol
@@ -13959,7 +13959,7 @@ Medallium Nº: 364
 •Technique: Rockslide
 -Attacks an enemy, scales with SPR (Earth) (Power:50-110)
 •Inspirit: Deep Cover
--Increases an ally DEF (TIERS NOT AVAILABLE YET)
+-Increases an ally DEF (Tier:1)
 
 
 Odysseynyan
@@ -13997,7 +13997,7 @@ Medallium Nº: 365
 •Technique: Paradise
 -Heals an ally, scales with SPR (Power:70-112)
 •Inspirit: Palatial Power
--Increases an ally stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Increases an ally stats (STR, SPR, DEF and SPD) (Tier:1)
 
 
 Ghostess
@@ -14034,7 +14034,7 @@ Medallium Nº: 366
 •Technique: Paradise
 -Heals an ally, scales with SPR (Power:70-112)
 •Inspirit: In Good Hands
--Increases an ally stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Increases an ally stats (STR, SPR, DEF and SPD) (Tier:2)
 
 
 Papa Bolt
@@ -14071,7 +14071,7 @@ Medallium Nº: 367
 •Technique: Voltage
 -Attacks an enemy, scales with SPR (Lightning) (Power:70-112)
 •Inspirit: Dad's Support
--Increases an ally STR (TIERS NOT AVAILABLE YET)
+-Increases an ally STR (Tier:1)
 
 
 Uncle Infinite
@@ -14107,7 +14107,7 @@ Medallium Nº: 368
 •Technique: Voltage
 -Attacks an enemy, scales with SPR (Lightning) (Power:70-112)
 •Inspirit: Uncle's Shout
--Increases an ally STR (TIERS NOT AVAILABLE YET)
+-Increases an ally STR (Tier:1)
 
 
 Mama Aura
@@ -14144,7 +14144,7 @@ Medallium Nº: 369
 •Technique: Paradise
 -Heals an ally, scales with SPR (Power:70-112)
 •Inspirit: Mama's Warmth
--An ally recovers HP on their turns (TIERS NOT AVAILABLE YET)
+-An ally recovers HP on their turns (Tier:1)
 
 
 Auntie Heart
@@ -14180,7 +14180,7 @@ Medallium Nº: 370
 •Technique: Paradise
 -Heals an ally, scales with SPR (Power:70-112)
 •Inspirit: Auntie's Love
--Increases an ally DEF (TIERS NOT AVAILABLE YET)
+-Increases an ally DEF (Tier:1)
 
 
 Kyryn
@@ -14216,7 +14216,7 @@ Medallium Nº: 371
 •Technique: Paradise
 -Heals an ally, scales with SPR (Power:70-112)
 •Inspirit: Rest Aura
--An ally recovers HP on their turns (TIERS NOT AVAILABLE YET)
+-An ally recovers HP on their turns (Tier:1)
 
 
 Unikirin
@@ -14252,7 +14252,7 @@ Medallium Nº: 372
 •Technique: Paradise
 -Heals an ally, scales with SPR (Power:70-112)
 •Inspirit: Healing Horn
--An ally recovers HP on their turns (TIERS NOT AVAILABLE YET)
+-An ally recovers HP on their turns (Tier:1)
 
 
 Double Time
@@ -14289,7 +14289,7 @@ Medallium Nº: 373
 •Technique: Paradise
 -Heals an ally, scales with SPR (Power:70-112)
 •Inspirit: Speed Up!
--Increases an ally SPD (TIERS NOT AVAILABLE YET)
+-Increases an ally SPD (Tier:1)
 
 
 Sonic Bam
@@ -14326,7 +14326,7 @@ Medallium Nº: 374
 •Technique: Paradise
 -Heals an ally, scales with SPR (Power:70-112)
 •Inspirit: Sonic Stance
--Increases an ally STR (TIERS NOT AVAILABLE YET)
+-Increases an ally STR (Tier:1)
 
 
 Neggplant
@@ -14366,7 +14366,7 @@ Medallium Nº: 375
 •Technique: Pebble
 -Attacks an enemy, scales with SPR (Earth) (Power:30-105)
 •Inspirit: Stop Negging Me!
--Confuses an enemy, making them attack their own allies sometimes (TIERS NOT AVAILABLE YET)
+-Confuses an enemy, making them attack their own allies sometimes (Tier:2)
 
 
 Snitchin
@@ -14407,7 +14407,7 @@ Medallium Nº: 376
 -Attacks an enemy, scales with SPR (Drain) (Power:25-87)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Prickly Prickle
--An enemy loses HP on their turns (TIERS NOT AVAILABLE YET)
+-An enemy loses HP on their turns (Tier:2)
 
 
 Messyrai
@@ -14446,7 +14446,7 @@ Medallium Nº: 377
 •Technique: Fire
 -Attacks an enemy, scales with SPR (Fire) (Power:30-105)
 •Inspirit: Big Mess Up
--Reduces an enemy SPD (TIERS NOT AVAILABLE YET)
+-Reduces an enemy SPD (Tier:2)
 
 
 Leadoni
@@ -14485,7 +14485,7 @@ Medallium Nº: 378
 •Technique: Hail
 -Attacks an enemy, scales with SPR (Ice) (Power:30-105)
 •Inspirit: Guide
--Confuses an enemy, making them attack their own allies sometimes (TIERS NOT AVAILABLE YET)
+-Confuses an enemy, making them attack their own allies sometimes (Tier:2)
 
 
 Mynimo
@@ -14525,7 +14525,7 @@ Medallium Nº: 379
 -Attacks an enemy, scales with SPR (Drain) (Power:25-87)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Bias
--Reduces an enemy STR (TIERS NOT AVAILABLE YET)
+-Reduces an enemy STR (Tier:2)
 
 
 Ake
@@ -14564,7 +14564,7 @@ Medallium Nº: 380
 •Technique: Pebble
 -Attacks an enemy, scales with SPR (Earth) (Power:30-105)
 •Inspirit: Shoulder Pain
--An enemy loses HP on their turns (TIERS NOT AVAILABLE YET)
+-An enemy loses HP on their turns (Tier:2)
 
 
 Payn
@@ -14603,7 +14603,7 @@ Medallium Nº: 381
 •Technique: Rockslide
 -Attacks an enemy, scales with SPR (Earth) (Power:50-110)
 •Inspirit: Shoulder Pain
--An enemy loses HP on their turns (TIERS NOT AVAILABLE YET)
+-An enemy loses HP on their turns (Tier:2)
 
 
 Agon
@@ -14641,7 +14641,7 @@ Medallium Nº: 382
 •Technique: Meteor
 -Attacks an enemy, scales with SPR (Earth) (Power:70-112)
 •Inspirit: Back Pain
--Increases an enemy loafing chances, making them unable to act sometimes (TIERS NOT AVAILABLE YET)
+-Increases an enemy loafing chances, making them unable to act sometimes (Tier:2)
 
 
 Herbiboy
@@ -14681,7 +14681,7 @@ Medallium Nº: 383
 •Technique: Torrent
 -Attacks an enemy, scales with SPR (Water) (Power:30-105)
 •Inspirit: Wilt
--Reduces an enemy STR (TIERS NOT AVAILABLE YET)
+-Reduces an enemy STR (Tier:2)
 
 
 Carniboy
@@ -14719,7 +14719,7 @@ Medallium Nº: 384
 •Technique: Blaze
 -Attacks an enemy, scales with SPR (Fire) (Power:50-110)
 •Inspirit: Beef Up
--Increases an ally STR (TIERS NOT AVAILABLE YET)
+-Increases an ally STR (Tier:1)
 
 
 Wydeawake
@@ -14758,7 +14758,7 @@ Medallium Nº: 385
 •Technique: Shock
 -Attacks an enemy, scales with SPR (Lightning) (Power:30-105)
 •Inspirit: Restless Night
--Reduces an enemy DEF (TIERS NOT AVAILABLE YET)
+-Reduces an enemy DEF (Tier:2)
 
 
 Allnyta
@@ -14796,7 +14796,7 @@ Medallium Nº: 386
 •Technique: Lightning
 -Attacks an enemy, scales with SPR (Lightning) (Power:50-110)
 •Inspirit: Sleepless Night
--Reduces an enemy DEF (TIERS NOT AVAILABLE YET)
+-Reduces an enemy DEF (Tier:2)
 
 
 Treetter
@@ -14836,7 +14836,7 @@ Medallium Nº: 387
 •Technique: Pebble
 -Attacks an enemy, scales with SPR (Earth) (Power:30-105)
 •Inspirit: Retreet
--Increases an enemy loafing chances, making them unable to act sometimes (TIERS NOT AVAILABLE YET)
+-Increases an enemy loafing chances, making them unable to act sometimes (Tier:2)
 
 
 Retreeter
@@ -14875,7 +14875,7 @@ Medallium Nº: 388
 •Technique: Rockslide
 -Attacks an enemy, scales with SPR (Earth) (Power:50-110)
 •Inspirit: Retreet
--Increases an enemy loafing chances, making them unable to act sometimes (TIERS NOT AVAILABLE YET)
+-Increases an enemy loafing chances, making them unable to act sometimes (Tier:2)
 
 
 Negatibuzz
@@ -14915,7 +14915,7 @@ Medallium Nº: 389
 -Attacks an enemy, scales with SPR (Drain) (Power:25-87)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Negativize
--Reduces an enemy SPD (TIERS NOT AVAILABLE YET)
+-Reduces an enemy SPD (Tier:2)
 
 
 Moskevil
@@ -14956,7 +14956,7 @@ Medallium Nº: 390
 -Attacks an enemy, scales with SPR (Drain) (Power:40-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Negativize
--Reduces an enemy SPD (TIERS NOT AVAILABLE YET)
+-Reduces an enemy SPD (Tier:2)
 
 
 Scritchy
@@ -14994,7 +14994,7 @@ Medallium Nº: 391
 •Technique: Voltage
 -Attacks an enemy, scales with SPR (Lightning) (Power:70-112)
 •Inspirit: Itchy
--An enemy loses HP on their turns (TIERS NOT AVAILABLE YET)
+-An enemy loses HP on their turns (Tier:2)
 
 
 Dimmy
@@ -15033,7 +15033,7 @@ Medallium Nº: 392
 •Technique: Whirlwind
 -Attacks an enemy, scales with SPR (Wind) (Power:30-105)
 •Inspirit: Fade Away
--Reduces an enemy DEF (TIERS NOT AVAILABLE YET)
+-Reduces an enemy DEF (Tier:1)
 
 
 Blandon
@@ -15072,7 +15072,7 @@ Medallium Nº: 393
 •Technique: Tornado
 -Attacks an enemy, scales with SPR (Wind) (Power:50-110)
 •Inspirit: Fade Away
--Reduces an enemy DEF (TIERS NOT AVAILABLE YET)
+-Reduces an enemy DEF (Tier:1)
 
 
 Nul
@@ -15110,7 +15110,7 @@ Medallium Nº: 394
 •Technique: Storm
 -Attacks an enemy, scales with SPR (Wind) (Power:70-112)
 •Inspirit: Fade Away
--Reduces an enemy DEF (TIERS NOT AVAILABLE YET)
+-Reduces an enemy DEF (Tier:1)
 
 
 Salty Bacon
@@ -15149,7 +15149,7 @@ Medallium Nº: 395
 •Technique: Blaze
 -Attacks an enemy, scales with SPR (Fire) (Power:50-110)
 •Inspirit: Crisp and Tasty
--Confuses an enemy, making them attack their own allies sometimes (TIERS NOT AVAILABLE YET)
+-Confuses an enemy, making them attack their own allies sometimes (Tier:2)
 
 
 Suspicioni
@@ -15189,7 +15189,7 @@ Medallium Nº: 396
 •Technique: Torrent
 -Attacks an enemy, scales with SPR (Water) (Power:30-105)
 •Inspirit: Distrust
--Confuses an enemy, making them attack their own allies sometimes (TIERS NOT AVAILABLE YET)
+-Confuses an enemy, making them attack their own allies sometimes (Tier:2)
 
 
 Tantroni
@@ -15229,7 +15229,7 @@ Medallium Nº: 397
 •Technique: Fire
 -Attacks an enemy, scales with SPR (Fire) (Power:30-105)
 •Inspirit: Bratty
--Confuses an enemy, making them attack their own allies sometimes (TIERS NOT AVAILABLE YET)
+-Confuses an enemy, making them attack their own allies sometimes (Tier:2)
 
 
 Contrarioni
@@ -15268,7 +15268,7 @@ Medallium Nº: 398
 •Technique: Lightning
 -Attacks an enemy, scales with SPR (Lightning) (Power:50-110)
 •Inspirit: Contrariness
--Confuses an enemy, making them attack their own allies sometimes (TIERS NOT AVAILABLE YET)
+-Confuses an enemy, making them attack their own allies sometimes (Tier:1)
 
 
 Grumpus Khan
@@ -15307,7 +15307,7 @@ Medallium Nº: 399
 •Technique: Whirlwind
 -Attacks an enemy, scales with SPR (Wind) (Power:30-105)
 •Inspirit: Get Your Goat
--Confuses an enemy, making them attack their own allies sometimes (TIERS NOT AVAILABLE YET)
+-Confuses an enemy, making them attack their own allies sometimes (Tier:1)
 
 
 Groupus Khan
@@ -15346,7 +15346,7 @@ Medallium Nº: 400
 •Technique: Tornado
 -Attacks an enemy, scales with SPR (Wind) (Power:50-110)
 •Inspirit: Get Your Goat
--Confuses an enemy, making them attack their own allies sometimes (TIERS NOT AVAILABLE YET)
+-Confuses an enemy, making them attack their own allies sometimes (Tier:1)
 
 
 Hidabat
@@ -15385,7 +15385,7 @@ Medallium Nº: 401
 •Technique: Tornado
 -Attacks an enemy, scales with SPR (Wind) (Power:50-110)
 •Inspirit: Shut Away
--Increases an enemy loafing chances, making them unable to act sometimes (TIERS NOT AVAILABLE YET)
+-Increases an enemy loafing chances, making them unable to act sometimes (Tier:2)
 
 
 Abodabat
@@ -15423,7 +15423,7 @@ Medallium Nº: 402
 •Technique: Tornado
 -Attacks an enemy, scales with SPR (Wind) (Power:50-110)
 •Inspirit: Shut Away
--Increases an enemy loafing chances, making them unable to act sometimes (TIERS NOT AVAILABLE YET)
+-Increases an enemy loafing chances, making them unable to act sometimes (Tier:2)
 
 
 Belfree
@@ -15461,7 +15461,7 @@ Medallium Nº: 403
 •Technique: Storm
 -Attacks an enemy, scales with SPR (Wind) (Power:70-112)
 •Inspirit: Shut Away
--Increases an enemy loafing chances, making them unable to act sometimes (TIERS NOT AVAILABLE YET)
+-Increases an enemy loafing chances, making them unable to act sometimes (Tier:2)
 
 
 Yoink
@@ -15501,7 +15501,7 @@ Medallium Nº: 404
 -Attacks an enemy, scales with SPR (Drain) (Power:25-87)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Bad Influence
--Confuses an enemy, making them attack their own allies sometimes (TIERS NOT AVAILABLE YET)
+-Confuses an enemy, making them attack their own allies sometimes (Tier:2)
 
 
 Gimme
@@ -15539,7 +15539,7 @@ Medallium Nº: 405
 -Attacks an enemy, scales with SPR (Drain) (Power:40-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Shakedown
--Inspirits an enemy, making them drop money and lose their turns (TIERS NOT AVAILABLE YET)
+-Inspirits an enemy, making them drop money and lose their turns (Tier:2)
 
 
 Indexter
@@ -15579,7 +15579,7 @@ Medallium Nº: 406
 -Attacks an enemy, scales with SPR (Drain) (Power:40-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Geekify
--Reduces an enemy STR (TIERS NOT AVAILABLE YET)
+-Reduces an enemy STR (Tier:2)
 
 
 Hack King
@@ -15617,7 +15617,7 @@ Medallium Nº: 407
 -Attacks an enemy, scales with SPR (Drain) (Power:55-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: H4xx0red, n00b!
--Confuses an enemy, making them attack their own allies sometimes (TIERS NOT AVAILABLE YET)
+-Confuses an enemy, making them attack their own allies sometimes (Tier:2)
 
 
 Yoodooit
@@ -15658,7 +15658,7 @@ Medallium Nº: 408
 -Attacks an enemy, scales with SPR (Drain) (Power:40-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Helpless
--Increases an enemy loafing chances, making them unable to act sometimes (TIERS NOT AVAILABLE YET)
+-Increases an enemy loafing chances, making them unable to act sometimes (Tier:1)
 
 
 Count Zapaway
@@ -15698,7 +15698,7 @@ Medallium Nº: 409
 •Technique: Frost
 -Attacks an enemy, scales with SPR (Ice) (Power:50-110)
 •Inspirit: Spirit Zapper
--Reduces an enemy SPR (TIERS NOT AVAILABLE YET)
+-Reduces an enemy SPR (Tier:3)
 
 
 Tyrat
@@ -15738,7 +15738,7 @@ Medallium Nº: 410
 -Attacks an enemy, scales with SPR (Drain) (Power:40-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Rat Fink
--Confuses an enemy, making them attack their own allies sometimes (TIERS NOT AVAILABLE YET)
+-Confuses an enemy, making them attack their own allies sometimes (Tier:2)
 
 
 DisliKing
@@ -15778,7 +15778,7 @@ Medallium Nº: 411
 •Technique: Frost
 -Attacks an enemy, scales with SPR (Ice) (Power:50-110)
 •Inspirit: Self Loathing
--Reduces an enemy stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Reduces an enemy stats (STR, SPR, DEF and SPD) (Tier:3)
 
 
 Crook-a-doodle
@@ -15818,7 +15818,7 @@ Medallium Nº: 412
 -Attacks an enemy, scales with SPR (Drain) (Power:40-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Crook-a-doodle-do
--Reduces an enemy SPD (TIERS NOT AVAILABLE YET)
+-Reduces an enemy SPD (Tier:2)
 
 
 Rocky Badboya
@@ -15857,7 +15857,7 @@ Medallium Nº: 413
 •Technique: Frost
 -Attacks an enemy, scales with SPR (Ice) (Power:50-110)
 •Inspirit: Off Guard
--Reduces an enemy DEF (TIERS NOT AVAILABLE YET)
+-Reduces an enemy DEF (Tier:2)
 
 
 Injurnalist
@@ -15897,7 +15897,7 @@ Medallium Nº: 414
 -Attacks an enemy, scales with SPR (Drain) (Power:40-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Painful Memories
--An enemy loses HP on their turns (TIERS NOT AVAILABLE YET)
+-An enemy loses HP on their turns (Tier:3)
 
 
 Misterr Typoo
@@ -15938,7 +15938,7 @@ Medallium Nº: 415
 -Attacks an enemy, scales with SPR (Drain) (Power:40-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Butterfingers
--Confuses an enemy, making them attack their own allies sometimes (TIERS NOT AVAILABLE YET)
+-Confuses an enemy, making them attack their own allies sometimes (Tier:2)
 
 
 Tengloom
@@ -15977,7 +15977,7 @@ Medallium Nº: 416
 •Technique: Tornado
 -Attacks an enemy, scales with SPR (Wind) (Power:50-110)
 •Inspirit: Pessimism
--Reduces an enemy SPD (TIERS NOT AVAILABLE YET)
+-Reduces an enemy SPD (Tier:2)
 
 
 Nird
@@ -16015,7 +16015,7 @@ Medallium Nº: 417
 •Technique: Storm
 -Attacks an enemy, scales with SPR (Wind) (Power:70-112)
 •Inspirit: Stygian Curse
--Reduces an enemy SPR (TIERS NOT AVAILABLE YET)
+-Reduces an enemy SPR (Tier:2)
 
 
 K'mon-K'mon
@@ -16054,7 +16054,7 @@ Medallium Nº: 418
 •Technique: Tornado
 -Attacks an enemy, scales with SPR (Wind) (Power:50-110)
 •Inspirit: Hate to Wait
--Confuses an enemy, making them attack their own allies sometimes (TIERS NOT AVAILABLE YET)
+-Confuses an enemy, making them attack their own allies sometimes (Tier:2)
 
 
 Snobetty
@@ -16092,7 +16092,7 @@ Medallium Nº: 419
 •Technique: Blizzard
 -Attacks an enemy, scales with SPR (Ice) (Power:70-112)
 •Inspirit: Prima Donna
--Confuses an enemy, making them attack their own allies sometimes (TIERS NOT AVAILABLE YET)
+-Confuses an enemy, making them attack their own allies sometimes (Tier:2)
 
 
 Dracunyan
@@ -16131,7 +16131,7 @@ Medallium Nº: 420
 -Attacks an enemy, scales with SPR (Drain) (Power:55-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Dracufang
--An enemy loses HP on their turns (TIERS NOT AVAILABLE YET)
+-An enemy loses HP on their turns (Tier:2)
 
 
 Lil Kappa
@@ -16169,7 +16169,7 @@ Medallium Nº: 421
 •Technique: Waterfall
 -Attacks an enemy, scales with SPR (Water) (Power:70-112)
 •Inspirit: Hip Hop Hold Up
--Increases an enemy loafing chances, making them unable to act sometimes (TIERS NOT AVAILABLE YET)
+-Increases an enemy loafing chances, making them unable to act sometimes (Tier:2)
 
 
 Horizontail
@@ -16207,7 +16207,7 @@ Medallium Nº: 422
 •Technique: Lightning
 -Attacks an enemy, scales with SPR (Lightning) (Power:50-110)
 •Inspirit: Lethargy
--Increases an enemy loafing chances, making them unable to act sometimes (TIERS NOT AVAILABLE YET)
+-Increases an enemy loafing chances, making them unable to act sometimes (Tier:2)
 
 
 Usapyon
@@ -16245,7 +16245,7 @@ Medallium Nº: 423
 •Technique: Hail
 -Attacks an enemy, scales with SPR (Ice) (Power:30-105)
 •Inspirit: Enrage
--Confuses an enemy, making them attack their own allies sometimes (TIERS NOT AVAILABLE YET)
+-Confuses an enemy, making them attack their own allies sometimes (Tier:1)
 
 
 Usapyon Foot.
@@ -16284,7 +16284,7 @@ Medallium Nº: 424
 •Technique: Lightning
 -Attacks an enemy, scales with SPR (Lightning) (Power:50-110)
 •Inspirit: Enrage
--Confuses an enemy, making them attack their own allies sometimes (TIERS NOT AVAILABLE YET)
+-Confuses an enemy, making them attack their own allies sometimes (Tier:1)
 
 
 Usapyon Scub.
@@ -16322,7 +16322,7 @@ Medallium Nº: 425
 •Technique: Torrent
 -Attacks an enemy, scales with SPR (Water) (Power:30-105)
 •Inspirit: Enrage
--Confuses an enemy, making them attack their own allies sometimes (TIERS NOT AVAILABLE YET)
+-Confuses an enemy, making them attack their own allies sometimes (Tier:1)
 
 
 Usapyon G.I.
@@ -16360,7 +16360,7 @@ Medallium Nº: 426
 •Technique: Rockslide
 -Attacks an enemy, scales with SPR (Earth) (Power:50-110)
 •Inspirit: Enrage
--Confuses an enemy, making them attack their own allies sometimes (TIERS NOT AVAILABLE YET)
+-Confuses an enemy, making them attack their own allies sometimes (Tier:1)
 
 
 Usapyon Race.
@@ -16399,7 +16399,7 @@ Medallium Nº: 427
 •Technique: Tornado
 -Attacks an enemy, scales with SPR (Wind) (Power:50-110)
 •Inspirit: Enrage
--Confuses an enemy, making them attack their own allies sometimes (TIERS NOT AVAILABLE YET)
+-Confuses an enemy, making them attack their own allies sometimes (Tier:1)
 
 
 Usapyon B
@@ -16437,7 +16437,7 @@ Medallium Nº: 428
 •Technique: Frost
 -Attacks an enemy, scales with SPR (Ice) (Power:50-110)
 •Inspirit: Tootin' Tech
--Increases an ally stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Increases an ally stats (STR, SPR, DEF and SPD) (Tier:1)
 
 
 Usa. Zhongda
@@ -16473,7 +16473,7 @@ Medallium Nº: 429
 •Technique: Hail
 -Attacks an enemy, scales with SPR (Ice) (Power:30-105)
 •Inspirit: Enrage
--Confuses an enemy, making them attack their own allies sometimes (TIERS NOT AVAILABLE YET)
+-Confuses an enemy, making them attack their own allies sometimes (Tier:1)
 
 
 Slimamander
@@ -16511,7 +16511,7 @@ Medallium Nº: 430
 •Technique: Incinerate
 -Attacks an enemy, scales with SPR (Fire) (Power:70-112)
 •Inspirit: Burn
--An enemy loses HP on their turns (TIERS NOT AVAILABLE YET)
+-An enemy loses HP on their turns (Tier:1)
 
 
 Negasus
@@ -16548,7 +16548,7 @@ Medallium Nº: 431
 •Technique: Tornado
 -Attacks an enemy, scales with SPR (Wind) (Power:50-110)
 •Inspirit: Negasus Waves
--Confuses an enemy, making them attack their own allies sometimes (TIERS NOT AVAILABLE YET)
+-Confuses an enemy, making them attack their own allies sometimes (Tier:2)
 
 
 Neighfarious
@@ -16586,7 +16586,7 @@ Medallium Nº: 432
 -Attacks an enemy, scales with SPR (Drain) (Power:40-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Neighing Curse
--Reduces an enemy stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Reduces an enemy stats (STR, SPR, DEF and SPD) (Tier:2)
 
 
 Gutsy Bones
@@ -16624,7 +16624,7 @@ Medallium Nº: 433
 •Technique: Tornado
 -Attacks an enemy, scales with SPR (Wind) (Power:50-110)
 •Inspirit: Crank-a-Kai Crazy
--Inspirits an enemy, making them drop money and lose their turns (TIERS NOT AVAILABLE YET)
+-Inspirits an enemy, making them drop money and lose their turns (Tier:2)
 
 
 Timidevil
@@ -16662,7 +16662,7 @@ Medallium Nº: 434
 •Technique: Blaze
 -Attacks an enemy, scales with SPR (Fire) (Power:50-110)
 •Inspirit: Frighten
--Increases an enemy loafing chances, making them unable to act sometimes (TIERS NOT AVAILABLE YET)
+-Increases an enemy loafing chances, making them unable to act sometimes (Tier:2)
 
 
 Beelzebold
@@ -16699,7 +16699,7 @@ Medallium Nº: 435
 •Technique: Incinerate
 -Attacks an enemy, scales with SPR (Fire) (Power:70-112)
 •Inspirit: Frighten
--Increases an enemy loafing chances, making them unable to act sometimes (TIERS NOT AVAILABLE YET)
+-Increases an enemy loafing chances, making them unable to act sometimes (Tier:2)
 
 
 Count Cavity
@@ -16736,7 +16736,7 @@ Medallium Nº: 436
 •Technique: Incinerate
 -Attacks an enemy, scales with SPR (Fire) (Power:70-112)
 •Inspirit: Cavity
--An enemy loses HP on their turns (TIERS NOT AVAILABLE YET)
+-An enemy loses HP on their turns (Tier:2)
 
 
 Eyesoar
@@ -16773,7 +16773,7 @@ Medallium Nº: 437
 •Technique: Meteor
 -Attacks an enemy, scales with SPR (Earth) (Power:70-112)
 •Inspirit: Evil Eyes
-Makes the enemy unable to move around the grid (TIERS NOT AVAILABLE YET)
+-Makes the enemy unable to move around the grid (Tier:1)
 
 
 Eyellure
@@ -16809,7 +16809,7 @@ Medallium Nº: 438
 •Technique: Voltage
 -Attacks an enemy, scales with SPR (Lightning) (Power:70-112)
 •Inspirit: Evil Eyes
-Makes the enemy unable to move around the grid (TIERS NOT AVAILABLE YET)
+-Makes the enemy unable to move around the grid (Tier:1)
 
 
 Greesel
@@ -16847,7 +16847,7 @@ Medallium Nº: 439
 •Technique: Incinerate
 -Attacks an enemy, scales with SPR (Fire) (Power:70-112)
 •Inspirit: Stinginess
--Confuses an enemy, making them attack their own allies sometimes (TIERS NOT AVAILABLE YET)
+-Confuses an enemy, making them attack their own allies sometimes (Tier:3)
 
 
 Awevil
@@ -16884,7 +16884,7 @@ Medallium Nº: 440
 •Technique: Rapids
 -Attacks an enemy, scales with SPR (Water) (Power:50-110)
 •Inspirit: Darkness Power
--An enemy loses HP on their turns (TIERS NOT AVAILABLE YET)
+-An enemy loses HP on their turns (Tier:3)
 
 
 Wobblewok
@@ -16921,7 +16921,7 @@ Medallium Nº: 441
 •Technique: Meteor
 -Attacks an enemy, scales with SPR (Earth) (Power:70-112)
 •Inspirit: Boil Away
--Reduces an enemy stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Reduces an enemy stats (STR, SPR, DEF and SPD) (Tier:3)
 
 
 Darkyubi
@@ -16958,7 +16958,7 @@ Medallium Nº: 442
 -Attacks an enemy, scales with SPR (Drain) (Power:55-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Dark Descent
--An enemy loses HP on their turns (TIERS NOT AVAILABLE YET)
+-An enemy loses HP on their turns (Tier:2)
 
 
 Dr. E. Raser
@@ -16995,7 +16995,7 @@ Medallium Nº: 443
 -Attacks an enemy, scales with SPR (Drain) (Power:55-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Cruel Concoction
--An enemy loses HP on their turns (TIERS NOT AVAILABLE YET)
+-An enemy loses HP on their turns (Tier:2)
 
 
 Dr. Nocturne
@@ -17032,7 +17032,7 @@ Medallium Nº: 444
 -Attacks an enemy, scales with SPR (Drain) (Power:55-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Crazy Concoction
--An enemy loses HP on their turns (TIERS NOT AVAILABLE YET)
+-An enemy loses HP on their turns (Tier:2)
 
 
 Tut 'n' K'mon
@@ -17068,7 +17068,7 @@ Medallium Nº: 445
 •Technique: Storm
 -Attacks an enemy, scales with SPR (Wind) (Power:70-112)
 •Inspirit: Hate to Wait
--Confuses an enemy, making them attack their own allies sometimes (TIERS NOT AVAILABLE YET)
+-Confuses an enemy, making them attack their own allies sometimes (Tier:2)
 
 
 Tie-red
@@ -17107,7 +17107,7 @@ Medallium Nº: 446
 •Technique: Fire
 -Attacks an enemy, scales with SPR (Fire) (Power:30-105)
 •Inspirit: Tie-m to go Home
--Increases an enemy loafing chances, making them unable to act sometimes (TIERS NOT AVAILABLE YET)
+-Increases an enemy loafing chances, making them unable to act sometimes (Tier:2)
 
 
 Love-Torn
@@ -17147,7 +17147,7 @@ Medallium Nº: 447
 -Attacks an enemy, scales with SPR (Drain) (Power:25-87)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Love-Torn Tirade
--Confuses an enemy, making them attack their own allies sometimes (TIERS NOT AVAILABLE YET)
+-Confuses an enemy, making them attack their own allies sometimes (Tier:2)
 
 
 Shakey
@@ -17186,7 +17186,7 @@ Medallium Nº: 448
 •Technique: Shock
 -Attacks an enemy, scales with SPR (Lightning) (Power:30-105)
 •Inspirit: Slapped Silly
--Confuses an enemy, making them attack their own allies sometimes (TIERS NOT AVAILABLE YET)
+-Confuses an enemy, making them attack their own allies sometimes (Tier:2)
 
 
 Quagmira
@@ -17226,7 +17226,7 @@ Medallium Nº: 449
 -Attacks an enemy, scales with SPR (Drain) (Power:40-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Mired Down
-Makes the enemy unable to move around the grid (TIERS NOT AVAILABLE YET)
+-Makes the enemy unable to move around the grid (Tier:1)
 
 
 Coughkoff
@@ -17265,7 +17265,7 @@ Medallium Nº: 450
 •Technique: Torrent
 -Attacks an enemy, scales with SPR (Water) (Power:30-105)
 •Inspirit: Sore Throat
--An enemy loses HP on their turns (TIERS NOT AVAILABLE YET)
+-An enemy loses HP on their turns (Tier:1)
 
 
 Hurchin
@@ -17304,7 +17304,7 @@ Medallium Nº: 451
 •Technique: Frost
 -Attacks an enemy, scales with SPR (Ice) (Power:50-110)
 •Inspirit: Headache
--An enemy loses HP on their turns (TIERS NOT AVAILABLE YET)
+-An enemy loses HP on their turns (Tier:1)
 
 
 Droplette
@@ -17344,7 +17344,7 @@ Medallium Nº: 452
 •Technique: Rapids
 -Attacks an enemy, scales with SPR (Water) (Power:50-110)
 •Inspirit: Pruned
--Reduces an enemy DEF (TIERS NOT AVAILABLE YET)
+-Reduces an enemy DEF (Tier:2)
 
 
 Drizzle
@@ -17383,7 +17383,7 @@ Medallium Nº: 453
 •Technique: Waterfall
 -Attacks an enemy, scales with SPR (Water) (Power:70-112)
 •Inspirit: Pruned
--Reduces an enemy DEF (TIERS NOT AVAILABLE YET)
+-Reduces an enemy DEF (Tier:2)
 
 
 Slush
@@ -17423,7 +17423,7 @@ Medallium Nº: 454
 •Technique: Frost
 -Attacks an enemy, scales with SPR (Ice) (Power:50-110)
 •Inspirit: Numbify
--Reduces an enemy STR (TIERS NOT AVAILABLE YET)
+-Reduces an enemy STR (Tier:2)
 
 
 Alhail
@@ -17462,7 +17462,7 @@ Medallium Nº: 455
 •Technique: Blizzard
 -Attacks an enemy, scales with SPR (Ice) (Power:70-112)
 •Inspirit: Frozen Solid
--Reduces an enemy STR (TIERS NOT AVAILABLE YET)
+-Reduces an enemy STR (Tier:2)
 
 
 Gush
@@ -17502,7 +17502,7 @@ Medallium Nº: 456
 •Technique: Blaze
 -Attacks an enemy, scales with SPR (Fire) (Power:50-110)
 •Inspirit: Nosebleed
--Reduces an enemy SPD (TIERS NOT AVAILABLE YET)
+-Reduces an enemy SPD (Tier:2)
 
 
 Peckpocket
@@ -17543,7 +17543,7 @@ Medallium Nº: 457
 -Attacks an enemy, scales with SPR (Drain) (Power:25-87)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Snatch
--Confuses an enemy, making them attack their own allies sometimes (TIERS NOT AVAILABLE YET)
+-Confuses an enemy, making them attack their own allies sometimes (Tier:2)
 
 
 Robbinyu
@@ -17583,7 +17583,7 @@ Medallium Nº: 458
 -Attacks an enemy, scales with SPR (Drain) (Power:40-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Tie Down
-Makes the enemy unable to move around the grid (TIERS NOT AVAILABLE YET)
+-Makes the enemy unable to move around the grid (Tier:1)
 
 
 Rockabelly
@@ -17624,7 +17624,7 @@ Medallium Nº: 459
 -Attacks an enemy, scales with SPR (Drain) (Power:40-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Funky Dance
--Reduces an enemy DEF (TIERS NOT AVAILABLE YET)
+-Reduces an enemy DEF (Tier:3)
 
 
 Squeeky
@@ -17664,7 +17664,7 @@ Medallium Nº: 460
 •Technique: Hail
 -Attacks an enemy, scales with SPR (Ice) (Power:30-105)
 •Inspirit: Ba-Dum-Diss
--An enemy loses HP on their turns (TIERS NOT AVAILABLE YET)
+-An enemy loses HP on their turns (Tier:2)
 
 
 Rawry
@@ -17703,7 +17703,7 @@ Medallium Nº: 461
 •Technique: Frost
 -Attacks an enemy, scales with SPR (Ice) (Power:50-110)
 •Inspirit: Vroom Vroom
--An enemy loses HP on their turns (TIERS NOT AVAILABLE YET)
+-An enemy loses HP on their turns (Tier:2)
 
 
 Buhu
@@ -17742,7 +17742,7 @@ Medallium Nº: 462
 •Technique: Whirlwind
 -Attacks an enemy, scales with SPR (Wind) (Power:30-105)
 •Inspirit: Depression
--Increases an enemy loafing chances, making them unable to act sometimes (TIERS NOT AVAILABLE YET)
+-Increases an enemy loafing chances, making them unable to act sometimes (Tier:2)
 
 
 Flumpy
@@ -17781,7 +17781,7 @@ Medallium Nº: 463
 •Technique: Tornado
 -Attacks an enemy, scales with SPR (Wind) (Power:50-110)
 •Inspirit: Awkwardness
--Reduces an enemy DEF (TIERS NOT AVAILABLE YET)
+-Reduces an enemy DEF (Tier:2)
 
 
 Skreek
@@ -17818,7 +17818,7 @@ Medallium Nº: 464
 •Technique: Storm
 -Attacks an enemy, scales with SPR (Wind) (Power:70-112)
 •Inspirit: Despair
--Increases an enemy loafing chances, making them unable to act sometimes (TIERS NOT AVAILABLE YET)
+-Increases an enemy loafing chances, making them unable to act sometimes (Tier:2)
 
 
 Manjimutt
@@ -17857,7 +17857,7 @@ Medallium Nº: 465
 •Technique: Blaze
 -Attacks an enemy, scales with SPR (Fire) (Power:50-110)
 •Inspirit: Confusion
--Confuses an enemy, making them attack their own allies sometimes (TIERS NOT AVAILABLE YET)
+-Confuses an enemy, making them attack their own allies sometimes (Tier:1)
 
 
 Multimutt
@@ -17895,7 +17895,7 @@ Medallium Nº: 466
 •Technique: Incinerate
 -Attacks an enemy, scales with SPR (Fire) (Power:70-112)
 •Inspirit: Confusion
--Confuses an enemy, making them attack their own allies sometimes (TIERS NOT AVAILABLE YET)
+-Confuses an enemy, making them attack their own allies sometimes (Tier:1)
 
 
 Sir Berus
@@ -17932,7 +17932,7 @@ Medallium Nº: 467
 •Technique: Meteor
 -Attacks an enemy, scales with SPR (Earth) (Power:70-112)
 •Inspirit: Styx's Curse
--Reduces an enemy SPR (TIERS NOT AVAILABLE YET)
+-Reduces an enemy SPR (Tier:1)
 
 
 Furgus
@@ -17971,7 +17971,7 @@ Medallium Nº: 468
 •Technique: Pebble
 -Attacks an enemy, scales with SPR (Earth) (Power:30-105)
 •Inspirit: Thatch
--Reduces an enemy SPD (TIERS NOT AVAILABLE YET)
+-Reduces an enemy SPD (Tier:2)
 
 
 Furdinand
@@ -18009,7 +18009,7 @@ Medallium Nº: 469
 •Technique: Meteor
 -Attacks an enemy, scales with SPR (Earth) (Power:70-112)
 •Inspirit: Thicket
--Reduces an enemy SPD (TIERS NOT AVAILABLE YET)
+-Reduces an enemy SPD (Tier:2)
 
 
 Pergushin
@@ -18050,7 +18050,7 @@ Medallium Nº: 470
 -Attacks an enemy, scales with SPR (Drain) (Power:25-87)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Polite to a Fault
--Reduces an enemy STR (TIERS NOT AVAILABLE YET)
+-Reduces an enemy STR (Tier:2)
 
 
 Percrushionists
@@ -18089,7 +18089,7 @@ Medallium Nº: 471
 -Attacks an enemy, scales with SPR (Drain) (Power:40-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Polite to a Fault
--Reduces an enemy STR (TIERS NOT AVAILABLE YET)
+-Reduces an enemy STR (Tier:3)
 
 
 Nosirs
@@ -18128,7 +18128,7 @@ Medallium Nº: 472
 •Technique: Restore
 -Heals an ally, scales with SPR (Power:50-110)
 •Inspirit: Doubt It
--Increases an enemy loafing chances, making them unable to act sometimes (TIERS NOT AVAILABLE YET)
+-Increases an enemy loafing chances, making them unable to act sometimes (Tier:2)
 
 
 Grubbles
@@ -18168,7 +18168,7 @@ Medallium Nº: 473
 -Attacks an enemy, scales with SPR (Drain) (Power:25-87)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Indentured Service
--Reduces an enemy DEF (TIERS NOT AVAILABLE YET)
+-Reduces an enemy DEF (Tier:2)
 
 
 Nervous Rex
@@ -18207,7 +18207,7 @@ Medallium Nº: 474
 •Technique: Hail
 -Attacks an enemy, scales with SPR (Ice) (Power:30-105)
 •Inspirit: Creep Out
--Confuses an enemy, making them attack their own allies sometimes (TIERS NOT AVAILABLE YET)
+-Confuses an enemy, making them attack their own allies sometimes (Tier:2)
 
 
 Rinsin Repete
@@ -18247,7 +18247,7 @@ Medallium Nº: 475
 •Technique: Pebble
 -Attacks an enemy, scales with SPR (Earth) (Power:30-105)
 •Inspirit: Foist Off
--Reduces an enemy SPD (TIERS NOT AVAILABLE YET)
+-Reduces an enemy SPD (Tier:2)
 
 
 Chatalie
@@ -18286,7 +18286,7 @@ Medallium Nº: 476
 •Technique: Shock
 -Attacks an enemy, scales with SPR (Lightning) (Power:30-105)
 •Inspirit: All Talk
--Increases an enemy loafing chances, making them unable to act sometimes (TIERS NOT AVAILABLE YET)
+-Increases an enemy loafing chances, making them unable to act sometimes (Tier:2)
 
 
 Nagatha
@@ -18326,7 +18326,7 @@ Medallium Nº: 477
 -Attacks an enemy, scales with SPR (Drain) (Power:40-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Complaints
--Increases an enemy loafing chances, making them unable to act sometimes (TIERS NOT AVAILABLE YET)
+-Increases an enemy loafing chances, making them unable to act sometimes (Tier:2)
 
 
 Dismarelda
@@ -18366,7 +18366,7 @@ Medallium Nº: 478
 •Technique: Rockslide
 -Attacks an enemy, scales with SPR (Earth) (Power:50-110)
 •Inspirit: Overcast
--Reduces an enemy STR (TIERS NOT AVAILABLE YET)
+-Reduces an enemy STR (Tier:2)
 
 
 Drenchetta
@@ -18407,7 +18407,7 @@ Medallium Nº: 479
 -Attacks an enemy, scales with SPR (Drain) (Power:40-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Drench
--Reduces an enemy STR (TIERS NOT AVAILABLE YET)
+-Reduces an enemy STR (Tier:2)
 
 
 Danke Sand
@@ -18446,7 +18446,7 @@ Medallium Nº: 480
 •Technique: Pebble
 -Attacks an enemy, scales with SPR (Earth) (Power:30-105)
 •Inspirit: Sanks So Much
--Increases an ally DEF (TIERS NOT AVAILABLE YET)
+-Increases an ally DEF (Tier:1)
 
 
 No Sandkyu
@@ -18484,7 +18484,7 @@ Medallium Nº: 481
 •Technique: Rockslide
 -Attacks an enemy, scales with SPR (Earth) (Power:50-110)
 •Inspirit: Refusal
--Increases an enemy loafing chances, making them unable to act sometimes (TIERS NOT AVAILABLE YET)
+-Increases an enemy loafing chances, making them unable to act sometimes (Tier:1)
 
 
 Papa Windbag
@@ -18523,7 +18523,7 @@ Medallium Nº: 482
 •Technique: Lightning
 -Attacks an enemy, scales with SPR (Lightning) (Power:50-110)
 •Inspirit: Big Up
--Increases an ally stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Increases an ally stats (STR, SPR, DEF and SPD) (Tier:1)
 
 
 Ben Tover
@@ -18563,7 +18563,7 @@ Medallium Nº: 483
 •Technique: Tornado
 -Attacks an enemy, scales with SPR (Wind) (Power:50-110)
 •Inspirit: Shirkster
--Increases an enemy loafing chances, making them unable to act sometimes (TIERS NOT AVAILABLE YET)
+-Increases an enemy loafing chances, making them unable to act sometimes (Tier:2)
 
 
 Compunzer
@@ -18604,7 +18604,7 @@ Medallium Nº: 484
 -Attacks an enemy, scales with SPR (Drain) (Power:40-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Fall Flat
--An enemy loses HP on their turns (TIERS NOT AVAILABLE YET)
+-An enemy loses HP on their turns (Tier:2)
 
 
 Lamedian
@@ -18644,7 +18644,7 @@ Medallium Nº: 485
 -Attacks an enemy, scales with SPR (Drain) (Power:55-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Fall Flat
--An enemy loses HP on their turns (TIERS NOT AVAILABLE YET)
+-An enemy loses HP on their turns (Tier:2)
 
 
 Soloman
@@ -18684,7 +18684,7 @@ Medallium Nº: 486
 •Technique: Lightning
 -Attacks an enemy, scales with SPR (Lightning) (Power:50-110)
 •Inspirit: Lonely World
-Makes the enemy unable to move around the grid (TIERS NOT AVAILABLE YET)
+-Makes the enemy unable to move around the grid (Tier:1)
 
 
 Rhumbastiltskin
@@ -18725,7 +18725,7 @@ Medallium Nº: 487
 -Attacks an enemy, scales with SPR (Drain) (Power:40-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Can't Keep This Up
--Confuses an enemy, making them attack their own allies sometimes (TIERS NOT AVAILABLE YET)
+-Confuses an enemy, making them attack their own allies sometimes (Tier:2)
 
 
 Slax
@@ -18764,7 +18764,7 @@ Medallium Nº: 488
 •Technique: Rapids
 -Attacks an enemy, scales with SPR (Water) (Power:50-110)
 •Inspirit: Baggy Britches
--Reduces an enemy SPD (TIERS NOT AVAILABLE YET)
+-Reduces an enemy SPD (Tier:2)
 
 
 Cheeksqueek
@@ -18803,7 +18803,7 @@ Medallium Nº: 489
 •Technique: Frost
 -Attacks an enemy, scales with SPR (Ice) (Power:50-110)
 •Inspirit: Stink Up
--Confuses an enemy, making them attack their own allies sometimes (TIERS NOT AVAILABLE YET)
+-Confuses an enemy, making them attack their own allies sometimes (Tier:2)
 
 
 Cuttincheez
@@ -18840,7 +18840,7 @@ Medallium Nº: 490
 •Technique: Frost
 -Attacks an enemy, scales with SPR (Ice) (Power:50-110)
 •Inspirit: Stink Up
--Confuses an enemy, making them attack their own allies sometimes (TIERS NOT AVAILABLE YET)
+-Confuses an enemy, making them attack their own allies sometimes (Tier:3)
 
 
 Toiletta
@@ -18880,7 +18880,7 @@ Medallium Nº: 491
 -Attacks an enemy, scales with SPR (Drain) (Power:40-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Elementary Curse
--Reduces an enemy SPR (TIERS NOT AVAILABLE YET)
+-Reduces an enemy SPR (Tier:2)
 
 
 Foiletta
@@ -18918,7 +18918,7 @@ Medallium Nº: 492
 -Attacks an enemy, scales with SPR (Drain) (Power:55-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: High School Hex
--Reduces an enemy SPR (TIERS NOT AVAILABLE YET)
+-Reduces an enemy SPR (Tier:2)
 
 
 Robomutt
@@ -18956,7 +18956,7 @@ Medallium Nº: 493
 •Technique: Tornado
 -Attacks an enemy, scales with SPR (Wind) (Power:50-110)
 •Inspirit: Steel Power
--Increases an ally DEF (TIERS NOT AVAILABLE YET)
+-Increases an ally DEF (Tier:1)
 
 
 Shedwin
@@ -18994,7 +18994,7 @@ Medallium Nº: 494
 •Technique: Frost
 -Attacks an enemy, scales with SPR (Ice) (Power:50-110)
 •Inspirit: Hairy Happenings
--Reduces an enemy SPD (TIERS NOT AVAILABLE YET)
+-Reduces an enemy SPD (Tier:3)
 
 
 Glumdango
@@ -19033,7 +19033,7 @@ Medallium Nº: 495
 -Attacks an enemy, scales with SPR (Drain) (Power:40-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Hard Luck
--Reduces an enemy DEF (TIERS NOT AVAILABLE YET)
+-Reduces an enemy DEF (Tier:2)
 
 
 Spewart
@@ -19072,7 +19072,7 @@ Medallium Nº: 496
 -Attacks an enemy, scales with SPR (Drain) (Power:40-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Sick Inducing
--Reduces an enemy stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Reduces an enemy stats (STR, SPR, DEF and SPD) (Tier:2)
 
 
 Grumples
@@ -19112,7 +19112,7 @@ Medallium Nº: 497
 -Attacks an enemy, scales with SPR (Drain) (Power:25-87)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Wrinkles
--Reduces an enemy DEF (TIERS NOT AVAILABLE YET)
+-Reduces an enemy DEF (Tier:2)
 
 
 Everfore
@@ -19150,7 +19150,7 @@ Medallium Nº: 498
 -Attacks an enemy, scales with SPR (Drain) (Power:55-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Youth Drain
--Reduces an enemy stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Reduces an enemy stats (STR, SPR, DEF and SPD) (Tier:2)
 
 
 Eterna
@@ -19188,7 +19188,7 @@ Medallium Nº: 499
 -Attacks an enemy, scales with SPR (Drain) (Power:55-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Immortal Power
--An ally recovers HP on their turns (TIERS NOT AVAILABLE YET)
+-An ally recovers HP on their turns (Tier:1)
 
 
 Sproink
@@ -19226,7 +19226,7 @@ Medallium Nº: 500
 •Technique: Incinerate
 -Attacks an enemy, scales with SPR (Fire) (Power:70-112)
 •Inspirit: Sweaty Swine
--Reduces an enemy stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Reduces an enemy stats (STR, SPR, DEF and SPD) (Tier:2)
 
 
 Darknyan
@@ -19263,7 +19263,7 @@ Medallium Nº: 501
 •Technique: Storm
 -Attacks an enemy, scales with SPR (Wind) (Power:70-112)
 •Inspirit: Curse of Darkness
--Reduces an enemy stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Reduces an enemy stats (STR, SPR, DEF and SPD) (Tier:2)
 
 
 Decidevible
@@ -19300,7 +19300,7 @@ Medallium Nº: 502
 •Technique: Voltage
 -Attacks an enemy, scales with SPR (Lightning) (Power:70-112)
 •Inspirit: Decisive Action
--Increases an ally STR (TIERS NOT AVAILABLE YET)
+-Increases an ally STR (Tier:1)
 
 
 Hairum Scarum
@@ -19338,7 +19338,7 @@ Medallium Nº: 503
 •Technique: Meteor
 -Attacks an enemy, scales with SPR (Earth) (Power:70-112)
 •Inspirit: Haired to Death
--Reduces an enemy stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Reduces an enemy stats (STR, SPR, DEF and SPD) (Tier:2)
 
 
 Insomni
@@ -19375,7 +19375,7 @@ Medallium Nº: 504
 •Technique: Blizzard
 -Attacks an enemy, scales with SPR (Ice) (Power:70-112)
 •Inspirit: Sleeplessness
--Reduces an enemy stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Reduces an enemy stats (STR, SPR, DEF and SPD) (Tier:2)
 
 
 Sandi
@@ -19412,7 +19412,7 @@ Medallium Nº: 505
 -Attacks an enemy, scales with SPR (Drain) (Power:55-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Bedtime
--Increases an enemy loafing chances, making them unable to act sometimes (TIERS NOT AVAILABLE YET)
+-Increases an enemy loafing chances, making them unable to act sometimes (Tier:2)
 
 
 Arachnus
@@ -19448,7 +19448,7 @@ Medallium Nº: 506
 •Technique: Meteor
 -Attacks an enemy, scales with SPR (Earth) (Power:70-112)
 •Inspirit: Entrap
--Reduces an enemy SPD (TIERS NOT AVAILABLE YET)
+-Reduces an enemy SPD (Tier:2)
 
 
 Arachnia
@@ -19484,7 +19484,7 @@ Medallium Nº: 507
 •Technique: Meteor
 -Attacks an enemy, scales with SPR (Earth) (Power:70-112)
 •Inspirit: Entrap
--Reduces an enemy SPD (TIERS NOT AVAILABLE YET)
+-Reduces an enemy SPD (Tier:2)
 
 
 Oridjinn
@@ -19521,7 +19521,7 @@ Medallium Nº: 508
 -Attacks an enemy, scales with SPR (Drain) (Power:55-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Hidden Potential
--Increases an ally stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Increases an ally stats (STR, SPR, DEF and SPD) (Tier:2)
 
 
 Horridjinn
@@ -19558,7 +19558,7 @@ Medallium Nº: 509
 -Attacks an enemy, scales with SPR (Drain) (Power:55-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Phantasmal Power
--Increases an ally stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Increases an ally stats (STR, SPR, DEF and SPD) (Tier:2)
 
 
 Little Charrmer
@@ -19594,7 +19594,7 @@ Medallium Nº: 510
 •Technique: Blaze
 -Attacks an enemy, scales with SPR (Fire) (Power:50-110)
 •Inspirit: Scarlet Secrets
--Reduces an enemy SPD (TIERS NOT AVAILABLE YET)
+-Reduces an enemy SPD (Tier:2)
 
 
 Cricky
@@ -19633,7 +19633,7 @@ Medallium Nº: 511
 •Technique: Rapids
 -Attacks an enemy, scales with SPR (Water) (Power:50-110)
 •Inspirit: Pain in the Neck
--An enemy loses HP on their turns (TIERS NOT AVAILABLE YET)
+-An enemy loses HP on their turns (Tier:1)
 
 
 Humtea Jumtea
@@ -19673,7 +19673,7 @@ Medallium Nº: 512
 •Technique: Torrent
 -Attacks an enemy, scales with SPR (Water) (Power:30-105)
 •Inspirit: Impending Doom
--Reduces an enemy DEF (TIERS NOT AVAILABLE YET)
+-Reduces an enemy DEF (Tier:1)
 
 
 Snailspace
@@ -19712,7 +19712,7 @@ Medallium Nº: 513
 •Technique: Torrent
 -Attacks an enemy, scales with SPR (Water) (Power:30-105)
 •Inspirit: Slow and Steady
--Reduces an enemy SPD (TIERS NOT AVAILABLE YET)
+-Reduces an enemy SPD (Tier:2)
 
 
 Putasockinit
@@ -19752,7 +19752,7 @@ Medallium Nº: 514
 •Technique: Shock
 -Attacks an enemy, scales with SPR (Lightning) (Power:30-105)
 •Inspirit: Jibber Jabbering
--Reduces an enemy SPD (TIERS NOT AVAILABLE YET)
+-Reduces an enemy SPD (Tier:1)
 
 
 Snidewinder
@@ -19790,7 +19790,7 @@ Medallium Nº: 515
 •Technique: Lightning
 -Attacks an enemy, scales with SPR (Lightning) (Power:50-110)
 •Inspirit: Grumble and Gripe
--Increases an enemy loafing chances, making them unable to act sometimes (TIERS NOT AVAILABLE YET)
+-Increases an enemy loafing chances, making them unable to act sometimes (Tier:1)
 
 
 Noko
@@ -19829,7 +19829,7 @@ Medallium Nº: 516
 •Technique: Rockslide
 -Attacks an enemy, scales with SPR (Earth) (Power:50-110)
 •Inspirit: Fortunate
--Increases an ally stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Increases an ally stats (STR, SPR, DEF and SPD) (Tier:1)
 
 
 Bloominoko
@@ -19866,7 +19866,7 @@ Medallium Nº: 517
 •Technique: Meteor
 -Attacks an enemy, scales with SPR (Earth) (Power:70-112)
 •Inspirit: Fortunate
--Increases an ally stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Increases an ally stats (STR, SPR, DEF and SPD) (Tier:2)
 
 
 Pandanoko
@@ -19903,7 +19903,7 @@ Medallium Nº: 518
 •Technique: Blizzard
 -Attacks an enemy, scales with SPR (Ice) (Power:70-112)
 •Inspirit: Panda Cuteness
--An ally recovers HP on their turns (TIERS NOT AVAILABLE YET)
+-An ally recovers HP on their turns (Tier:1)
 
 
 Starry Noko
@@ -19941,7 +19941,7 @@ Medallium Nº: 519
 •Technique: Paradise
 -Heals an ally, scales with SPR (Power:70-112)
 •Inspirit: Astrally Augmented
--Increases an ally stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Increases an ally stats (STR, SPR, DEF and SPD) (Tier:3)
 
 
 Snaggly
@@ -19981,7 +19981,7 @@ Medallium Nº: 520
 •Technique: Shock
 -Attacks an enemy, scales with SPR (Lightning) (Power:30-105)
 •Inspirit: Two to Tangle
-Makes the enemy unable to move around the grid (TIERS NOT AVAILABLE YET)
+-Makes the enemy unable to move around the grid (Tier:1)
 
 
 Whinona
@@ -20019,7 +20019,7 @@ Medallium Nº: 521
 •Technique: Lightning
 -Attacks an enemy, scales with SPR (Lightning) (Power:50-110)
 •Inspirit: What a Drag
-Makes the enemy unable to move around the grid (TIERS NOT AVAILABLE YET)
+-Makes the enemy unable to move around the grid (Tier:1)
 
 
 OMGator
@@ -20058,7 +20058,7 @@ Medallium Nº: 522
 •Technique: Torrent
 -Attacks an enemy, scales with SPR (Water) (Power:30-105)
 •Inspirit: FREAK OUT!
--Reduces an enemy DEF (TIERS NOT AVAILABLE YET)
+-Reduces an enemy DEF (Tier:1)
 
 
 Nautaloss
@@ -20098,7 +20098,7 @@ Medallium Nº: 523
 •Technique: Torrent
 -Attacks an enemy, scales with SPR (Water) (Power:30-105)
 •Inspirit: Reckless Optimism
--Reduces an enemy DEF (TIERS NOT AVAILABLE YET)
+-Reduces an enemy DEF (Tier:1)
 
 
 Shellebrity
@@ -20137,7 +20137,7 @@ Medallium Nº: 524
 •Technique: Rapids
 -Attacks an enemy, scales with SPR (Water) (Power:50-110)
 •Inspirit: Starstruck!
--Reduces an enemy DEF (TIERS NOT AVAILABLE YET)
+-Reduces an enemy DEF (Tier:1)
 
 
 Heheheel
@@ -20176,7 +20176,7 @@ Medallium Nº: 525
 •Technique: Heal
 -Heals an ally, scales with SPR (Power:30-105)
 •Inspirit: Liven Up
--Increases an ally STR (TIERS NOT AVAILABLE YET)
+-Increases an ally STR (Tier:1)
 
 
 Croonger
@@ -20216,7 +20216,7 @@ Medallium Nº: 526
 -Attacks an enemy, scales with SPR (Drain) (Power:40-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Power of Song
--Increases an ally SPR (TIERS NOT AVAILABLE YET)
+-Increases an ally SPR (Tier:1)
 
 
 Urnaconda
@@ -20255,7 +20255,7 @@ Medallium Nº: 527
 •Technique: Restore
 -Heals an ally, scales with SPR (Power:50-110)
 •Inspirit: Serpent's Power
--Increases an ally SPD (TIERS NOT AVAILABLE YET)
+-Increases an ally SPD (Tier:1)
 
 
 Takoyakid
@@ -20295,7 +20295,7 @@ Medallium Nº: 528
 •Technique: Fire
 -Attacks an enemy, scales with SPR (Fire) (Power:30-105)
 •Inspirit: Octoplus
--An ally recovers HP on their turns (TIERS NOT AVAILABLE YET)
+-An ally recovers HP on their turns (Tier:1)
 
 
 Takoyaking
@@ -20334,7 +20334,7 @@ Medallium Nº: 529
 •Technique: Blaze
 -Attacks an enemy, scales with SPR (Fire) (Power:50-110)
 •Inspirit: Octoplus
--An ally recovers HP on their turns (TIERS NOT AVAILABLE YET)
+-An ally recovers HP on their turns (Tier:1)
 
 
 Fishpicable
@@ -20373,7 +20373,7 @@ Medallium Nº: 530
 •Technique: Lightning
 -Attacks an enemy, scales with SPR (Lightning) (Power:50-110)
 •Inspirit: Spiteful Suggestion
--Confuses an enemy, making them attack their own allies sometimes (TIERS NOT AVAILABLE YET)
+-Confuses an enemy, making them attack their own allies sometimes (Tier:1)
 
 
 Rageon
@@ -20411,7 +20411,7 @@ Medallium Nº: 531
 •Technique: Lightning
 -Attacks an enemy, scales with SPR (Lightning) (Power:50-110)
 •Inspirit: Harbor Resentment
--Confuses an enemy, making them attack their own allies sometimes (TIERS NOT AVAILABLE YET)
+-Confuses an enemy, making them attack their own allies sometimes (Tier:1)
 
 
 Tunatic
@@ -20448,7 +20448,7 @@ Medallium Nº: 532
 •Technique: Incinerate
 -Attacks an enemy, scales with SPR (Fire) (Power:70-112)
 •Inspirit: Frenzy
--Confuses an enemy, making them attack their own allies sometimes (TIERS NOT AVAILABLE YET)
+-Confuses an enemy, making them attack their own allies sometimes (Tier:1)
 
 
 Flushback
@@ -20488,7 +20488,7 @@ Medallium Nº: 533
 •Technique: Heal
 -Heals an ally, scales with SPR (Power:30-105)
 •Inspirit: Happy Daze
--Increases an ally SPD (TIERS NOT AVAILABLE YET)
+-Increases an ally SPD (Tier:2)
 
 
 Vacuumory
@@ -20526,7 +20526,7 @@ Medallium Nº: 534
 •Technique: Paradise
 -Heals an ally, scales with SPR (Power:70-112)
 •Inspirit: Happy Daze
--Increases an ally SPD (TIERS NOT AVAILABLE YET)
+-Increases an ally SPD (Tier:2)
 
 
 Irewig
@@ -20566,7 +20566,7 @@ Medallium Nº: 535
 •Technique: Fire
 -Attacks an enemy, scales with SPR (Fire) (Power:30-105)
 •Inspirit: Bugged Out
--Confuses an enemy, making them attack their own allies sometimes (TIERS NOT AVAILABLE YET)
+-Confuses an enemy, making them attack their own allies sometimes (Tier:1)
 
 
 Firewig
@@ -20604,7 +20604,7 @@ Medallium Nº: 536
 •Technique: Incinerate
 -Attacks an enemy, scales with SPR (Fire) (Power:70-112)
 •Inspirit: Wigged Out
--Confuses an enemy, making them attack their own allies sometimes (TIERS NOT AVAILABLE YET)
+-Confuses an enemy, making them attack their own allies sometimes (Tier:1)
 
 
 Draggie
@@ -20643,7 +20643,7 @@ Medallium Nº: 537
 •Technique: Rockslide
 -Attacks an enemy, scales with SPR (Earth) (Power:50-110)
 •Inspirit: Dragon Power
--Increases an ally STR (TIERS NOT AVAILABLE YET)
+-Increases an ally STR (Tier:1)
 
 
 Dragon Lord
@@ -20679,7 +20679,7 @@ Medallium Nº: 538
 •Technique: Meteor
 -Attacks an enemy, scales with SPR (Earth) (Power:70-112)
 •Inspirit: Dragon Power
--Increases an ally STR (TIERS NOT AVAILABLE YET)
+-Increases an ally STR (Tier:1)
 
 
 Azure Dragon
@@ -20715,7 +20715,7 @@ Medallium Nº: 539
 •Technique: Waterfall
 -Attacks an enemy, scales with SPR (Water) (Power:70-112)
 •Inspirit: Cobalt Power
--Increases an ally SPR (TIERS NOT AVAILABLE YET)
+-Increases an ally SPR (Tier:1)
 
 
 Mermaidyn
@@ -20754,7 +20754,7 @@ Medallium Nº: 540
 •Technique: Rapids
 -Attacks an enemy, scales with SPR (Water) (Power:50-110)
 •Inspirit: Rejuvenate
--An ally recovers HP on their turns (TIERS NOT AVAILABLE YET)
+-An ally recovers HP on their turns (Tier:1)
 
 
 Mermadonna
@@ -20790,7 +20790,7 @@ Medallium Nº: 541
 •Technique: Waterfall
 -Attacks an enemy, scales with SPR (Water) (Power:70-112)
 •Inspirit: Rejuvenate
--An ally recovers HP on their turns (TIERS NOT AVAILABLE YET)
+-An ally recovers HP on their turns (Tier:1)
 
 
 Mermother
@@ -20826,7 +20826,7 @@ Medallium Nº: 542
 •Technique: Waterfall
 -Attacks an enemy, scales with SPR (Water) (Power:70-112)
 •Inspirit: Legend Power
--Increases an ally stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Increases an ally stats (STR, SPR, DEF and SPD) (Tier:1)
 
 
 T-Wrecks
@@ -20865,7 +20865,7 @@ Medallium Nº: 543
 •Technique: Pebble
 -Attacks an enemy, scales with SPR (Earth) (Power:30-105)
 •Inspirit: Rampage
--Confuses an enemy, making them attack their own allies sometimes (TIERS NOT AVAILABLE YET)
+-Confuses an enemy, making them attack their own allies sometimes (Tier:1)
 
 
 D-Stroy
@@ -20901,7 +20901,7 @@ Medallium Nº: 544
 •Technique: Rockslide
 -Attacks an enemy, scales with SPR (Earth) (Power:50-110)
 •Inspirit: Demolition
--Confuses an enemy, making them attack their own allies sometimes (TIERS NOT AVAILABLE YET)
+-Confuses an enemy, making them attack their own allies sometimes (Tier:1)
 
 
 Clodzilla
@@ -20937,7 +20937,7 @@ Medallium Nº: 545
 •Technique: Rockslide
 -Attacks an enemy, scales with SPR (Earth) (Power:50-110)
 •Inspirit: Squandasaurus Rex
--Inspirits an enemy, making them drop money and lose their turns (TIERS NOT AVAILABLE YET)
+-Inspirits an enemy, making them drop money and lose their turns (Tier:1)
 
 
 Lady Longnek
@@ -20977,7 +20977,7 @@ Medallium Nº: 546
 •Technique: Restore
 -Heals an ally, scales with SPR (Power:50-110)
 •Inspirit: Neck Tie
-Makes the enemy unable to move around the grid (TIERS NOT AVAILABLE YET)
+-Makes the enemy unable to move around the grid (Tier:1)
 
 
 Whisper
@@ -21018,7 +21018,7 @@ Medallium Nº: 547
 -Attacks an enemy, scales with SPR (Drain) (Power:40-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Slimed
--Reduces an enemy DEF (TIERS NOT AVAILABLE YET)
+-Reduces an enemy DEF (Tier:2)
 
 
 Whispocrates
@@ -21059,7 +21059,7 @@ Medallium Nº: 548
 -Attacks an enemy, scales with SPR (Drain) (Power:40-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Slimed
--Reduces an enemy DEF (TIERS NOT AVAILABLE YET)
+-Reduces an enemy DEF (Tier:2)
 
 
 Snippity Cricket
@@ -21099,7 +21099,7 @@ Medallium Nº: 549
 •Technique: Tornado
 -Attacks an enemy, scales with SPR (Wind) (Power:50-110)
 •Inspirit: What's the Snip-Up?
--Increases an enemy loafing chances, making them unable to act sometimes (TIERS NOT AVAILABLE YET)
+-Increases an enemy loafing chances, making them unable to act sometimes (Tier:1)
 
 
 Flocktopus
@@ -21138,7 +21138,7 @@ Medallium Nº: 550
 •Technique: Rapids
 -Attacks an enemy, scales with SPR (Water) (Power:50-110)
 •Inspirit: Yank Off
-Makes the enemy unable to move around the grid (TIERS NOT AVAILABLE YET)
+-Makes the enemy unable to move around the grid (Tier:1)
 
 
 Bitter Batter
@@ -21178,7 +21178,7 @@ Medallium Nº: 551
 •Technique: Blaze
 -Attacks an enemy, scales with SPR (Fire) (Power:50-110)
 •Inspirit: Battered Bitterness
--Confuses an enemy, making them attack their own allies sometimes (TIERS NOT AVAILABLE YET)
+-Confuses an enemy, making them attack their own allies sometimes (Tier:1)
 
 
 Daiz
@@ -21219,7 +21219,7 @@ Medallium Nº: 552
 -Attacks an enemy, scales with SPR (Drain) (Power:40-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Generous Heart
--Increases an ally stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Increases an ally stats (STR, SPR, DEF and SPD) (Tier:2)
 
 
 Confuze
@@ -21259,7 +21259,7 @@ Medallium Nº: 553
 -Attacks an enemy, scales with SPR (Drain) (Power:40-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Faltering Heart
--Reduces an enemy stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Reduces an enemy stats (STR, SPR, DEF and SPD) (Tier:2)
 
 
 Chummer
@@ -21298,7 +21298,7 @@ Medallium Nº: 554
 •Technique: Rapids
 -Attacks an enemy, scales with SPR (Water) (Power:50-110)
 •Inspirit: Loitering
--Increases an enemy loafing chances, making them unable to act sometimes (TIERS NOT AVAILABLE YET)
+-Increases an enemy loafing chances, making them unable to act sometimes (Tier:1)
 
 
 Shrook
@@ -21336,7 +21336,7 @@ Medallium Nº: 555
 •Technique: Rapids
 -Attacks an enemy, scales with SPR (Water) (Power:50-110)
 •Inspirit: Amateur
--Reduces an enemy STR (TIERS NOT AVAILABLE YET)
+-Reduces an enemy STR (Tier:1)
 
 
 Spenp
@@ -21375,7 +21375,7 @@ Medallium Nº: 556
 •Technique: Tornado
 -Attacks an enemy, scales with SPR (Wind) (Power:50-110)
 •Inspirit: Wastefulness
--Inspirits an enemy, making them drop money and lose their turns (TIERS NOT AVAILABLE YET)
+-Inspirits an enemy, making them drop money and lose their turns (Tier:2)
 
 
 Almi
@@ -21413,7 +21413,7 @@ Medallium Nº: 557
 •Technique: Rapids
 -Attacks an enemy, scales with SPR (Water) (Power:50-110)
 •Inspirit: So Generous
--Inspirits an enemy, making them drop money and lose their turns (TIERS NOT AVAILABLE YET)
+-Inspirits an enemy, making them drop money and lose their turns (Tier:1)
 
 
 Babblong
@@ -21453,7 +21453,7 @@ Medallium Nº: 558
 •Technique: Rapids
 -Attacks an enemy, scales with SPR (Water) (Power:50-110)
 •Inspirit: Keep Chatting
--Reduces an enemy SPD (TIERS NOT AVAILABLE YET)
+-Reduces an enemy SPD (Tier:2)
 
 
 Bananose
@@ -21492,7 +21492,7 @@ Medallium Nº: 559
 •Technique: Waterfall
 -Attacks an enemy, scales with SPR (Water) (Power:70-112)
 •Inspirit: Banana Power
--Increases an ally SPD (TIERS NOT AVAILABLE YET)
+-Increases an ally SPD (Tier:1)
 
 
 Cocobanana
@@ -21530,7 +21530,7 @@ Medallium Nº: 560
 •Technique: Lightning
 -Attacks an enemy, scales with SPR (Lightning) (Power:50-110)
 •Inspirit: Yum Choco-Banana
--An ally recovers HP on their turns (TIERS NOT AVAILABLE YET)
+-An ally recovers HP on their turns (Tier:1)
 
 
 Draaagin
@@ -21568,7 +21568,7 @@ Medallium Nº: 561
 •Technique: Blizzard
 -Attacks an enemy, scales with SPR (Ice) (Power:70-112)
 •Inspirit: Maybe Later
--Increases an enemy loafing chances, making them unable to act sometimes (TIERS NOT AVAILABLE YET)
+-Increases an enemy loafing chances, making them unable to act sometimes (Tier:1)
 
 
 Robonoko
@@ -21606,7 +21606,7 @@ Medallium Nº: 562
 •Technique: Rockslide
 -Attacks an enemy, scales with SPR (Earth) (Power:50-110)
 •Inspirit: Steel Power
--Increases an ally DEF (TIERS NOT AVAILABLE YET)
+-Increases an ally DEF (Tier:1)
 
 
 Robodraggie
@@ -21644,7 +21644,7 @@ Medallium Nº: 563
 •Technique: Blaze
 -Attacks an enemy, scales with SPR (Fire) (Power:50-110)
 •Inspirit: Steel Power
--Increases an ally DEF (TIERS NOT AVAILABLE YET)
+-Increases an ally DEF (Tier:1)
 
 
 Ooze Zat
@@ -21683,7 +21683,7 @@ Medallium Nº: 564
 •Technique: Frost
 -Attacks an enemy, scales with SPR (Ice) (Power:50-110)
 •Inspirit: Mysterious Ooze
--Increases an ally DEF (TIERS NOT AVAILABLE YET)
+-Increases an ally DEF (Tier:1)
 
 
 Copperled
@@ -21721,7 +21721,7 @@ Medallium Nº: 565
 •Technique: Blaze
 -Attacks an enemy, scales with SPR (Fire) (Power:50-110)
 •Inspirit: Bossiness
--Increases an enemy loafing chances, making them unable to act sometimes (TIERS NOT AVAILABLE YET)
+-Increases an enemy loafing chances, making them unable to act sometimes (Tier:1)
 
 
 Cynake
@@ -21759,7 +21759,7 @@ Medallium Nº: 566
 •Technique: Rapids
 -Attacks an enemy, scales with SPR (Water) (Power:50-110)
 •Inspirit: Sulky
--Confuses an enemy, making them attack their own allies sometimes (TIERS NOT AVAILABLE YET)
+-Confuses an enemy, making them attack their own allies sometimes (Tier:1)
 
 
 Slitheref
@@ -21796,7 +21796,7 @@ Medallium Nº: 567
 •Technique: Voltage
 -Attacks an enemy, scales with SPR (Lightning) (Power:70-112)
 •Inspirit: Pit Viper Venom
--Reduces an enemy SPD (TIERS NOT AVAILABLE YET)
+-Reduces an enemy SPD (Tier:1)
 
 
 SV Snaggerjag
@@ -21834,7 +21834,7 @@ Medallium Nº: 568
 •Technique: Waterfall
 -Attacks an enemy, scales with SPR (Water) (Power:70-112)
 •Inspirit: Coast Guard
--Increases an ally DEF (TIERS NOT AVAILABLE YET)
+-Increases an ally DEF (Tier:1)
 
 
 Mython
@@ -21871,7 +21871,7 @@ Medallium Nº: 569
 •Technique: Waterfall
 -Attacks an enemy, scales with SPR (Water) (Power:70-112)
 •Inspirit: I Did it Myyyy Way!
--Increases an enemy loafing chances, making them unable to act sometimes (TIERS NOT AVAILABLE YET)
+-Increases an enemy loafing chances, making them unable to act sometimes (Tier:1)
 
 
 Venoct
@@ -21907,7 +21907,7 @@ Medallium Nº: 570
 •Technique: Voltage
 -Attacks an enemy, scales with SPR (Lightning) (Power:70-112)
 •Inspirit: Venoct's Blessing
--Increases an ally SPD (TIERS NOT AVAILABLE YET)
+-Increases an ally SPD (Tier:1)
 
 
 Shadow Venoct
@@ -21943,7 +21943,7 @@ Medallium Nº: 571
 •Technique: Paradise
 -Heals an ally, scales with SPR (Power:70-112)
 •Inspirit: Enshroud
--Increases an ally SPD (TIERS NOT AVAILABLE YET)
+-Increases an ally SPD (Tier:1)
 
 
 Frogetmenot
@@ -21979,7 +21979,7 @@ Medallium Nº: 572
 •Technique: Paradise
 -Heals an ally, scales with SPR (Power:70-112)
 •Inspirit: Lingering Smile
--Increases an ally DEF (TIERS NOT AVAILABLE YET)
+-Increases an ally DEF (Tier:2)
 
 
 Originyan
@@ -22016,7 +22016,7 @@ Medallium Nº: 573
 •Technique: Fire
 -Attacks an enemy, scales with SPR (Fire) (Power:30-105)
 •Inspirit: Back to Basics
--Reduces an enemy stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Reduces an enemy stats (STR, SPR, DEF and SPD) (Tier:1)
 
 
 Sighborg Y
@@ -22054,7 +22054,7 @@ Medallium Nº: 574
 •Technique: Lightning
 -Attacks an enemy, scales with SPR (Lightning) (Power:50-110)
 •Inspirit: Kai-borgization
--Reduces an enemy SPD (TIERS NOT AVAILABLE YET)
+-Reduces an enemy SPD (Tier:1)
 
 
 Unfairy
@@ -22091,7 +22091,7 @@ Medallium Nº: 575
 -Attacks an enemy, scales with SPR (Drain) (Power:55-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Unfairy Power
--Increases an enemy loafing chances, making them unable to act sometimes (TIERS NOT AVAILABLE YET)
+-Increases an enemy loafing chances, making them unable to act sometimes (Tier:2)
 
 
 Unkaind
@@ -22127,7 +22127,7 @@ Medallium Nº: 576
 •Technique: Waterfall
 -Attacks an enemy, scales with SPR (Water) (Power:70-112)
 •Inspirit: Unkaind Power
--Reduces an enemy STR (TIERS NOT AVAILABLE YET)
+-Reduces an enemy STR (Tier:2)
 
 
 Untidy
@@ -22164,7 +22164,7 @@ Medallium Nº: 577
 •Technique: Meteor
 -Attacks an enemy, scales with SPR (Earth) (Power:70-112)
 •Inspirit: Untidy Power
--Reduces an enemy SPD (TIERS NOT AVAILABLE YET)
+-Reduces an enemy SPD (Tier:2)
 
 
 Unpleasant
@@ -22201,7 +22201,7 @@ Medallium Nº: 578
 •Technique: Storm
 -Attacks an enemy, scales with SPR (Wind) (Power:70-112)
 •Inspirit: Unpleasant Power
--An enemy loses HP on their turns (TIERS NOT AVAILABLE YET)
+-An enemy loses HP on their turns (Tier:3)
 
 
 Unkeen
@@ -22237,7 +22237,7 @@ Medallium Nº: 579
 •Technique: Voltage
 -Attacks an enemy, scales with SPR (Lightning) (Power:70-112)
 •Inspirit: Unkeen Power
--Reduces an enemy stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Reduces an enemy stats (STR, SPR, DEF and SPD) (Tier:2)
 
 
 Grublappa
@@ -22276,7 +22276,7 @@ Medallium Nº: 580
 •Technique: Lightning
 -Attacks an enemy, scales with SPR (Lightning) (Power:50-110)
 •Inspirit: Sick Lick
--Increases an enemy loafing chances, making them unable to act sometimes (TIERS NOT AVAILABLE YET)
+-Increases an enemy loafing chances, making them unable to act sometimes (Tier:1)
 
 
 Madmunch
@@ -22314,7 +22314,7 @@ Medallium Nº: 581
 •Technique: Rockslide
 -Attacks an enemy, scales with SPR (Earth) (Power:50-110)
 •Inspirit: Sucking Mud
--An enemy loses HP on their turns (TIERS NOT AVAILABLE YET)
+-An enemy loses HP on their turns (Tier:1)
 
 
 Badsmella
@@ -22351,7 +22351,7 @@ Medallium Nº: 582
 •Technique: Storm
 -Attacks an enemy, scales with SPR (Wind) (Power:70-112)
 •Inspirit: Awful Haze
--An enemy loses HP on their turns (TIERS NOT AVAILABLE YET)
+-An enemy loses HP on their turns (Tier:1)
 
 
 Mad Kappa
@@ -22388,7 +22388,7 @@ Medallium Nº: 583
 •Technique: Waterfall
 -Attacks an enemy, scales with SPR (Water) (Power:70-112)
 •Inspirit: Wicked Tale
--Reduces an enemy SPR (TIERS NOT AVAILABLE YET)
+-Reduces an enemy SPR (Tier:1)
 
 
 Shamasol
@@ -22427,7 +22427,7 @@ Medallium Nº: 584
 •Technique: Tornado
 -Attacks an enemy, scales with SPR (Wind) (Power:50-110)
 •Inspirit: Ruin
--Reduces an enemy DEF (TIERS NOT AVAILABLE YET)
+-Reduces an enemy DEF (Tier:1)
 
 
 Gnomine
@@ -22467,7 +22467,7 @@ Medallium Nº: 585
 •Technique: Restore
 -Heals an ally, scales with SPR (Power:50-110)
 •Inspirit: Chin Down
--An enemy loses HP on their turns (TIERS NOT AVAILABLE YET)
+-An enemy loses HP on their turns (Tier:1)
 
 
 Defectabull
@@ -22507,7 +22507,7 @@ Medallium Nº: 586
 •Technique: Restore
 -Heals an ally, scales with SPR (Power:50-110)
 •Inspirit: Bad Fortune
--Reduces an enemy STR (TIERS NOT AVAILABLE YET)
+-Reduces an enemy STR (Tier:1)
 
 
 Feargus
@@ -22546,7 +22546,7 @@ Medallium Nº: 587
 •Technique: Rockslide
 -Attacks an enemy, scales with SPR (Earth) (Power:50-110)
 •Inspirit: Thatch
--Reduces an enemy SPD (TIERS NOT AVAILABLE YET)
+-Reduces an enemy SPD (Tier:2)
 
 
 Scaremaiden
@@ -22585,7 +22585,7 @@ Medallium Nº: 588
 •Technique: Rapids
 -Attacks an enemy, scales with SPR (Water) (Power:50-110)
 •Inspirit: Gouge
--An enemy loses HP on their turns (TIERS NOT AVAILABLE YET)
+-An enemy loses HP on their turns (Tier:1)
 
 
 Wrongnek
@@ -22624,7 +22624,7 @@ Medallium Nº: 589
 •Technique: Restore
 -Heals an ally, scales with SPR (Power:50-110)
 •Inspirit: Neck Tie
-Makes the enemy unable to move around the grid (TIERS NOT AVAILABLE YET)
+-Makes the enemy unable to move around the grid (Tier:1)
 
 
 King Jibanyan
@@ -22661,7 +22661,7 @@ Medallium Nº: 590
 •Technique: Blaze
 -Attacks an enemy, scales with SPR (Fire) (Power:50-110)
 •Inspirit: King of Nyans
--Increases an ally stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Increases an ally stats (STR, SPR, DEF and SPD) (Tier:1)
 
 
 Qn. Usapyon
@@ -22698,7 +22698,7 @@ Medallium Nº: 591
 •Technique: Blizzard
 -Attacks an enemy, scales with SPR (Ice) (Power:70-112)
 •Inspirit: Darn Queenin'
--Increases an ally stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Increases an ally stats (STR, SPR, DEF and SPD) (Tier:1)
 
 
 Jackomasan
@@ -22735,7 +22735,7 @@ Medallium Nº: 592
 •Technique: Incinerate
 -Attacks an enemy, scales with SPR (Fire) (Power:70-112)
 •Inspirit: Jack of all Swirls
--Increases an ally DEF (TIERS NOT AVAILABLE YET)
+-Increases an ally DEF (Tier:1)
 
 
 Komajiro Ten
@@ -22773,7 +22773,7 @@ Medallium Nº: 593
 •Technique: Voltage
 -Attacks an enemy, scales with SPR (Lightning) (Power:70-112)
 •Inspirit: Tenfold Triumph
--Increases an ally DEF (TIERS NOT AVAILABLE YET)
+-Increases an ally DEF (Tier:1)
 
 
 Acenyan
@@ -22811,7 +22811,7 @@ Medallium Nº: 594
 •Technique: Tornado
 -Attacks an enemy, scales with SPR (Wind) (Power:50-110)
 •Inspirit: Ace of Nyans
--Increases an ally STR (TIERS NOT AVAILABLE YET)
+-Increases an ally STR (Tier:1)
 
 
 Josper
@@ -22849,7 +22849,7 @@ Medallium Nº: 595
 -Attacks an enemy, scales with SPR (Drain) (Power:40-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Joker of the Pack
--Reduces an enemy stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Reduces an enemy stats (STR, SPR, DEF and SPD) (Tier:2)
 
 
 Benzaiten
@@ -22885,7 +22885,7 @@ Medallium Nº: 596
 •Technique: Voltage
 -Attacks an enemy, scales with SPR (Lightning) (Power:70-112)
 •Inspirit: Benzaiten's Wrath
-Makes the enemy unable to move around the grid (TIERS NOT AVAILABLE YET)
+-Makes the enemy unable to move around the grid (Tier:1)
 
 
 Hotei
@@ -22922,7 +22922,7 @@ Medallium Nº: 597
 •Technique: Storm
 -Attacks an enemy, scales with SPR (Wind) (Power:70-112)
 •Inspirit: Hotei's Favor
--Increases an ally SPD (TIERS NOT AVAILABLE YET)
+-Increases an ally SPD (Tier:2)
 
 
 Daikokuten
@@ -22959,7 +22959,7 @@ Medallium Nº: 598
 •Technique: Rockslide
 -Attacks an enemy, scales with SPR (Earth) (Power:50-110)
 •Inspirit: Daikokuten's Ward
--Increases an ally DEF (TIERS NOT AVAILABLE YET)
+-Increases an ally DEF (Tier:2)
 
 
 Ebisu
@@ -22996,7 +22996,7 @@ Medallium Nº: 599
 •Technique: Paradise
 -Heals an ally, scales with SPR (Power:70-112)
 •Inspirit: Ebisu's Fortune
--An ally recovers HP on their turns (TIERS NOT AVAILABLE YET)
+-An ally recovers HP on their turns (Tier:2)
 
 
 Bishamonten
@@ -23033,7 +23033,7 @@ Medallium Nº: 600
 •Technique: Blaze
 -Attacks an enemy, scales with SPR (Fire) (Power:50-110)
 •Inspirit: Bishamonten Boon
--Increases an ally STR (TIERS NOT AVAILABLE YET)
+-Increases an ally STR (Tier:2)
 
 
 Columbakat
@@ -23070,7 +23070,7 @@ Medallium Nº: 601
 •Technique: Rapids
 -Attacks an enemy, scales with SPR (Water) (Power:50-110)
 •Inspirit: Land Ahoy!
--Increases an ally stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Increases an ally stats (STR, SPR, DEF and SPD) (Tier:1)
 
 
 T. Energison
@@ -23106,7 +23106,7 @@ Medallium Nº: 602
 •Technique: Voltage
 -Attacks an enemy, scales with SPR (Lightning) (Power:70-112)
 •Inspirit: Paralyze
-Makes the enemy unable to move around the grid (TIERS NOT AVAILABLE YET)
+-Makes the enemy unable to move around the grid (Tier:1)
 
 
 Starwin
@@ -23143,7 +23143,7 @@ Medallium Nº: 603
 •Technique: Paradise
 -Heals an ally, scales with SPR (Power:70-112)
 •Inspirit: Scientific Method
--Increases an ally SPR (TIERS NOT AVAILABLE YET)
+-Increases an ally SPR (Tier:1)
 
 
 Last Nyanmurai
@@ -23179,7 +23179,7 @@ Medallium Nº: 604
 •Technique: Blaze
 -Attacks an enemy, scales with SPR (Fire) (Power:50-110)
 •Inspirit: Last Stand
--Increases an ally STR (TIERS NOT AVAILABLE YET)
+-Increases an ally STR (Tier:1)
 
 
 Koma Star
@@ -23215,7 +23215,7 @@ Medallium Nº: 605
 •Technique: Voltage
 -Attacks an enemy, scales with SPR (Lightning) (Power:70-112)
 •Inspirit: Sparkly Swirls
--Increases an ally SPD (TIERS NOT AVAILABLE YET)
+-Increases an ally SPD (Tier:1)
 
 
 Platinos
@@ -23252,7 +23252,7 @@ Medallium Nº: 606
 •Technique: Lightning
 -Attacks an enemy, scales with SPR (Lightning) (Power:50-110)
 •Inspirit: Platinum Plating
--Increases an ally DEF (TIERS NOT AVAILABLE YET)
+-Increases an ally DEF (Tier:1)
 
 
 Flash T. Cash
@@ -23289,7 +23289,7 @@ Medallium Nº: 607
 •Technique: Paradise
 -Heals an ally, scales with SPR (Power:70-112)
 •Inspirit: Millionaire Misbelief
--Inspirits an enemy, making them drop money and lose their turns (TIERS NOT AVAILABLE YET)
+-Inspirits an enemy, making them drop money and lose their turns (Tier:1)
 
 
 Shogunyan
@@ -23325,7 +23325,7 @@ Medallium Nº: 608
 •Technique: Storm
 -Attacks an enemy, scales with SPR (Wind) (Power:70-112)
 •Inspirit: Heart of a Warrior
--Increases an ally STR (TIERS NOT AVAILABLE YET)
+-Increases an ally STR (Tier:1)
 
 
 Komashura
@@ -23361,7 +23361,7 @@ Medallium Nº: 609
 •Technique: Incinerate
 -Attacks an enemy, scales with SPR (Fire) (Power:70-112)
 •Inspirit: Burly Power
--Increases an ally SPR (TIERS NOT AVAILABLE YET)
+-Increases an ally SPR (Tier:1)
 
 
 Gilgaros
@@ -23398,7 +23398,7 @@ Medallium Nº: 610
 •Technique: Lightning
 -Attacks an enemy, scales with SPR (Lightning) (Power:50-110)
 •Inspirit: Power of Terror
--Increases an ally DEF (TIERS NOT AVAILABLE YET)
+-Increases an ally DEF (Tier:1)
 
 
 Spoilerina
@@ -23434,7 +23434,7 @@ Medallium Nº: 611
 •Technique: Storm
 -Attacks an enemy, scales with SPR (Wind) (Power:70-112)
 •Inspirit: Join the Dance
--Increases an ally SPD (TIERS NOT AVAILABLE YET)
+-Increases an ally SPD (Tier:1)
 
 
 Elder Bloom
@@ -23470,7 +23470,7 @@ Medallium Nº: 612
 •Technique: Paradise
 -Heals an ally, scales with SPR (Power:70-112)
 •Inspirit: Miracle Blossom
--Increases an ally SPD (TIERS NOT AVAILABLE YET)
+-Increases an ally SPD (Tier:1)
 
 
 Poofessor
@@ -23508,7 +23508,7 @@ Medallium Nº: 613
 -Attacks an enemy, scales with SPR (Drain) (Power:55-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Info Dump
--Increases an enemy loafing chances, making them unable to act sometimes (TIERS NOT AVAILABLE YET)
+-Increases an enemy loafing chances, making them unable to act sometimes (Tier:2)
 
 
 Dandoodle
@@ -23545,7 +23545,7 @@ Medallium Nº: 614
 •Technique: Paradise
 -Heals an ally, scales with SPR (Power:70-112)
 •Inspirit: Healing Air
--An ally recovers HP on their turns (TIERS NOT AVAILABLE YET)
+-An ally recovers HP on their turns (Tier:2)
 
 
 Slurpent
@@ -23582,7 +23582,7 @@ Medallium Nº: 615
 -Attacks an enemy, scales with SPR (Drain) (Power:55-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Slurperpowers
--Increases an ally stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Increases an ally stats (STR, SPR, DEF and SPD) (Tier:1)
 
 
 Re-Q-Perate
@@ -23620,7 +23620,7 @@ Medallium Nº: 616
 -Attacks an enemy, scales with SPR (Drain) (Power:55-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Curse of Q
-Makes the enemy unable to move around the grid (TIERS NOT AVAILABLE YET)
+-Makes the enemy unable to move around the grid (Tier:1)
 
 
 Princess Pearl
@@ -23656,7 +23656,7 @@ Medallium Nº: 617
 •Technique: Waterfall
 -Attacks an enemy, scales with SPR (Water) (Power:70-112)
 •Inspirit: Marine Mysteries
--Increases an ally SPR (TIERS NOT AVAILABLE YET)
+-Increases an ally SPR (Tier:1)
 
 
 Asura
@@ -23692,7 +23692,7 @@ Medallium Nº: 618
 •Technique: Fire
 -Attacks an enemy, scales with SPR (Fire) (Power:30-105)
 •Inspirit: Asura's Rage
--Increases an ally STR (TIERS NOT AVAILABLE YET)
+-Increases an ally STR (Tier:1)
 
 
 Terminyanator
@@ -23730,7 +23730,7 @@ Medallium Nº: 619
 •Technique: Fire
 -Attacks an enemy, scales with SPR (Fire) (Power:30-105)
 •Inspirit: Future Tech
--Increases an ally stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Increases an ally stats (STR, SPR, DEF and SPD) (Tier:1)
 
 
 Supernyan
@@ -23767,7 +23767,7 @@ Medallium Nº: 620
 •Technique: Whirlwind
 -Attacks an enemy, scales with SPR (Wind) (Power:30-105)
 •Inspirit: Nyan of Steel
--Increases an ally DEF (TIERS NOT AVAILABLE YET)
+-Increases an ally DEF (Tier:1)
 
 
 Hovernyan S
@@ -23803,7 +23803,7 @@ Medallium Nº: 621
 •Technique: Tornado
 -Attacks an enemy, scales with SPR (Wind) (Power:50-110)
 •Inspirit: Pal Power S
--Increases an ally STR (TIERS NOT AVAILABLE YET)
+-Increases an ally STR (Tier:1)
 
 
 Hover. Cao Cao
@@ -23839,7 +23839,7 @@ Medallium Nº: 622
 •Technique: Tornado
 -Attacks an enemy, scales with SPR (Wind) (Power:50-110)
 •Inspirit: On the Warpath
--Increases an ally STR (TIERS NOT AVAILABLE YET)
+-Increases an ally STR (Tier:1)
 
 
 Yoganalisten
@@ -23878,7 +23878,7 @@ Medallium Nº: 623
 •Technique: Meteor
 -Attacks an enemy, scales with SPR (Earth) (Power:70-112)
 •Inspirit: Self-important Spirit
--Confuses an enemy, making them attack their own allies sometimes (TIERS NOT AVAILABLE YET)
+-Confuses an enemy, making them attack their own allies sometimes (Tier:1)
 
 
 Judgebrick
@@ -23917,7 +23917,7 @@ Medallium Nº: 624
 •Technique: Rockslide
 -Attacks an enemy, scales with SPR (Earth) (Power:50-110)
 •Inspirit: Disbursement
--Inspirits an enemy, making them drop money and lose their turns (TIERS NOT AVAILABLE YET)
+-Inspirits an enemy, making them drop money and lose their turns (Tier:1)
 
 
 Urnfulfilled
@@ -23956,7 +23956,7 @@ Medallium Nº: 625
 •Technique: Pebble
 -Attacks an enemy, scales with SPR (Earth) (Power:30-105)
 •Inspirit: Defenseless
--Reduces an enemy DEF (TIERS NOT AVAILABLE YET)
+-Reduces an enemy DEF (Tier:1)
 
 
 Sad 2 the Bone
@@ -23994,7 +23994,7 @@ Medallium Nº: 626
 -Attacks an enemy, scales with SPR (Drain) (Power:25-87)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Brittle Bones
--Reduces an enemy DEF (TIERS NOT AVAILABLE YET)
+-Reduces an enemy DEF (Tier:1)
 
 
 Venoctobot
@@ -24030,7 +24030,7 @@ Medallium Nº: 627
 •Technique: Voltage
 -Attacks an enemy, scales with SPR (Lightning) (Power:70-112)
 •Inspirit: Steel Chassis
--Increases an ally DEF (TIERS NOT AVAILABLE YET)
+-Increases an ally DEF (Tier:1)
 
 
 Orcanos Lu Bu
@@ -24068,7 +24068,7 @@ Medallium Nº: 628
 -Attacks an enemy, scales with SPR (Drain) (Power:25-87)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Indomitable Ire
--Increases an ally STR (TIERS NOT AVAILABLE YET)
+-Increases an ally STR (Tier:1)
 
 
 Kyubot
@@ -24104,7 +24104,7 @@ Medallium Nº: 629
 •Technique: Voltage
 -Attacks an enemy, scales with SPR (Lightning) (Power:70-112)
 •Inspirit: Steel Chassis
--Increases an ally DEF (TIERS NOT AVAILABLE YET)
+-Increases an ally DEF (Tier:1)
 
 
 Ult. Robonyan
@@ -24140,7 +24140,7 @@ Medallium Nº: 630
 •Technique: Tornado
 -Attacks an enemy, scales with SPR (Wind) (Power:50-110)
 •Inspirit: Ultimate Power
--Increases an ally DEF (TIERS NOT AVAILABLE YET)
+-Increases an ally DEF (Tier:1)
 
 
 Molar Petite
@@ -24179,7 +24179,7 @@ Medallium Nº: 631
 •Technique: Restore
 -Heals an ally, scales with SPR (Power:50-110)
 •Inspirit: Complete Exposure
--Reduces an enemy DEF (TIERS NOT AVAILABLE YET)
+-Reduces an enemy DEF (Tier:1)
 
 
 Life-is-Parfait
@@ -24218,7 +24218,7 @@ Medallium Nº: 632
 •Technique: Restore
 -Heals an ally, scales with SPR (Power:50-110)
 •Inspirit: Pudding Positivity
--Increases an enemy loafing chances, making them unable to act sometimes (TIERS NOT AVAILABLE YET)
+-Increases an enemy loafing chances, making them unable to act sometimes (Tier:1)
 
 
 Mee 2
@@ -24256,7 +24256,7 @@ Medallium Nº: 633
 •Technique: Paradise
 -Heals an ally, scales with SPR (Power:70-112)
 •Inspirit: Believe in Yourself!
--Increases an ally STR (TIERS NOT AVAILABLE YET)
+-Increases an ally STR (Tier:2)
 
 
 Koalanyan
@@ -24293,7 +24293,7 @@ Medallium Nº: 634
 •Technique: Paradise
 -Heals an ally, scales with SPR (Power:70-112)
 •Inspirit: Dramatize
--Increases an ally stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Increases an ally stats (STR, SPR, DEF and SPD) (Tier:1)
 
 
 Jibanyan T
@@ -24330,7 +24330,7 @@ Medallium Nº: 635
 •Technique: Pebble
 -Attacks an enemy, scales with SPR (Earth) (Power:30-105)
 •Inspirit: Loosen Up
--Increases an ally SPD (TIERS NOT AVAILABLE YET)
+-Increases an ally SPD (Tier:1)
 
 
 Komasan T
@@ -24367,7 +24367,7 @@ Medallium Nº: 636
 •Technique: Rockslide
 -Attacks an enemy, scales with SPR (Earth) (Power:50-110)
 •Inspirit: Toughen Up
--Increases an ally DEF (TIERS NOT AVAILABLE YET)
+-Increases an ally DEF (Tier:1)
 
 
 Eggcelency
@@ -24403,7 +24403,7 @@ Medallium Nº: 637
 •Technique: Paradise
 -Heals an ally, scales with SPR (Power:70-112)
 •Inspirit: Yummy Yolk
--Increases an ally STR (TIERS NOT AVAILABLE YET)
+-Increases an ally STR (Tier:2)
 
 
 Deadcool
@@ -24439,7 +24439,7 @@ Medallium Nº: 638
 •Technique: Lightning
 -Attacks an enemy, scales with SPR (Lightning) (Power:50-110)
 •Inspirit: Stress Out
--Confuses an enemy, making them attack their own allies sometimes (TIERS NOT AVAILABLE YET)
+-Confuses an enemy, making them attack their own allies sometimes (Tier:1)
 
 
 Sweattuce
@@ -24478,7 +24478,7 @@ Medallium Nº: 639
 •Technique: Restore
 -Heals an ally, scales with SPR (Power:50-110)
 •Inspirit: Lively Lettuce
--Increases an ally stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Increases an ally stats (STR, SPR, DEF and SPD) (Tier:2)
 
 
 Mr Blue-Shy
@@ -24517,7 +24517,7 @@ Medallium Nº: 640
 •Technique: Rapids
 -Attacks an enemy, scales with SPR (Water) (Power:50-110)
 •Inspirit: Blue Shy Thinking
--Increases an enemy loafing chances, making them unable to act sometimes (TIERS NOT AVAILABLE YET)
+-Increases an enemy loafing chances, making them unable to act sometimes (Tier:1)
 
 
 Amplifly
@@ -24554,7 +24554,7 @@ Medallium Nº: 641
 •Technique: Paradise
 -Heals an ally, scales with SPR (Power:70-112)
 •Inspirit: Buzzin'
--Inspirits an enemy, making them drop money and lose their turns (TIERS NOT AVAILABLE YET)
+-Inspirits an enemy, making them drop money and lose their turns (Tier:1)
 
 
 Ulteria
@@ -24591,7 +24591,7 @@ Medallium Nº: 642
 •Technique: Paradise
 -Heals an ally, scales with SPR (Power:70-112)
 •Inspirit: Rapturous Redress
--Increases an enemy loafing chances, making them unable to act sometimes (TIERS NOT AVAILABLE YET)
+-Increases an enemy loafing chances, making them unable to act sometimes (Tier:1)
 
 
 My-Baaad
@@ -24631,7 +24631,7 @@ Medallium Nº: 643
 -Attacks an enemy, scales with SPR (Drain) (Power:40-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Forced Apology
--Increases an enemy loafing chances, making them unable to act sometimes (TIERS NOT AVAILABLE YET)
+-Increases an enemy loafing chances, making them unable to act sometimes (Tier:2)
 
 
 Sunk'nsoul
@@ -24672,7 +24672,7 @@ Medallium Nº: 644
 -Attacks an enemy, scales with SPR (Drain) (Power:25-87)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Sink'n Feelin'
--Reduces an enemy SPD (TIERS NOT AVAILABLE YET)
+-Reduces an enemy SPD (Tier:2)
 
 
 Crummy Mum.
@@ -24712,7 +24712,7 @@ Medallium Nº: 645
 -Attacks an enemy, scales with SPR (Drain) (Power:40-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Crummy Curse
--Confuses an enemy, making them attack their own allies sometimes (TIERS NOT AVAILABLE YET)
+-Confuses an enemy, making them attack their own allies sometimes (Tier:2)
 
 
 Kaped Koma.
@@ -24750,7 +24750,7 @@ Medallium Nº: 646
 -Attacks an enemy, scales with SPR (Drain) (Power:55-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Midnight Malady
--An enemy loses HP on their turns (TIERS NOT AVAILABLE YET)
+-An enemy loses HP on their turns (Tier:2)
 
 
 Tofupyon
@@ -24788,7 +24788,7 @@ Medallium Nº: 647
 •Technique: Heal
 -Heals an ally, scales with SPR (Power:30-105)
 •Inspirit: Darn Tofootin'
--Increases an ally stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Increases an ally stats (STR, SPR, DEF and SPD) (Tier:1)
 
 
 Ed Zoff
@@ -24825,7 +24825,7 @@ Medallium Nº: 648
 -Attacks an enemy, scales with SPR (Drain) (Power:25-87)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Pincushion
--Reduces an enemy DEF (TIERS NOT AVAILABLE YET)
+-Reduces an enemy DEF (Tier:2)
 
 
 Gorgeous Amb.
@@ -24861,7 +24861,7 @@ Medallium Nº: 649
 •Technique: Voltage
 -Attacks an enemy, scales with SPR (Lightning) (Power:70-112)
 •Inspirit: Simply Gorgeous
--Reduces an enemy DEF (TIERS NOT AVAILABLE YET)
+-Reduces an enemy DEF (Tier:2)
 
 
 Hinozall
@@ -24897,7 +24897,7 @@ Medallium Nº: 650
 •Technique: Voltage
 -Attacks an enemy, scales with SPR (Lightning) (Power:70-112)
 •Inspirit: That Eureka Moment
--Increases an ally stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Increases an ally stats (STR, SPR, DEF and SPD) (Tier:2)
 
 
 Zazel
@@ -24935,7 +24935,7 @@ Medallium Nº: 651
 -Attacks an enemy, scales with SPR (Drain) (Power:55-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Arrest Momentum
-Makes the enemy unable to move around the grid (TIERS NOT AVAILABLE YET)
+-Makes the enemy unable to move around the grid (Tier:1)
 
 
 Procrastino.
@@ -24976,7 +24976,7 @@ Medallium Nº: 652
 -Attacks an enemy, scales with SPR (Drain) (Power:40-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Procrastination
--Increases an enemy loafing chances, making them unable to act sometimes (TIERS NOT AVAILABLE YET)
+-Increases an enemy loafing chances, making them unable to act sometimes (Tier:2)
 
 
 Treasure Pest
@@ -25016,7 +25016,7 @@ Medallium Nº: 653
 -Attacks an enemy, scales with SPR (Drain) (Power:40-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Treasure Trapped!
--Reduces an enemy DEF (TIERS NOT AVAILABLE YET)
+-Reduces an enemy DEF (Tier:2)
 
 
 J. Ne-Sais-Quoi
@@ -25053,7 +25053,7 @@ Medallium Nº: 654
 -Attacks an enemy, scales with SPR (Drain) (Power:55-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Chic Compulsion
--Reduces an enemy DEF (TIERS NOT AVAILABLE YET)
+-Reduces an enemy DEF (Tier:3)
 
 
 Whi. Kongming
@@ -25092,7 +25092,7 @@ Medallium Nº: 655
 -Attacks an enemy, scales with SPR (Drain) (Power:55-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Kongming Whisdom
--Increases an ally SPD (TIERS NOT AVAILABLE YET)
+-Increases an ally SPD (Tier:1)
 
 
 Jurojin
@@ -25129,7 +25129,7 @@ Medallium Nº: 656
 -Attacks an enemy, scales with SPR (Drain) (Power:55-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Jurojin's Curse
--An enemy loses HP on their turns (TIERS NOT AVAILABLE YET)
+-An enemy loses HP on their turns (Tier:2)
 
 
 Fukurokuju
@@ -25165,7 +25165,7 @@ Medallium Nº: 657
 •Technique: Paradise
 -Heals an ally, scales with SPR (Power:70-112)
 •Inspirit: Fukurokuju's Favor
--An ally recovers HP on their turns (TIERS NOT AVAILABLE YET)
+-An ally recovers HP on their turns (Tier:2)
 
 
 Sarchopha.
@@ -25201,7 +25201,7 @@ Medallium Nº: 658
 •Technique: Voltage
 -Attacks an enemy, scales with SPR (Lightning) (Power:70-112)
 •Inspirit: Gilded Guard
--Increases an ally DEF (TIERS NOT AVAILABLE YET)
+-Increases an ally DEF (Tier:1)
 
 
 King Deadward
@@ -25237,7 +25237,7 @@ Medallium Nº: 659
 •Technique: Pebble
 -Attacks an enemy, scales with SPR (Earth) (Power:30-105)
 •Inspirit: Alloyed Powers
--Increases an ally DEF (TIERS NOT AVAILABLE YET)
+-Increases an ally DEF (Tier:1)
 
 
 Pandora
@@ -25274,7 +25274,7 @@ Medallium Nº: 660
 -Attacks an enemy, scales with SPR (Drain) (Power:55-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Forbidden Power
--Reduces an enemy DEF (TIERS NOT AVAILABLE YET)
+-Reduces an enemy DEF (Tier:1)
 
 
 Comic Genieus
@@ -25310,7 +25310,7 @@ Medallium Nº: 661
 •Technique: Tornado
 -Attacks an enemy, scales with SPR (Wind) (Power:50-110)
 •Inspirit: Catlike Reflexes
--Increases an ally DEF (TIERS NOT AVAILABLE YET)
+-Increases an ally DEF (Tier:1)
 
 
 Bastnetnyan
@@ -25348,7 +25348,7 @@ Medallium Nº: 662
 -Attacks an enemy, scales with SPR (Drain) (Power:55-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Divine Defense
--Increases an ally DEF (TIERS NOT AVAILABLE YET)
+-Increases an ally DEF (Tier:2)
 
 
 Komanubis
@@ -25386,7 +25386,7 @@ Medallium Nº: 663
 -Attacks an enemy, scales with SPR (Drain) (Power:55-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Swirly Scourge
--An enemy loses HP on their turns (TIERS NOT AVAILABLE YET)
+-An enemy loses HP on their turns (Tier:2)
 
 
 Gabby
@@ -25422,7 +25422,7 @@ Medallium Nº: 664
 •Technique: Storm
 -Attacks an enemy, scales with SPR (Wind) (Power:70-112)
 •Inspirit: Rousing Rally
--Increases an ally stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Increases an ally stats (STR, SPR, DEF and SPD) (Tier:1)
 
 
 Teducator
@@ -25460,7 +25460,7 @@ Medallium Nº: 665
 -Attacks an enemy, scales with SPR (Drain) (Power:55-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Trivialize
--Increases an enemy loafing chances, making them unable to act sometimes (TIERS NOT AVAILABLE YET)
+-Increases an enemy loafing chances, making them unable to act sometimes (Tier:2)
 
 
 Gentlemutt
@@ -25497,7 +25497,7 @@ Medallium Nº: 666
 •Technique: Blizzard
 -Attacks an enemy, scales with SPR (Ice) (Power:70-112)
 •Inspirit: Dandify
--Reduces an enemy DEF (TIERS NOT AVAILABLE YET)
+-Reduces an enemy DEF (Tier:2)
 
 
 City Licker
@@ -25533,7 +25533,7 @@ Medallium Nº: 667
 •Technique: Blaze
 -Attacks an enemy, scales with SPR (Fire) (Power:50-110)
 •Inspirit: City Snobbery
--Reduces an enemy DEF (TIERS NOT AVAILABLE YET)
+-Reduces an enemy DEF (Tier:1)
 
 
 Whyvern King
@@ -25569,7 +25569,7 @@ Medallium Nº: 668
 •Technique: Blizzard
 -Attacks an enemy, scales with SPR (Ice) (Power:70-112)
 •Inspirit: Whyvern Wind
--Increases an ally stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Increases an ally stats (STR, SPR, DEF and SPD) (Tier:1)
 
 
 Lord Enma
@@ -25603,7 +25603,7 @@ Medallium Nº: 669
 •Technique: Incinerate
 -Attacks an enemy, scales with SPR (Fire) (Power:70-112)
 •Inspirit: Lord Enma's Favor
--Increases an ally stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Increases an ally stats (STR, SPR, DEF and SPD) (Tier:2)
 
 
 Rgt. Zazel
@@ -25637,7 +25637,7 @@ Medallium Nº: 670
 •Technique: Paradise
 -Heals an ally, scales with SPR (Power:70-112)
 •Inspirit: Dashingly Divine
--An ally recovers HP on their turns (TIERS NOT AVAILABLE YET)
+-An ally recovers HP on their turns (Tier:2)
 
 
 Hinozall Awk.
@@ -25671,7 +25671,7 @@ Medallium Nº: 671
 •Technique: Voltage
 -Attacks an enemy, scales with SPR (Lightning) (Power:70-112)
 •Inspirit: That Eureka Moment
--Increases an ally stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Increases an ally stats (STR, SPR, DEF and SPD) (Tier:2)
 
 
 Ancient Enma
@@ -25706,7 +25706,7 @@ Medallium Nº: 672
 •Technique: Incinerate
 -Attacks an enemy, scales with SPR (Fire) (Power:70-112)
 •Inspirit: Power of Enma
--Increases an ally STR (TIERS NOT AVAILABLE YET)
+-Increases an ally STR (Tier:2)
 
 
 Enma Awk.
@@ -25740,7 +25740,7 @@ Medallium Nº: 673
 •Technique: Voltage
 -Attacks an enemy, scales with SPR (Lightning) (Power:70-112)
 •Inspirit: Awaken
--Increases an ally stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Increases an ally stats (STR, SPR, DEF and SPD) (Tier:2)
 
 
 The Boracle
@@ -25777,7 +25777,7 @@ Medallium Nº: 674
 •Technique: Blizzard
 -Attacks an enemy, scales with SPR (Ice) (Power:70-112)
 •Inspirit: False Fortunes
--Reduces an enemy DEF (TIERS NOT AVAILABLE YET)
+-Reduces an enemy DEF (Tier:1)
 
 
 Rampajah
@@ -25814,7 +25814,7 @@ Medallium Nº: 675
 •Technique: Incinerate
 -Attacks an enemy, scales with SPR (Fire) (Power:70-112)
 •Inspirit: Focused Rage
--Increases an ally STR (TIERS NOT AVAILABLE YET)
+-Increases an ally STR (Tier:1)
 
 
 Cymbalina
@@ -25852,7 +25852,7 @@ Medallium Nº: 676
 •Technique: Restore
 -Heals an ally, scales with SPR (Power:50-110)
 •Inspirit: Resonant Rhythm
--Increases an ally SPR (TIERS NOT AVAILABLE YET)
+-Increases an ally SPR (Tier:1)
 
 
 Mumbles
@@ -25889,7 +25889,7 @@ Medallium Nº: 677
 •Technique: Waterfall
 -Attacks an enemy, scales with SPR (Water) (Power:70-112)
 •Inspirit: Breathe In...
--Increases an ally DEF (TIERS NOT AVAILABLE YET)
+-Increases an ally DEF (Tier:1)
 
 
 Roary
@@ -25926,7 +25926,7 @@ Medallium Nº: 678
 •Technique: Incinerate
 -Attacks an enemy, scales with SPR (Fire) (Power:70-112)
 •Inspirit: Breathe Out!
--Increases an ally STR (TIERS NOT AVAILABLE YET)
+-Increases an ally STR (Tier:1)
 
 
 Letsbifrenz
@@ -25964,7 +25964,7 @@ Medallium Nº: 679
 -Attacks an enemy, scales with SPR (Drain) (Power:55-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Just Gotta Shout!
--Reduces an enemy DEF (TIERS NOT AVAILABLE YET)
+-Reduces an enemy DEF (Tier:1)
 
 
 Wack o' Lantern
@@ -26002,7 +26002,7 @@ Medallium Nº: 680
 •Technique: Blaze
 -Attacks an enemy, scales with SPR (Fire) (Power:50-110)
 •Inspirit: Frightful Flash
--Reduces an enemy STR (TIERS NOT AVAILABLE YET)
+-Reduces an enemy STR (Tier:1)
 
 
 Moolinda
@@ -26039,7 +26039,7 @@ Medallium Nº: 681
 •Technique: Meteor
 -Attacks an enemy, scales with SPR (Earth) (Power:70-112)
 •Inspirit: Abyssal Addle
--Reduces an enemy SPR (TIERS NOT AVAILABLE YET)
+-Reduces an enemy SPR (Tier:1)
 
 
 Neighthan
@@ -26076,7 +26076,7 @@ Medallium Nº: 682
 •Technique: Blizzard
 -Attacks an enemy, scales with SPR (Ice) (Power:70-112)
 •Inspirit: Infernal Immobility
--Increases an enemy loafing chances, making them unable to act sometimes (TIERS NOT AVAILABLE YET)
+-Increases an enemy loafing chances, making them unable to act sometimes (Tier:1)
 
 
 Big Fish
@@ -26113,7 +26113,7 @@ Medallium Nº: 683
 •Technique: Waterfall
 -Attacks an enemy, scales with SPR (Water) (Power:70-112)
 •Inspirit: Ocean Guard
--An ally recovers HP on their turns (TIERS NOT AVAILABLE YET)
+-An ally recovers HP on their turns (Tier:2)
 
 
 Alpina
@@ -26149,7 +26149,7 @@ Medallium Nº: 684
 •Technique: Paradise
 -Heals an ally, scales with SPR (Power:70-112)
 •Inspirit: Alpine Guard
--An ally recovers HP on their turns (TIERS NOT AVAILABLE YET)
+-An ally recovers HP on their turns (Tier:2)
 
 
 Lunie
@@ -26185,7 +26185,7 @@ Medallium Nº: 685
 •Technique: Voltage
 -Attacks an enemy, scales with SPR (Lightning) (Power:70-112)
 •Inspirit: Lunar Guard
--Increases an ally stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Increases an ally stats (STR, SPR, DEF and SPD) (Tier:1)
 
 
 Blizzie
@@ -26221,7 +26221,7 @@ Medallium Nº: 686
 •Technique: Blizzard
 -Attacks an enemy, scales with SPR (Ice) (Power:70-112)
 •Inspirit: I'm Too Blizzy!
--Confuses an enemy, making them attack their own allies sometimes (TIERS NOT AVAILABLE YET)
+-Confuses an enemy, making them attack their own allies sometimes (Tier:1)
 
 
 KJ
@@ -26259,7 +26259,7 @@ Medallium Nº: 687
 •Technique: Lightning
 -Attacks an enemy, scales with SPR (Lightning) (Power:50-110)
 •Inspirit: Feel da Beat!
--Increases an ally stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Increases an ally stats (STR, SPR, DEF and SPD) (Tier:1)
 
 
 Solar Enma
@@ -26293,7 +26293,7 @@ Medallium Nº: 688
 •Technique: Incinerate
 -Attacks an enemy, scales with SPR (Fire) (Power:70-112)
 •Inspirit: Radiant Rapture
--Increases an ally STR (TIERS NOT AVAILABLE YET)
+-Increases an ally STR (Tier:2)
 
 
 Infinite Enma
@@ -26328,7 +26328,7 @@ Medallium Nº: 689
 •Technique: Voltage
 -Attacks an enemy, scales with SPR (Lightning) (Power:70-112)
 •Inspirit: Stitch in Time
--Increases an ally SPD (TIERS NOT AVAILABLE YET)
+-Increases an ally SPD (Tier:2)
 
 
 Umbral Enma
@@ -26363,7 +26363,7 @@ Medallium Nº: 690
 -Attacks an enemy, scales with SPR (Drain) (Power:55-88)
 -Heals the user a 25.0% of the damage dealt
 •Inspirit: Penumbral Power
--Increases an ally stats (STR, SPR, DEF and SPD) (TIERS NOT AVAILABLE YET)
+-Increases an ally stats (STR, SPR, DEF and SPD) (Tier:2)
 
 
 Indiana Jaws
@@ -26400,7 +26400,7 @@ Medallium Nº: 691
 •Technique: Rapids
 -Attacks an enemy, scales with SPR (Water) (Power:50-110)
 •Inspirit: Spirit of Adventure
--Increases an ally SPD (TIERS NOT AVAILABLE YET)
+-Increases an ally SPD (Tier:1)
 
 
 Shovulcan
@@ -26438,7 +26438,7 @@ Medallium Nº: 692
 •Technique: Voltage
 -Attacks an enemy, scales with SPR (Lightning) (Power:70-112)
 •Inspirit: Dig Long & Prosper
--Increases an enemy loafing chances, making them unable to act sometimes (TIERS NOT AVAILABLE YET)
+-Increases an enemy loafing chances, making them unable to act sometimes (Tier:1)
 
 
 Zomboy
@@ -26475,7 +26475,7 @@ Medallium Nº: 693
 •Technique: Fire
 -Attacks an enemy, scales with SPR (Fire) (Power:30-105)
 •Inspirit: Zombify
--Reduces an enemy DEF (TIERS NOT AVAILABLE YET)
+-Reduces an enemy DEF (Tier:2)
 
 
 Nyanses II
@@ -26512,7 +26512,7 @@ Medallium Nº: 694
 •Technique: Paradise
 -Heals an ally, scales with SPR (Power:70-112)
 •Inspirit: Infantilize
--Reduces an enemy STR (TIERS NOT AVAILABLE YET)
+-Reduces an enemy STR (Tier:2)
 
 
 Meopatra
@@ -26548,7 +26548,7 @@ Medallium Nº: 695
 •Technique: Paradise
 -Heals an ally, scales with SPR (Power:70-112)
 •Inspirit: Spiteful Sphinx
--Confuses an enemy, making them attack their own allies sometimes (TIERS NOT AVAILABLE YET)
+-Confuses an enemy, making them attack their own allies sometimes (Tier:1)
 
 
 Fitwit
@@ -26584,7 +26584,7 @@ Medallium Nº: 696
 •Technique: Pebble
 -Attacks an enemy, scales with SPR (Earth) (Power:30-105)
 •Inspirit: Clown Around
--Reduces an enemy SPD (TIERS NOT AVAILABLE YET)
+-Reduces an enemy SPD (Tier:2)
 
 
 El Dorago
@@ -26620,7 +26620,7 @@ Medallium Nº: 697
 •Technique: Shock
 -Attacks an enemy, scales with SPR (Lightning) (Power:30-105)
 •Inspirit: Treasure Transfixion
--Inspirits an enemy, making them drop money and lose their turns (TIERS NOT AVAILABLE YET)
+-Inspirits an enemy, making them drop money and lose their turns (Tier:1)
 
 
 The Hinix
@@ -26657,5 +26657,5 @@ Medallium Nº: 698
 •Technique: Incinerate
 -Attacks an enemy, scales with SPR (Fire) (Power:70-112)
 •Inspirit: Hinix Flame
--An enemy loses HP on their turns (TIERS NOT AVAILABLE YET)
+-An enemy loses HP on their turns (Tier:2)
 
