@@ -7217,7 +7217,7 @@ Medallium Nº: 156
 Chilled Cowcao
 Medallium Nº: 156
 •Soultimate: Celebrated Cowcao (Lv1 Charge:100 Lv10 Charge:75)
-"-Heals all active allies, scales with SPR (Power:30)
+-Heals all active allies, scales with SPR (Power:30)
 -All active allies recovers HP on their turns (Tier:1)
 Stircrazy Stu
 Medallium Nº: 157 
@@ -14121,7 +14121,7 @@ Medallium Nº: 307
 Bumblejack
 Medallium Nº: 307
 •Soultimate: Probing Cure (Lv1 Charge:100 Lv10 Charge:75)
-"-Heals all active allies, scales with SPR (Power:30)
+-Heals all active allies, scales with SPR (Power:30)
 -All active allies recovers HP on their turns (Tier:1)
 In-Tune
 Medallium Nº: 308 
@@ -16142,7 +16142,7 @@ Medallium Nº: 352
 Greengramps
 Medallium Nº: 352
 •Soultimate: Recycled HP (Lv1 Charge:150 Lv10 Charge:105)
-"-Heals all active allies, scales with SPR (Power:45)
+-Heals all active allies, scales with SPR (Power:45)
 -All active allies recovers HP on their turns (Tier:1)
 Right Brothers
 Medallium Nº: 353 
@@ -17731,7 +17731,7 @@ Medallium Nº: 388
 Retreeter
 Medallium Nº: 388
 •Soultimate: #worldpeace (Lv1 Charge:200 Lv10 Charge:140)
-"-Heals all active allies, scales with SPR (Power:45)
+-Heals all active allies, scales with SPR (Power:45)
 -All active allies recovers HP on their turns (Tier:1)
 Negatibuzz
 Medallium Nº: 389 
@@ -18383,7 +18383,7 @@ Medallium Nº: 403
 Belfree
 Medallium Nº: 403
 •Soultimate: Belfree Blues (Lv1 Charge:200 Lv10 Charge:130)
--Increases all active enemies loafing chances, making them unable to act sometimes (Tier:3) (x0.0 Precision)
+-Increases all active enemies loafing chances, making them unable to act sometimes (Tier:3) (x2 Precision)
 Yoink
 Medallium Nº: 404 
 Tribe:Shady Rank: D 
@@ -19683,7 +19683,7 @@ Negasus
 Medallium Nº: 431
 •Soultimate: Negasus Curse (Lv1 Charge:200 Lv10 Charge:130)
 -Attacks all active enemies in the soultimate range, scales with SPR (Power:95)
--Reduces all active enemies ally STR (Tier:2) (x0.0 Precision)
+-Reduces all active enemies ally STR (Tier:2) (x2 Precision)
 •Soultimate Range:
 ⬜🟥⬜
 ⬜🟥⬜
@@ -19732,7 +19732,7 @@ Neighfarious
 Medallium Nº: 432
 •Soultimate: Dark Horse (Lv1 Charge:200 Lv10 Charge:130)
 -Attacks all active enemies in the soultimate range, scales with SPR (Power:95)
--Reduces all active enemies DEF (Tier:2) (x0.0 Precision)
+-Reduces all active enemies DEF (Tier:2) (x2 Precision)
 •Soultimate Range:
 ⬜🟥⬜
 ⬜🟥⬜
@@ -20061,7 +20061,7 @@ Greesel
 Medallium Nº: 439
 •Soultimate: Stingy Curse (Lv1 Charge:200 Lv10 Charge:130)
 -Attacks all active enemies in the soultimate range, scales with SPR (Power:100)
--All active enemies lose HP on their turns (Tier:2) (x0.0 Precision)
+-All active enemies lose HP on their turns (Tier:2) (x2 Precision)
 •Soultimate Range:
 🟥🟥🟥
 ⬜⬜⬜
@@ -20108,7 +20108,7 @@ Awevil
 Medallium Nº: 440
 •Soultimate: Pitch-Black Curse (Lv1 Charge:250 Lv10 Charge:162)
 -Attacks all active enemies in the soultimate range, scales with SPR (Power:100)
-"-Increases all active enemies loafing chances, making them unable to act sometimes" (Tier:2) (x0.0 Precision)
+"-Increases all active enemies loafing chances, making them unable to act sometimes" (Tier:2) (x2 Precision)
 •Soultimate Range:
 🟥🟥🟥
 ⬜⬜⬜
@@ -21223,7 +21223,7 @@ Skreek
 Medallium Nº: 464
 •Soultimate: Meet the Reaper (Lv1 Charge:200 Lv10 Charge:130)
 -Attacks all active enemies in the soultimate range, scales with SPR (Power:95)
--Reduces all active enemies ally stats (STR, SPR, DEF and SPD) (Tier:2) (x0.0 Precision)
+-Reduces all active enemies ally stats (STR, SPR, DEF and SPD) (Tier:2) (x2 Precision)
 •Soultimate Range:
 ⬜🟥⬜
 ⬜🟥⬜
@@ -27359,7 +27359,7 @@ Medallium Nº: 599
 Ebisu
 Medallium Nº: 599
 •Soultimate: Sumptuous Soothe (Lv1 Charge:250 Lv10 Charge:162)
-"-Heals all active allies, scales with SPR (Power:60)
+-Heals all active allies, scales with SPR (Power:60)
 -All active allies recovers HP on their turns (Tier:1)
 Bishamonten
 Medallium Nº: 600 
